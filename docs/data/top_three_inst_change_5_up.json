@@ -147,6 +147,13 @@
     "change": 0.0
   },
   {
+    "code": "00643K",
+    "name": "群益深証中小+R",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
     "code": "00645",
     "name": "富邦日本",
     "market": "TWSE",
@@ -380,13 +387,6 @@
   {
     "code": "00683L",
     "name": "期元大美元指正2",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "00684R",
-    "name": "期元大美元指反1",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1281,15 +1281,8 @@
     "change": 0.0
   },
   {
-    "code": "01001T",
-    "name": "土銀富邦R1",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "01009T",
-    "name": "王道圓滿R1",
+    "code": "01004T",
+    "name": "土銀富邦R2",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1311,6 +1304,13 @@
   {
     "code": "1101",
     "name": "台泥",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "1101B",
+    "name": "台泥乙特",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0

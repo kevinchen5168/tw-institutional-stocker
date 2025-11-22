@@ -385,13 +385,6 @@
     "change": 0.0
   },
   {
-    "code": "00684R",
-    "name": "期元大美元指反1",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
     "code": "00685L",
     "name": "群益臺灣加權正2",
     "market": "TWSE",
@@ -1290,6 +1283,13 @@
   {
     "code": "1101",
     "name": "台泥",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "1101B",
+    "name": "台泥乙特",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
