@@ -14,6 +14,13 @@
     "change": 0.0
   },
   {
+    "code": "0052",
+    "name": "富邦科技",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
     "code": "0053",
     "name": "元大電子",
     "market": "TWSE",
@@ -1388,13 +1395,6 @@
   {
     "code": "1219",
     "name": "福壽",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "1220",
-    "name": "台榮",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0

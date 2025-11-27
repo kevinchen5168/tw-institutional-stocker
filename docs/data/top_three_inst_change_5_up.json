@@ -14,6 +14,13 @@
     "change": 0.0
   },
   {
+    "code": "0052",
+    "name": "富邦科技",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
     "code": "0053",
     "name": "元大電子",
     "market": "TWSE",
@@ -142,6 +149,13 @@
   {
     "code": "00643",
     "name": "群益深証中小",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "00643K",
+    "name": "群益深証中小+R",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -471,6 +485,13 @@
   {
     "code": "00706L",
     "name": "期元大S&P日圓正2",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "00707R",
+    "name": "期元大S&P日圓反1",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1281,8 +1302,8 @@
     "change": 0.0
   },
   {
-    "code": "01002T",
-    "name": "土銀國泰R1",
+    "code": "01009T",
+    "name": "王道圓滿R1",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1304,6 +1325,13 @@
   {
     "code": "02001R",
     "name": "富邦蘋果反一N",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "02001S",
+    "name": "策元大加權策略N",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1367,34 +1395,6 @@
   {
     "code": "1203",
     "name": "味王",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "1210",
-    "name": "大成",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "1215",
-    "name": "卜蜂",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "1216",
-    "name": "統一",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "1217",
-    "name": "愛之味",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
