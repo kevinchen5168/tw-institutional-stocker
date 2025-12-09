@@ -636,5 +636,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 88.32168404170008,
     "three_inst_ratio_change_20": 0.2357097032878812
+  },
+  {
+    "date": "2025-12-08",
+    "code": "6890",
+    "name": "來億-KY",
+    "market": "TWSE",
+    "foreign_ratio": 87.7,
+    "trust_ratio": 0.6463512429831596,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 88.34635124298316,
+    "three_inst_ratio_change_20": 0.28817161186847784
   }
 ]

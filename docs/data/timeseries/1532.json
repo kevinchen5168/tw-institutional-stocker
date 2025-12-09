@@ -636,5 +636,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.438757806543798,
     "three_inst_ratio_change_20": 1.0950528851375498
+  },
+  {
+    "date": "2025-12-08",
+    "code": "1532",
+    "name": "勤美",
+    "market": "TWSE",
+    "foreign_ratio": 9.35,
+    "trust_ratio": 0.05843835875477936,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.408438358754779,
+    "three_inst_ratio_change_20": 1.0347334373485317
   }
 ]

@@ -636,5 +636,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.22,
     "three_inst_ratio_change_20": -0.09999999999999964
+  },
+  {
+    "date": "2025-12-08",
+    "code": "2462",
+    "name": "良得電",
+    "market": "TWSE",
+    "foreign_ratio": 2.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.18,
+    "three_inst_ratio_change_20": -0.1499999999999999
   }
 ]

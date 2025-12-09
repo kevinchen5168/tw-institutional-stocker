@@ -636,5 +636,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 41.79,
     "three_inst_ratio_change_20": 1.6700000000000017
+  },
+  {
+    "date": "2025-12-08",
+    "code": "3530",
+    "name": "晶相光",
+    "market": "TWSE",
+    "foreign_ratio": 41.88,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.88,
+    "three_inst_ratio_change_20": 1.720000000000006
   }
 ]

@@ -636,5 +636,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.85,
     "three_inst_ratio_change_20": 0.5999999999999996
+  },
+  {
+    "date": "2025-12-08",
+    "code": "6668",
+    "name": "中揚光",
+    "market": "TWSE",
+    "foreign_ratio": 10.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.81,
+    "three_inst_ratio_change_20": 0.4400000000000013
   }
 ]

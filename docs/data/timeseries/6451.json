@@ -636,5 +636,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 63.91,
     "three_inst_ratio_change_20": 1.0499999999999972
+  },
+  {
+    "date": "2025-12-08",
+    "code": "6451",
+    "name": "訊芯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 64.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 64.14,
+    "three_inst_ratio_change_20": 1.3699999999999974
   }
 ]

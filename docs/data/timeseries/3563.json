@@ -636,5 +636,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.81815822045414,
     "three_inst_ratio_change_20": -1.3145891206720268
+  },
+  {
+    "date": "2025-12-08",
+    "code": "3563",
+    "name": "牧德",
+    "market": "TWSE",
+    "foreign_ratio": 9.49,
+    "trust_ratio": 2.097689183594129,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.58768918359413,
+    "three_inst_ratio_change_20": -1.9802848805559243
   }
 ]

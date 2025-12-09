@@ -636,5 +636,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.86,
     "three_inst_ratio_change_20": 0.18000000000000016
+  },
+  {
+    "date": "2025-12-08",
+    "code": "1618",
+    "name": "合機",
+    "market": "TWSE",
+    "foreign_ratio": 1.96,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.96,
+    "three_inst_ratio_change_20": 0.32000000000000006
   }
 ]

@@ -636,5 +636,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.939323902371104,
     "three_inst_ratio_change_20": -4.586609106310263
+  },
+  {
+    "date": "2025-12-08",
+    "code": "2409",
+    "name": "友達",
+    "market": "TWSE",
+    "foreign_ratio": 16.39,
+    "trust_ratio": 0.5088223056630137,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.898822305663014,
+    "three_inst_ratio_change_20": -4.927588568753698
   }
 ]

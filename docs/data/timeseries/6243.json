@@ -636,5 +636,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5,
     "three_inst_ratio_change_20": 0.2999999999999998
+  },
+  {
+    "date": "2025-12-08",
+    "code": "6243",
+    "name": "迅杰",
+    "market": "TWSE",
+    "foreign_ratio": 2.59,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.59,
+    "three_inst_ratio_change_20": 0.36999999999999966
   }
 ]

@@ -636,5 +636,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.33,
     "three_inst_ratio_change_20": 0.16999999999999993
+  },
+  {
+    "date": "2025-12-08",
+    "code": "1103",
+    "name": "嘉泥",
+    "market": "TWSE",
+    "foreign_ratio": 4.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.33,
+    "three_inst_ratio_change_20": 0.1299999999999999
   }
 ]
