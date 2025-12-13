@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.902758452977384,
     "three_inst_ratio_change_20": -1.9851746268709896
+  },
+  {
+    "date": "2025-12-12",
+    "code": "2347",
+    "name": "聯強",
+    "market": "TWSE",
+    "foreign_ratio": 25.82,
+    "trust_ratio": 1.0348564631342645,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.854856463134265,
+    "three_inst_ratio_change_20": -2.031377461972159
   }
 ]

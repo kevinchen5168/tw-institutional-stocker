@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.5174154746394533,
     "three_inst_ratio_change_20": -3.8325845253605464
+  },
+  {
+    "date": "2025-12-12",
+    "code": "4916",
+    "name": "事欣科",
+    "market": "TWSE",
+    "foreign_ratio": 1.69,
+    "trust_ratio": 0.6374154746394534,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.3274154746394533,
+    "three_inst_ratio_change_20": -4.812584525360546
   }
 ]

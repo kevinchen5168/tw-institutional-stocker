@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.585843102715,
     "three_inst_ratio_change_20": -0.06328772248649983
+  },
+  {
+    "date": "2025-12-12",
+    "code": "2731",
+    "name": "雄獅",
+    "market": "TWSE",
+    "foreign_ratio": 26.63,
+    "trust_ratio": 0.8158431027150004,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.445843102715,
+    "three_inst_ratio_change_20": -0.9711614684399663
   }
 ]

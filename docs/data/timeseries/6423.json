@@ -658,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.23,
     "three_inst_ratio_change_20": -0.06000000000000005
+  },
+  {
+    "date": "2025-12-12",
+    "code": "6423",
+    "name": "億而得-創",
+    "market": "TWSE",
+    "foreign_ratio": 2.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.24,
+    "three_inst_ratio_change_20": -0.04999999999999982
   }
 ]

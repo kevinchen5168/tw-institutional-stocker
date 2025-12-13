@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.2909921431028275,
     "three_inst_ratio_change_20": -0.10458594178885328
+  },
+  {
+    "date": "2025-12-12",
+    "code": "2838",
+    "name": "聯邦銀",
+    "market": "TWSE",
+    "foreign_ratio": 3.98,
+    "trust_ratio": 0.3099784470973362,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.2899784470973366,
+    "three_inst_ratio_change_20": -0.11463201888001162
   }
 ]

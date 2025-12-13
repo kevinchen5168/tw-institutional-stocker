@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.90117056585476,
     "three_inst_ratio_change_20": -1.535933277555202
+  },
+  {
+    "date": "2025-12-12",
+    "code": "1605",
+    "name": "華新",
+    "market": "TWSE",
+    "foreign_ratio": 12.11,
+    "trust_ratio": 0.5878096569511031,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.697809656951103,
+    "three_inst_ratio_change_20": -0.07742416887786518
   }
 ]

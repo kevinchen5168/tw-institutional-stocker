@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.76820539754001,
     "three_inst_ratio_change_20": 2.2404949877256612
+  },
+  {
+    "date": "2025-12-12",
+    "code": "3010",
+    "name": "華立",
+    "market": "TWSE",
+    "foreign_ratio": 13.69,
+    "trust_ratio": 0.35358782558606555,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.043587825586066,
+    "three_inst_ratio_change_20": 2.1470646027082587
   }
 ]

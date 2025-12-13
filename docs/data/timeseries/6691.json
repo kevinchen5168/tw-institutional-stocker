@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.89688395022722,
     "three_inst_ratio_change_20": 1.9571168377898935
+  },
+  {
+    "date": "2025-12-12",
+    "code": "6691",
+    "name": "洋基工程",
+    "market": "TWSE",
+    "foreign_ratio": 18.69,
+    "trust_ratio": 0.9735576360141749,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.663557636014176,
+    "three_inst_ratio_change_20": 2.8921442597302587
   }
 ]

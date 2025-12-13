@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 42.89551852437546,
     "three_inst_ratio_change_20": -1.7056477655811975
+  },
+  {
+    "date": "2025-12-12",
+    "code": "3044",
+    "name": "健鼎",
+    "market": "TWSE",
+    "foreign_ratio": 42.37,
+    "trust_ratio": 0.5260431837848212,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.89604318378482,
+    "three_inst_ratio_change_20": -1.5801764341312605
   }
 ]

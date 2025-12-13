@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 36.82315621775689,
     "three_inst_ratio_change_20": -0.3317391541955743
+  },
+  {
+    "date": "2025-12-12",
+    "code": "3533",
+    "name": "嘉澤",
+    "market": "TWSE",
+    "foreign_ratio": 36.7,
+    "trust_ratio": 0.026071960334435894,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.72607196033444,
+    "three_inst_ratio_change_20": -0.6700073536435127
   }
 ]

@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.99231282051282,
     "three_inst_ratio_change_20": -1.6523076923076925
+  },
+  {
+    "date": "2025-12-12",
+    "code": "6491",
+    "name": "晶碩",
+    "market": "TWSE",
+    "foreign_ratio": 8.85,
+    "trust_ratio": 0.04231282051282051,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.89231282051282,
+    "three_inst_ratio_change_20": -1.7423076923076923
   }
 ]

@@ -680,5 +680,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.148390603493433,
     "three_inst_ratio_change_20": 0.008390603493432902
+  },
+  {
+    "date": "2025-12-12",
+    "code": "9930",
+    "name": "中聯資源",
+    "market": "TWSE",
+    "foreign_ratio": 2.14,
+    "trust_ratio": -0.0016093965065666917,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.1383906034934332,
+    "three_inst_ratio_change_20": 0.018390603493433133
   }
 ]
