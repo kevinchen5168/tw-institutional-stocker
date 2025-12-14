@@ -602,17 +602,17 @@
     "change": -1.550779918859222
   },
   {
-    "code": "6477",
-    "name": "安集",
-    "market": "TWSE",
-    "three_inst_ratio": 3.15,
-    "change": -1.5500000000000003
-  },
-  {
     "code": "2429",
     "name": "銘旺科",
     "market": "TWSE",
     "three_inst_ratio": 2.78,
+    "change": -1.5500000000000003
+  },
+  {
+    "code": "6477",
+    "name": "安集",
+    "market": "TWSE",
+    "three_inst_ratio": 3.15,
     "change": -1.5500000000000003
   },
   {
@@ -1106,17 +1106,17 @@
     "change": -0.8062368633310797
   },
   {
-    "code": "1312",
-    "name": "國喬",
-    "market": "TWSE",
-    "three_inst_ratio": 6.25,
-    "change": -0.7999999999999998
-  },
-  {
     "code": "8045",
     "name": "達運光電",
     "market": "TWSE",
     "three_inst_ratio": 2.2,
+    "change": -0.7999999999999998
+  },
+  {
+    "code": "1312",
+    "name": "國喬",
+    "market": "TWSE",
+    "three_inst_ratio": 6.25,
     "change": -0.7999999999999998
   },
   {
@@ -1169,17 +1169,17 @@
     "change": -0.75
   },
   {
-    "code": "2466",
-    "name": "冠西電",
-    "market": "TWSE",
-    "three_inst_ratio": 10.43,
-    "change": -0.75
-  },
-  {
     "code": "3605",
     "name": "宏致",
     "market": "TWSE",
     "three_inst_ratio": 14.676718409420621,
+    "change": -0.75
+  },
+  {
+    "code": "2466",
+    "name": "冠西電",
+    "market": "TWSE",
+    "three_inst_ratio": 10.43,
     "change": -0.75
   },
   {
@@ -1246,17 +1246,17 @@
     "change": -0.6935342415180195
   },
   {
-    "code": "6589",
-    "name": "台康生技",
-    "market": "TWSE",
-    "three_inst_ratio": 5.82,
-    "change": -0.6899999999999995
-  },
-  {
     "code": "2367",
     "name": "燿華",
     "market": "TWSE",
     "three_inst_ratio": 8.85,
+    "change": -0.6899999999999995
+  },
+  {
+    "code": "6589",
+    "name": "台康生技",
+    "market": "TWSE",
+    "three_inst_ratio": 5.82,
     "change": -0.6899999999999995
   },
   {
@@ -1330,17 +1330,17 @@
     "change": -0.647585450095324
   },
   {
-    "code": "2612",
-    "name": "中航",
-    "market": "TWSE",
-    "three_inst_ratio": 4.2959521717220746,
-    "change": -0.6400000000000006
-  },
-  {
     "code": "1809",
     "name": "中釉",
     "market": "TWSE",
     "three_inst_ratio": 3.84,
+    "change": -0.6400000000000006
+  },
+  {
+    "code": "2612",
+    "name": "中航",
+    "market": "TWSE",
+    "three_inst_ratio": 4.2959521717220746,
     "change": -0.6400000000000006
   },
   {

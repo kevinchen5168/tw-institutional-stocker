@@ -651,17 +651,17 @@
     "change": 1.04
   },
   {
-    "code": "2340",
-    "name": "台亞",
-    "market": "TWSE",
-    "three_inst_ratio": 8.25,
-    "change": 1.0199999999999996
-  },
-  {
     "code": "6658",
     "name": "聯策",
     "market": "TWSE",
     "three_inst_ratio": 4.22,
+    "change": 1.0199999999999996
+  },
+  {
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "three_inst_ratio": 8.25,
     "change": 1.0199999999999996
   },
   {
@@ -1155,17 +1155,17 @@
     "change": 0.53
   },
   {
-    "code": "2630",
-    "name": "亞航",
-    "market": "TWSE",
-    "three_inst_ratio": 3.77,
-    "change": 0.5299999999999998
-  },
-  {
     "code": "2009",
     "name": "第一銅",
     "market": "TWSE",
     "three_inst_ratio": 2.32,
+    "change": 0.5299999999999998
+  },
+  {
+    "code": "2630",
+    "name": "亞航",
+    "market": "TWSE",
+    "three_inst_ratio": 3.77,
     "change": 0.5299999999999998
   },
   {
@@ -1190,17 +1190,17 @@
     "change": 0.5200000000000014
   },
   {
-    "code": "7788",
-    "name": "松川精密",
-    "market": "TWSE",
-    "three_inst_ratio": 3.97,
-    "change": 0.5100000000000002
-  },
-  {
     "code": "00738U",
     "name": "期元大道瓊白銀",
     "market": "TWSE",
     "three_inst_ratio": 3.81,
+    "change": 0.5100000000000002
+  },
+  {
+    "code": "7788",
+    "name": "松川精密",
+    "market": "TWSE",
+    "three_inst_ratio": 3.97,
     "change": 0.5100000000000002
   },
   {
