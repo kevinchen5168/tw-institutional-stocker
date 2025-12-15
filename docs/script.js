@@ -200,18 +200,29 @@ async function loadRanking() {
 // ========== Broker Functions ==========
 
 async function loadBrokerRanking() {
+  console.log("loadBrokerRanking called");
   const tbody = document.querySelector("#brokerRankTable tbody");
+
+  if (!tbody) {
+    console.error("brokerRankTable tbody not found!");
+    return;
+  }
+
   tbody.innerHTML = "<tr><td colspan='6'>載入中...</td></tr>";
 
   try {
+    console.log("Fetching broker_ranking.json...");
     const data = await fetchJson("data/broker_ranking.json");
+    console.log("Received data:", data);
     tbody.innerHTML = "";
 
     if (!data.data || data.data.length === 0) {
+      console.log("No data.data found");
       tbody.innerHTML = "<tr><td colspan='6'>尚無券商數據</td></tr>";
       return;
     }
 
+    console.log(`Rendering ${data.data.length} brokers`);
     data.data.slice(0, 50).forEach((row, idx) => {
       const tr = document.createElement("tr");
 
@@ -243,11 +254,13 @@ async function loadBrokerRanking() {
       tr.appendChild(tdStocks);
       tbody.appendChild(tr);
     });
+    console.log("Broker ranking rendered successfully");
   } catch (err) {
-    console.error(err);
+    console.error("loadBrokerRanking error:", err);
     tbody.innerHTML = `<tr><td colspan='6'>載入失敗：${err.message}</td></tr>`;
   }
 }
+
 
 async function loadBrokerTrades() {
   const tbody = document.querySelector("#brokerTradesTable tbody");
