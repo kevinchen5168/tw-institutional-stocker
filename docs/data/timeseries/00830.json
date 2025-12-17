@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3953494967881217,
     "three_inst_ratio_change_20": -1.5628054942053522
+  },
+  {
+    "date": "2025-12-16",
+    "code": "00830",
+    "name": "國泰費城半導體",
+    "market": "TWSE",
+    "foreign_ratio": 2.15,
+    "trust_ratio": 0.07526984026302157,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.2252698402630213,
+    "three_inst_ratio_change_20": -1.7850212953534572
   }
 ]

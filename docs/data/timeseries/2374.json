@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.741139082213712,
     "three_inst_ratio_change_20": -0.629242510546467
+  },
+  {
+    "date": "2025-12-16",
+    "code": "2374",
+    "name": "佳能",
+    "market": "TWSE",
+    "foreign_ratio": 5.6,
+    "trust_ratio": 0.29113908221371176,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.891139082213711,
+    "three_inst_ratio_change_20": -0.3992425105464674
   }
 ]

@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 42.253255126049375,
     "three_inst_ratio_change_20": -0.07360120178902463
+  },
+  {
+    "date": "2025-12-16",
+    "code": "2421",
+    "name": "建準",
+    "market": "TWSE",
+    "foreign_ratio": 40.89,
+    "trust_ratio": 1.3227634829607264,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.212763482960725,
+    "three_inst_ratio_change_20": -0.42562596623877624
   }
 ]

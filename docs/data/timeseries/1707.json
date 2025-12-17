@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.42532102307498,
     "three_inst_ratio_change_20": 0.1205956793901013
+  },
+  {
+    "date": "2025-12-16",
+    "code": "1707",
+    "name": "葡萄王",
+    "market": "TWSE",
+    "foreign_ratio": 14.47,
+    "trust_ratio": -0.054678976925019454,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.41532102307498,
+    "three_inst_ratio_change_20": 0.1701721032274559
   }
 ]

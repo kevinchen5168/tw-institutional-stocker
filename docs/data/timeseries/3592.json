@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.490374922355382,
     "three_inst_ratio_change_20": -0.15471080608210208
+  },
+  {
+    "date": "2025-12-16",
+    "code": "3592",
+    "name": "瑞鼎",
+    "market": "TWSE",
+    "foreign_ratio": 13.81,
+    "trust_ratio": -0.41803448057751486,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.391965519422486,
+    "three_inst_ratio_change_20": -0.15810712843964048
   }
 ]

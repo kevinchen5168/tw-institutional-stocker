@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.324643740549263,
     "three_inst_ratio_change_20": 0.39238298192215737
+  },
+  {
+    "date": "2025-12-16",
+    "code": "2355",
+    "name": "敬鵬",
+    "market": "TWSE",
+    "foreign_ratio": 10.85,
+    "trust_ratio": 0.32362083568157846,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.173620835681579,
+    "three_inst_ratio_change_20": 0.20742605889647692
   }
 ]

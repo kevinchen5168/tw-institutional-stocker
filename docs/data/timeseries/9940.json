@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.35013571347628,
     "three_inst_ratio_change_20": -0.7800000000000002
+  },
+  {
+    "date": "2025-12-16",
+    "code": "9940",
+    "name": "信義",
+    "market": "TWSE",
+    "foreign_ratio": 4.34,
+    "trust_ratio": 0.0001357134762803379,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.34013571347628,
+    "three_inst_ratio_change_20": -0.7700000000000005
   }
 ]

@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.460214132533966,
     "three_inst_ratio_change_20": -0.03000000000000025
+  },
+  {
+    "date": "2025-12-16",
+    "code": "2608",
+    "name": "嘉里大榮",
+    "market": "TWSE",
+    "foreign_ratio": 4.44,
+    "trust_ratio": 0.00021413253396573465,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.440214132533966,
+    "three_inst_ratio_change_20": -0.040000000000000036
   }
 ]

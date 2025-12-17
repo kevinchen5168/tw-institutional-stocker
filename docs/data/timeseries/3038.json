@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.696707579239359,
     "three_inst_ratio_change_20": 0.0028796323770965415
+  },
+  {
+    "date": "2025-12-16",
+    "code": "3038",
+    "name": "全台",
+    "market": "TWSE",
+    "foreign_ratio": 7.64,
+    "trust_ratio": 0.0164000972684909,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.656400097268491,
+    "three_inst_ratio_change_20": 0.0025721504062286016
   }
 ]

@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.72,
     "three_inst_ratio_change_20": -0.20999999999999996
+  },
+  {
+    "date": "2025-12-16",
+    "code": "3686",
+    "name": "達能",
+    "market": "TWSE",
+    "foreign_ratio": 1.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.34,
+    "three_inst_ratio_change_20": -0.5599999999999998
   }
 ]

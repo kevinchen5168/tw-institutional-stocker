@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.341928098336369,
     "three_inst_ratio_change_20": -0.26462571754486497
+  },
+  {
+    "date": "2025-12-16",
+    "code": "6526",
+    "name": "達發",
+    "market": "TWSE",
+    "foreign_ratio": 6.91,
+    "trust_ratio": 0.3737177574422398,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.28371775744224,
+    "three_inst_ratio_change_20": -0.3119412288860586
   }
 ]

@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 59.96165365478403,
     "three_inst_ratio_change_20": -4.46844785247103
+  },
+  {
+    "date": "2025-12-16",
+    "code": "6409",
+    "name": "旭隼",
+    "market": "TWSE",
+    "foreign_ratio": 59.28,
+    "trust_ratio": 0.4808190993171854,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 59.76081909931719,
+    "three_inst_ratio_change_20": -4.490422511034652
   }
 ]

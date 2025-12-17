@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.58565809409534,
     "three_inst_ratio_change_20": 0.7199999999999989
+  },
+  {
+    "date": "2025-12-16",
+    "code": "5534",
+    "name": "長虹",
+    "market": "TWSE",
+    "foreign_ratio": 11.85,
+    "trust_ratio": 0.7956580940953404,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.64565809409534,
+    "three_inst_ratio_change_20": 0.7799999999999994
   }
 ]

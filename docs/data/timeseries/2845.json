@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.984789549390918,
     "three_inst_ratio_change_20": 0.057184131914684855
+  },
+  {
+    "date": "2025-12-16",
+    "code": "2845",
+    "name": "遠東銀",
+    "market": "TWSE",
+    "foreign_ratio": 9.91,
+    "trust_ratio": 0.0845429040111815,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.994542904011182,
+    "three_inst_ratio_change_20": 0.11693748653494929
   }
 ]

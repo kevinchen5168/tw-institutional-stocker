@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.76,
     "three_inst_ratio_change_20": -0.28
+  },
+  {
+    "date": "2025-12-16",
+    "code": "00916",
+    "name": "國泰全球品牌50",
+    "market": "TWSE",
+    "foreign_ratio": 1.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.75,
+    "three_inst_ratio_change_20": -0.31000000000000005
   }
 ]

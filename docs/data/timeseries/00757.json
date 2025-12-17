@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.048222795946747,
     "three_inst_ratio_change_20": 1.6938053936839803
+  },
+  {
+    "date": "2025-12-16",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.05,
+    "trust_ratio": -0.26069397010709144,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7893060298929084,
+    "three_inst_ratio_change_20": 1.3550693246468173
   }
 ]
