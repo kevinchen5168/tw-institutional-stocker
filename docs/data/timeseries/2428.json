@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.13562658060995503
   },
   {
+    "date": "2025-12-25",
+    "code": "2428",
+    "name": "興勤",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -16.152558285895815
+  },
+  {
     "date": "2025-12-26",
     "code": "2428",
     "name": "興勤",
@@ -789,7 +800,7 @@
     "trust_ratio": 2.596931705285859,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.08693170528586,
-    "three_inst_ratio_change_20": -0.06562658060995474
+    "three_inst_ratio_change_20": -0.10562658060995389
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 2.596931705285859,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.06693170528586,
-    "three_inst_ratio_change_20": -0.12562658060995346
+    "three_inst_ratio_change_20": -0.04889614447825963
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2428",
+    "name": "興勤",
+    "market": "TWSE",
+    "foreign_ratio": 13.47,
+    "trust_ratio": 2.575075953032176,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.045075953032175,
+    "three_inst_ratio_change_20": -0.3007518967319456
   }
 ]

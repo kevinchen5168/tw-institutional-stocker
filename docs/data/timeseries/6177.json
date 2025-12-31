@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.36171286176938544
   },
   {
+    "date": "2025-12-25",
+    "code": "6177",
+    "name": "達麗",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.087070640618903
+  },
+  {
     "date": "2025-12-26",
     "code": "6177",
     "name": "達麗",
     "market": "TWSE",
     "foreign_ratio": 6.39,
-    "trust_ratio": 1.358783502388288,
+    "trust_ratio": 1.3094063758725338,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.748783502388288,
-    "three_inst_ratio_change_20": 0.6617128617693853
+    "three_inst_ratio": 7.699406375872534,
+    "three_inst_ratio_change_20": 0.5523357352536307
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "達麗",
     "market": "TWSE",
     "foreign_ratio": 6.44,
-    "trust_ratio": 1.358783502388288,
+    "trust_ratio": 1.3094063758725338,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.7987835023882885,
-    "three_inst_ratio_change_20": 0.6517128617693855
+    "three_inst_ratio": 7.7494063758725344,
+    "three_inst_ratio_change_20": 0.6727595732494747
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6177",
+    "name": "達麗",
+    "market": "TWSE",
+    "foreign_ratio": 6.58,
+    "trust_ratio": 1.3094063758725338,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.889406375872534,
+    "three_inst_ratio_change_20": 0.8180177410998368
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.7529985636946188
   },
   {
+    "date": "2025-12-25",
+    "code": "6753",
+    "name": "龍德造船",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.259929289581262
+  },
+  {
     "date": "2025-12-26",
     "code": "6753",
     "name": "龍德造船",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.7769307258866424,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.8569307258866425,
-    "three_inst_ratio_change_20": -0.40299856369461917
+    "three_inst_ratio_change_20": -0.29299856369461885
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.7769307258866424,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.506930725886642,
-    "three_inst_ratio_change_20": -0.6429985636946194
+    "three_inst_ratio_change_20": -0.41299856369461985
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6753",
+    "name": "龍德造船",
+    "market": "TWSE",
+    "foreign_ratio": 3.89,
+    "trust_ratio": 0.7769307258866424,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.666930725886642,
+    "three_inst_ratio_change_20": -0.34299856369461956
   }
 ]

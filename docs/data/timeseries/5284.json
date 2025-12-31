@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.1410943029158744
   },
   {
+    "date": "2025-12-25",
+    "code": "5284",
+    "name": "jpp-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -56.74717884515774
+  },
+  {
     "date": "2025-12-26",
     "code": "5284",
     "name": "jpp-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.42608454224186443,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.45608454224187,
-    "three_inst_ratio_change_20": -0.291094302915873
+    "three_inst_ratio_change_20": -0.9610943029158676
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.42608454224186443,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.116084542241865,
-    "three_inst_ratio_change_20": -1.301094302915871
+    "three_inst_ratio_change_20": -0.9381761618068793
+  },
+  {
+    "date": "2025-12-30",
+    "code": "5284",
+    "name": "jpp-KY",
+    "market": "TWSE",
+    "foreign_ratio": 55.24,
+    "trust_ratio": 0.21009698626672577,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 55.45009698626673,
+    "three_inst_ratio_change_20": -4.644163717782014
   }
 ]

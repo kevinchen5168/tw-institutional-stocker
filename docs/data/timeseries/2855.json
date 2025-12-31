@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.3214545117032479
   },
   {
+    "date": "2025-12-25",
+    "code": "2855",
+    "name": "統一證",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.850301288596194
+  },
+  {
     "date": "2025-12-26",
     "code": "2855",
     "name": "統一證",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.30884677689294626,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.378846776892946,
-    "three_inst_ratio_change_20": -0.47145451170324826
+    "three_inst_ratio_change_20": -0.3914545117032482
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.30884677689294626,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.358846776892946,
-    "three_inst_ratio_change_20": -0.41145451170324776
+    "three_inst_ratio_change_20": -0.4117042908862718
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2855",
+    "name": "統一證",
+    "market": "TWSE",
+    "foreign_ratio": 10.02,
+    "trust_ratio": 0.30853455291416443,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.328534552914164,
+    "three_inst_ratio_change_20": -0.5152011994486294
   }
 ]

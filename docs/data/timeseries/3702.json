@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -3.7672144267912344
   },
   {
+    "date": "2025-12-25",
+    "code": "3702",
+    "name": "大聯大",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -26.864079436493974
+  },
+  {
     "date": "2025-12-26",
     "code": "3702",
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 23.04,
-    "trust_ratio": -0.7276467216520954,
+    "trust_ratio": -0.3529125330089407,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.312353278347903,
-    "three_inst_ratio_change_20": -4.551726158146071
+    "three_inst_ratio": 22.68708746699106,
+    "three_inst_ratio_change_20": -4.115503038365588
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 22.98,
-    "trust_ratio": -0.9592648493751135,
+    "trust_ratio": -0.5845306607319587,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.020735150624887,
-    "three_inst_ratio_change_20": -4.781855354731761
+    "three_inst_ratio": 22.395469339268043,
+    "three_inst_ratio_change_20": -4.206406479142686
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3702",
+    "name": "大聯大",
+    "market": "TWSE",
+    "foreign_ratio": 22.91,
+    "trust_ratio": -0.7524820930227559,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.157517906977244,
+    "three_inst_ratio_change_20": -4.32328026377175
   }
 ]

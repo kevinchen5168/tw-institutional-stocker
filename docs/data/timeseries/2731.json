@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -3.2098095266867475
   },
   {
+    "date": "2025-12-25",
+    "code": "2731",
+    "name": "雄獅",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -30.139589502378485
+  },
+  {
     "date": "2025-12-26",
     "code": "2731",
     "name": "雄獅",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.829779975691735,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.299779975691735,
-    "three_inst_ratio_change_20": -2.83980952668675
+    "three_inst_ratio_change_20": -2.879809526686749
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.829779975691735,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.349779975691735,
-    "three_inst_ratio_change_20": -2.8298095266867485
+    "three_inst_ratio_change_20": -2.629809526686749
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2731",
+    "name": "雄獅",
+    "market": "TWSE",
+    "foreign_ratio": 26.46,
+    "trust_ratio": 0.829779975691735,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.289779975691737,
+    "three_inst_ratio_change_20": -2.509809526686748
   }
 ]

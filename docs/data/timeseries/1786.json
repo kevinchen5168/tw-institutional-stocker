@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.02
   },
   {
+    "date": "2025-12-25",
+    "code": "1786",
+    "name": "科妍",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.74
+  },
+  {
     "date": "2025-12-26",
     "code": "1786",
     "name": "科妍",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4,
-    "three_inst_ratio_change_20": -1.3400000000000003
+    "three_inst_ratio_change_20": -1.08
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.49,
-    "three_inst_ratio_change_20": -0.9899999999999998
+    "three_inst_ratio_change_20": -1.0499999999999998
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1786",
+    "name": "科妍",
+    "market": "TWSE",
+    "foreign_ratio": 2.41,
+    "trust_ratio": 0.003637537883862752,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.413637537883863,
+    "three_inst_ratio_change_20": -1.0263624621161371
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.15000000000000036
   },
   {
+    "date": "2025-12-25",
+    "code": "1455",
+    "name": "集盛",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.44
+  },
+  {
     "date": "2025-12-26",
     "code": "1455",
     "name": "集盛",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.04607962280462101,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.346079622804621,
-    "three_inst_ratio_change_20": -0.09392037719537916
+    "three_inst_ratio_change_20": -0.08392037719537937
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.04607962280462101,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.346079622804621,
-    "three_inst_ratio_change_20": -0.08392037719537937
+    "three_inst_ratio_change_20": -0.10392037719537939
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1455",
+    "name": "集盛",
+    "market": "TWSE",
+    "foreign_ratio": 2.3,
+    "trust_ratio": 0.04607962280462101,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.346079622804621,
+    "three_inst_ratio_change_20": -0.11392037719537917
   }
 ]

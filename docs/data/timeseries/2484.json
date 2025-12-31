@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.2599999999999998
   },
   {
+    "date": "2025-12-25",
+    "code": "2484",
+    "name": "希華",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.18
+  },
+  {
     "date": "2025-12-26",
     "code": "2484",
     "name": "希華",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.39,
-    "three_inst_ratio_change_20": 0.20999999999999996
+    "three_inst_ratio_change_20": 0.21999999999999975
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2484",
+    "name": "希華",
+    "market": "TWSE",
+    "foreign_ratio": 5.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.32,
+    "three_inst_ratio_change_20": 0.1200000000000001
   }
 ]

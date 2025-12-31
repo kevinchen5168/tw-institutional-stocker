@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.5777349659924962
   },
   {
+    "date": "2025-12-25",
+    "code": "3022",
+    "name": "威強電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.999264489663204
+  },
+  {
     "date": "2025-12-26",
     "code": "3022",
     "name": "威強電",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.08097496576825793,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.159025034231743,
-    "three_inst_ratio_change_20": -0.8402394554314618
+    "three_inst_ratio_change_20": -0.9702394554314608
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": -0.03907183662943913,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.280928163370561,
-    "three_inst_ratio_change_20": -0.8483363262926424
+    "three_inst_ratio_change_20": -0.5783363262926446
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3022",
+    "name": "威強電",
+    "market": "TWSE",
+    "foreign_ratio": 15.33,
+    "trust_ratio": 0.0016987755056277886,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.331698775505627,
+    "three_inst_ratio_change_20": -0.5275657141575785
   }
 ]

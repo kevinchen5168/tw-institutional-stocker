@@ -704,15 +704,26 @@
     "three_inst_ratio_change_20": -0.3324925623202173
   },
   {
+    "date": "2025-12-25",
+    "code": "8422",
+    "name": "可寧衛*",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.811664535164422
+  },
+  {
     "date": "2025-12-26",
     "code": "8422",
     "name": "可寧衛*",
     "market": "TWSE",
     "foreign_ratio": 6.72,
-    "trust_ratio": 6.764361997915105,
+    "trust_ratio": 7.718358979167811,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.484361997915105,
-    "three_inst_ratio_change_20": 0.6726974627506834
+    "three_inst_ratio": 14.43835897916781,
+    "three_inst_ratio_change_20": 1.0366944440033894
   },
   {
     "date": "2025-12-29",
@@ -720,9 +731,20 @@
     "name": "可寧衛*",
     "market": "TWSE",
     "foreign_ratio": 6.07,
-    "trust_ratio": 6.561335254463631,
+    "trust_ratio": 7.515332235716336,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.631335254463632,
-    "three_inst_ratio_change_20": -0.7703292807007891
+    "three_inst_ratio": 13.585332235716336,
+    "three_inst_ratio_change_20": 0.9075664117587312
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8422",
+    "name": "可寧衛*",
+    "market": "TWSE",
+    "foreign_ratio": 5.32,
+    "trust_ratio": 8.239384716370187,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.559384716370188,
+    "three_inst_ratio_change_20": 1.1619109760277588
   }
 ]

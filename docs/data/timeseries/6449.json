@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.69720533015413
   },
   {
+    "date": "2025-12-25",
+    "code": "6449",
+    "name": "鈺邦",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.259140490674163
+  },
+  {
     "date": "2025-12-26",
     "code": "6449",
     "name": "鈺邦",
@@ -789,7 +800,7 @@
     "trust_ratio": 6.970771960042783,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.850771960042783,
-    "three_inst_ratio_change_20": -1.40836853063138
+    "three_inst_ratio_change_20": -1.15836853063138
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 6.970771960042783,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.810771960042784,
-    "three_inst_ratio_change_20": -1.1983685306313792
+    "three_inst_ratio_change_20": -1.07836853063138
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6449",
+    "name": "鈺邦",
+    "market": "TWSE",
+    "foreign_ratio": 1.86,
+    "trust_ratio": 6.970771960042783,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.830771960042783,
+    "three_inst_ratio_change_20": -1.0083685306313814
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.25
   },
   {
+    "date": "2025-12-25",
+    "code": "2617",
+    "name": "台航",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.320389007727293
+  },
+  {
     "date": "2025-12-26",
     "code": "2617",
     "name": "台航",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.06038900772729356,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.440389007727293,
-    "three_inst_ratio_change_20": 0.1200000000000001
+    "three_inst_ratio_change_20": 0.08000000000000007
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.06038900772729356,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.460389007727294,
-    "three_inst_ratio_change_20": 0.10000000000000053
+    "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2617",
+    "name": "台航",
+    "market": "TWSE",
+    "foreign_ratio": 7.4,
+    "trust_ratio": 0.06038900772729356,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.460389007727294,
+    "three_inst_ratio_change_20": -0.02999999999999936
   }
 ]

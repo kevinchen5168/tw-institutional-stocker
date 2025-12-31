@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.08303027638583771
   },
   {
+    "date": "2025-12-25",
+    "code": "2812",
+    "name": "台中銀",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.9036310906543
+  },
+  {
     "date": "2025-12-26",
     "code": "2812",
     "name": "台中銀",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.27341930926964336,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.963419309269643,
-    "three_inst_ratio_change_20": 0.059788218615342004
+    "three_inst_ratio_change_20": 0.19978821861534257
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.27341930926964336,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.923419309269644,
-    "three_inst_ratio_change_20": 0.15978821861534342
+    "three_inst_ratio_change_20": 0.19978821861534257
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2812",
+    "name": "台中銀",
+    "market": "TWSE",
+    "foreign_ratio": 10.61,
+    "trust_ratio": 0.2738676931505789,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.88386769315058,
+    "three_inst_ratio_change_20": 0.18023660249628115
   }
 ]

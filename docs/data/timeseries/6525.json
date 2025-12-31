@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.13077490916050039
   },
   {
+    "date": "2025-12-25",
+    "code": "6525",
+    "name": "捷敏-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -14.312324727481498
+  },
+  {
     "date": "2025-12-26",
     "code": "6525",
     "name": "捷敏-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.013173455728478773,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.203173455728479,
-    "three_inst_ratio_change_20": -0.10915127175301897
+    "three_inst_ratio_change_20": -0.11915127175301876
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.013173455728478773,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.22317345572848,
-    "three_inst_ratio_change_20": -0.09915127175301741
+    "three_inst_ratio_change_20": -0.08915127175301762
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6525",
+    "name": "捷敏-KY",
+    "market": "TWSE",
+    "foreign_ratio": 14.24,
+    "trust_ratio": 0.013173455728478773,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.25317345572848,
+    "three_inst_ratio_change_20": -0.06915127175301805
   }
 ]

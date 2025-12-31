@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.26474960221230504
   },
   {
+    "date": "2025-12-25",
+    "code": "3023",
+    "name": "信邦",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -36.892729040491666
+  },
+  {
     "date": "2025-12-26",
     "code": "3023",
     "name": "信邦",
     "market": "TWSE",
     "foreign_ratio": 32.35,
-    "trust_ratio": 4.280984383932197,
+    "trust_ratio": 4.303061368844544,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.6309843839322,
-    "three_inst_ratio_change_20": -0.2617446565594648
+    "three_inst_ratio": 36.65306136884455,
+    "three_inst_ratio_change_20": -0.23668572404766763
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "信邦",
     "market": "TWSE",
     "foreign_ratio": 32.37,
-    "trust_ratio": 4.2784851026213655,
+    "trust_ratio": 4.300562087533712,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.648485102621365,
-    "three_inst_ratio_change_20": -0.24126199027084994
+    "three_inst_ratio": 36.67056208753371,
+    "three_inst_ratio_change_20": -0.37538146301546504
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3023",
+    "name": "信邦",
+    "market": "TWSE",
+    "foreign_ratio": 32.26,
+    "trust_ratio": 4.298853412210874,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.55885341221087,
+    "three_inst_ratio_change_20": -0.5212096110829165
   }
 ]

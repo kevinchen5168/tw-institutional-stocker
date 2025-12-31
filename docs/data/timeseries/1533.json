@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.1299999999999999
   },
   {
+    "date": "2025-12-25",
+    "code": "1533",
+    "name": "車王電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.67
+  },
+  {
     "date": "2025-12-26",
     "code": "1533",
     "name": "車王電",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.81,
-    "three_inst_ratio_change_20": 0.13999999999999968
+    "three_inst_ratio_change_20": 0.11999999999999922
   },
   {
     "date": "2025-12-29",
@@ -801,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.82,
     "three_inst_ratio_change_20": 0.1299999999999999
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1533",
+    "name": "車王電",
+    "market": "TWSE",
+    "foreign_ratio": 5.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.86,
+    "three_inst_ratio_change_20": 0.16000000000000014
   }
 ]

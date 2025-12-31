@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.75
   },
   {
+    "date": "2025-12-25",
+    "code": "00986A",
+    "name": "主動台新龍頭成長",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.63
+  },
+  {
     "date": "2025-12-26",
     "code": "00986A",
     "name": "主動台新龍頭成長",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.79,
-    "three_inst_ratio_change_20": -0.8399999999999999
+    "three_inst_ratio_change_20": -0.9299999999999997
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.17,
-    "three_inst_ratio_change_20": -0.5499999999999998
+    "three_inst_ratio_change_20": 0.5499999999999998
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00986A",
+    "name": "主動台新龍頭成長",
+    "market": "TWSE",
+    "foreign_ratio": 2.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.95,
+    "three_inst_ratio_change_20": -1.46
   }
 ]

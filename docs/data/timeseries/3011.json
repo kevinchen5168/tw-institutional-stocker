@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.27
   },
   {
+    "date": "2025-12-25",
+    "code": "3011",
+    "name": "今皓",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.9
+  },
+  {
     "date": "2025-12-26",
     "code": "3011",
     "name": "今皓",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.71,
-    "three_inst_ratio_change_20": -1.1900000000000004
+    "three_inst_ratio_change_20": -1.3200000000000003
   },
   {
     "date": "2025-12-29",
@@ -801,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.52,
     "three_inst_ratio_change_20": -1.5100000000000002
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3011",
+    "name": "今皓",
+    "market": "TWSE",
+    "foreign_ratio": 3.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.61,
+    "three_inst_ratio_change_20": -1.35
   }
 ]

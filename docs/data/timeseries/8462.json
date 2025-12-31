@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.10000000000000009
   },
   {
+    "date": "2025-12-25",
+    "code": "8462",
+    "name": "柏文",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.1150446411010897
+  },
+  {
     "date": "2025-12-26",
     "code": "8462",
     "name": "柏文",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0037834808258173334,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.033783480825817,
-    "three_inst_ratio_change_20": -0.08126116027527264
+    "three_inst_ratio_change_20": -0.07126116027527285
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0037834808258173334,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0237834808258173,
-    "three_inst_ratio_change_20": -0.08126116027527264
+    "three_inst_ratio_change_20": -0.001261160275272566
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8462",
+    "name": "柏文",
+    "market": "TWSE",
+    "foreign_ratio": 3.01,
+    "trust_ratio": 0.0037834808258173334,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.013783480825817,
+    "three_inst_ratio_change_20": -0.011261160275272797
   }
 ]

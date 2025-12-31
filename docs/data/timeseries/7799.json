@@ -759,6 +759,17 @@
     "three_inst_ratio_change_20": -0.1384974838245867
   },
   {
+    "date": "2025-12-25",
+    "code": "7799",
+    "name": "禾榮科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.5022102404345397
+  },
+  {
     "date": "2025-12-26",
     "code": "7799",
     "name": "禾榮科",
@@ -767,7 +778,7 @@
     "trust_ratio": 0.040897835290358654,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.350897835290359,
-    "three_inst_ratio_change_20": -0.15131240514418076
+    "three_inst_ratio_change_20": -0.16131240514418055
   },
   {
     "date": "2025-12-29",
@@ -778,6 +789,17 @@
     "trust_ratio": 0.012780573528237079,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.372780573528237,
-    "three_inst_ratio_change_20": -0.13942966690630243
+    "three_inst_ratio_change_20": -0.05942966690630236
+  },
+  {
+    "date": "2025-12-30",
+    "code": "7799",
+    "name": "禾榮科",
+    "market": "TWSE",
+    "foreign_ratio": 3.34,
+    "trust_ratio": 0.012780573528237079,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.352780573528237,
+    "three_inst_ratio_change_20": -0.07942966690630238
   }
 ]

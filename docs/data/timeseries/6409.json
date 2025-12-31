@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -3.537751978232791
   },
   {
+    "date": "2025-12-25",
+    "code": "6409",
+    "name": "旭隼",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -62.49000895322962
+  },
+  {
     "date": "2025-12-26",
     "code": "6409",
     "name": "旭隼",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.4739328766125932,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.9939328766126,
-    "three_inst_ratio_change_20": -3.4960760766170225
+    "three_inst_ratio_change_20": -3.2660760766170256
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.473918055272335,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 59.00391805527234,
-    "three_inst_ratio_change_20": -3.256090897957286
+    "three_inst_ratio_change_20": -2.9260908979572804
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6409",
+    "name": "旭隼",
+    "market": "TWSE",
+    "foreign_ratio": 58.33,
+    "trust_ratio": 0.6369151747106527,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 58.96691517471065,
+    "three_inst_ratio_change_20": -2.736476464407133
   }
 ]

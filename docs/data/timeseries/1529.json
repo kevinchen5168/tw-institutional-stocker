@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.9400000000000002
   },
   {
+    "date": "2025-12-25",
+    "code": "1529",
+    "name": "樂事綠能",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.63
+  },
+  {
     "date": "2025-12-26",
     "code": "1529",
     "name": "樂事綠能",
     "market": "TWSE",
     "foreign_ratio": 1.72,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0024204508261816233,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.72,
-    "three_inst_ratio_change_20": -0.9099999999999999
+    "three_inst_ratio": 1.7224204508261816,
+    "three_inst_ratio_change_20": -0.8275795491738183
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "樂事綠能",
     "market": "TWSE",
     "foreign_ratio": 1.82,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0024204508261816233,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.82,
-    "three_inst_ratio_change_20": -0.7299999999999998
+    "three_inst_ratio": 1.8224204508261816,
+    "three_inst_ratio_change_20": -0.7075795491738182
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1529",
+    "name": "樂事綠能",
+    "market": "TWSE",
+    "foreign_ratio": 1.76,
+    "trust_ratio": 0.0024204508261816233,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7624204508261816,
+    "three_inst_ratio_change_20": -0.7675795491738182
   }
 ]

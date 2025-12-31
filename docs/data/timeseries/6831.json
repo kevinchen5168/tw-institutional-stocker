@@ -242,6 +242,17 @@
     "three_inst_ratio_change_20": 0.2603703703703708
   },
   {
+    "date": "2025-12-25",
+    "code": "6831",
+    "name": "邁科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.7
+  },
+  {
     "date": "2025-12-26",
     "code": "6831",
     "name": "邁科",
@@ -250,7 +261,7 @@
     "trust_ratio": 0.7303703703703703,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.66037037037037,
-    "three_inst_ratio_change_20": 0.9603703703703701
+    "three_inst_ratio_change_20": 0.7303703703703706
   },
   {
     "date": "2025-12-29",
@@ -261,6 +272,17 @@
     "trust_ratio": 1.1392592592592594,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.909259259259259,
-    "three_inst_ratio_change_20": 0.9792592592592593
+    "three_inst_ratio_change_20": 1.4192592592592588
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6831",
+    "name": "邁科",
+    "market": "TWSE",
+    "foreign_ratio": 5.73,
+    "trust_ratio": 1.5244444444444445,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.254444444444445,
+    "three_inst_ratio_change_20": 1.5314814814814817
   }
 ]

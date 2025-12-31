@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.25
   },
   {
+    "date": "2025-12-25",
+    "code": "1340",
+    "name": "勝悅-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -26.4
+  },
+  {
     "date": "2025-12-26",
     "code": "1340",
     "name": "勝悅-KY",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.65,
-    "three_inst_ratio_change_20": 0.25
+    "three_inst_ratio_change_20": 0.22999999999999687
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1340",
+    "name": "勝悅-KY",
+    "market": "TWSE",
+    "foreign_ratio": 26.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.61,
+    "three_inst_ratio_change_20": 0.14000000000000057
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.9599999999999937
   },
   {
+    "date": "2025-12-25",
+    "code": "4557",
+    "name": "永新-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -34.64
+  },
+  {
     "date": "2025-12-26",
     "code": "4557",
     "name": "永新-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 33.32,
-    "three_inst_ratio_change_20": -1.3200000000000003
+    "three_inst_ratio_change_20": -1.3399999999999963
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 33.18,
-    "three_inst_ratio_change_20": -1.4799999999999969
+    "three_inst_ratio_change_20": -1.6499999999999986
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4557",
+    "name": "永新-KY",
+    "market": "TWSE",
+    "foreign_ratio": 33.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.15,
+    "three_inst_ratio_change_20": -1.490000000000002
   }
 ]

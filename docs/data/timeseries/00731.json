@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 1.292306216801102
   },
   {
+    "date": "2025-12-25",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.4332692307692305
+  },
+  {
     "date": "2025-12-26",
     "code": "00731",
     "name": "復華富時高息低波",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.025575447570332477,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4955754475703325,
-    "three_inst_ratio_change_20": 1.062306216801102
+    "three_inst_ratio_change_20": 1.0478625521932037
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.025575447570332477,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.515575447570333,
-    "three_inst_ratio_change_20": 1.0678625521932041
+    "three_inst_ratio_change_20": 0.581244547327024
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 2.59,
+    "trust_ratio": 0.026246719160104987,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.6162467191601047,
+    "three_inst_ratio_change_20": 0.5719158189167954
   }
 ]

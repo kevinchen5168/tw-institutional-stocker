@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.04295020505271996
   },
   {
+    "date": "2025-12-25",
+    "code": "2838",
+    "name": "聯邦銀",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.350555681955384
+  },
+  {
     "date": "2025-12-26",
     "code": "2838",
     "name": "聯邦銀",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.3076054769026636,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.297605476902664,
-    "three_inst_ratio_change_20": -0.052950205052719745
+    "three_inst_ratio_change_20": -0.06295020505271953
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.3076054769026636,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.297605476902664,
-    "three_inst_ratio_change_20": -0.06295020505271953
+    "three_inst_ratio_change_20": -0.07062204073064127
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2838",
+    "name": "聯邦銀",
+    "market": "TWSE",
+    "foreign_ratio": 3.98,
+    "trust_ratio": 0.30755939981150493,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.287559399811505,
+    "three_inst_ratio_change_20": -0.07905414841268321
   }
 ]

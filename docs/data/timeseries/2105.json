@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.2864545758381283
   },
   {
+    "date": "2025-12-25",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.016856197606625
+  },
+  {
     "date": "2025-12-26",
     "code": "2105",
     "name": "正新",
     "market": "TWSE",
     "foreign_ratio": 11.17,
-    "trust_ratio": 0.6307809589026416,
+    "trust_ratio": 0.6214675587338827,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.800780958902642,
-    "three_inst_ratio_change_20": -1.2160752387039828
+    "three_inst_ratio": 11.791467558733883,
+    "three_inst_ratio_change_20": -1.1946834393651145
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "正新",
     "market": "TWSE",
     "foreign_ratio": 11.11,
-    "trust_ratio": 0.6042184898073494,
+    "trust_ratio": 0.5949050896385906,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.71421848980735,
-    "three_inst_ratio_change_20": -1.2719325082916484
+    "three_inst_ratio": 11.70490508963859,
+    "three_inst_ratio_change_20": -1.204489600990179
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 11.05,
+    "trust_ratio": 0.5673589145159202,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.61735891451592,
+    "three_inst_ratio_change_20": -1.415006069570465
   }
 ]

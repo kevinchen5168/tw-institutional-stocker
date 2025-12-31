@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.8720444769812845
   },
   {
+    "date": "2025-12-25",
+    "code": "1582",
+    "name": "信錦",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.4264328488269
+  },
+  {
     "date": "2025-12-26",
     "code": "1582",
     "name": "信錦",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.510159507747091,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.4998404922529085,
-    "three_inst_ratio_change_20": -0.926592356573992
+    "three_inst_ratio_change_20": -0.8665923565739932
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": -0.45955944787543657,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.600440552124564,
-    "three_inst_ratio_change_20": -0.765992296702338
+    "three_inst_ratio_change_20": -0.5427044204295477
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1582",
+    "name": "信錦",
+    "market": "TWSE",
+    "foreign_ratio": 7.98,
+    "trust_ratio": -0.4110388425190557,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.568961157480945,
+    "three_inst_ratio_change_20": -0.4741672110447537
   }
 ]

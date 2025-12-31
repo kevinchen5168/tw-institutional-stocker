@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.7247723535967125
   },
   {
+    "date": "2025-12-25",
+    "code": "3008",
+    "name": "大立光",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -31.924951359910853
+  },
+  {
     "date": "2025-12-26",
     "code": "3008",
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 30.73,
-    "trust_ratio": 0.5236715679915868,
+    "trust_ratio": 0.5558889808034194,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.25367156799159,
-    "three_inst_ratio_change_20": -0.6712797919192646
+    "three_inst_ratio": 31.28588898080342,
+    "three_inst_ratio_change_20": -0.6698116212658505
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 30.89,
-    "trust_ratio": 0.8473441804267423,
+    "trust_ratio": 0.879561593238575,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.737344180426742,
-    "three_inst_ratio_change_20": -0.2183564216425289
+    "three_inst_ratio": 31.769561593238574,
+    "three_inst_ratio_change_20": -0.16613900883069732
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3008",
+    "name": "大立光",
+    "market": "TWSE",
+    "foreign_ratio": 30.66,
+    "trust_ratio": 1.134265715749498,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 31.794265715749496,
+    "three_inst_ratio_change_20": -0.1385031017538978
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.3667465414869824
   },
   {
+    "date": "2025-12-25",
+    "code": "1104",
+    "name": "環泥",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -16.780144304156146
+  },
+  {
     "date": "2025-12-26",
     "code": "1104",
     "name": "環泥",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.013397762669166124,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.403397762669165,
-    "three_inst_ratio_change_20": -0.3767465414869804
+    "three_inst_ratio_change_20": -0.3667465414869824
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.013397762669166124,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.393397762669164,
-    "three_inst_ratio_change_20": -0.37674654148698394
+    "three_inst_ratio_change_20": -0.36330045681594214
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1104",
+    "name": "環泥",
+    "market": "TWSE",
+    "foreign_ratio": 16.34,
+    "trust_ratio": 0.013397762669166124,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.353397762669164,
+    "three_inst_ratio_change_20": -0.4200000000000017
   }
 ]

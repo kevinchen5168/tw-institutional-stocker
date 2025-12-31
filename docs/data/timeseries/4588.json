@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.10999999999999943
   },
   {
+    "date": "2025-12-25",
+    "code": "4588",
+    "name": "玖鼎電力",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.16
+  },
+  {
     "date": "2025-12-26",
     "code": "4588",
     "name": "玖鼎電力",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.2,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.0600000000000005
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4588",
+    "name": "玖鼎電力",
+    "market": "TWSE",
+    "foreign_ratio": 4.19,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.19,
+    "three_inst_ratio_change_20": 0.10000000000000053
   }
 ]

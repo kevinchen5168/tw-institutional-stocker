@@ -715,6 +715,17 @@
     "three_inst_ratio_change_20": 0.05000000000000071
   },
   {
+    "date": "2025-12-25",
+    "code": "6641",
+    "name": "基士德-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -29.54
+  },
+  {
     "date": "2025-12-26",
     "code": "6641",
     "name": "基士德-KY",
@@ -734,6 +745,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.59,
-    "three_inst_ratio_change_20": 0.05000000000000071
+    "three_inst_ratio_change_20": 0.010000000000001563
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6641",
+    "name": "基士德-KY",
+    "market": "TWSE",
+    "foreign_ratio": 29.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.6,
+    "three_inst_ratio_change_20": 0.020000000000003126
   }
 ]

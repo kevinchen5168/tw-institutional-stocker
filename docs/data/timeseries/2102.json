@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.13000000000000034
   },
   {
+    "date": "2025-12-25",
+    "code": "2102",
+    "name": "泰豐",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.74
+  },
+  {
     "date": "2025-12-26",
     "code": "2102",
     "name": "泰豐",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.61,
-    "three_inst_ratio_change_20": -0.13000000000000034
+    "three_inst_ratio_change_20": -0.14000000000000012
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.62,
-    "three_inst_ratio_change_20": -0.1299999999999999
+    "three_inst_ratio_change_20": -0.19999999999999973
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2102",
+    "name": "泰豐",
+    "market": "TWSE",
+    "foreign_ratio": 3.49,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.49,
+    "three_inst_ratio_change_20": -0.41999999999999993
   }
 ]

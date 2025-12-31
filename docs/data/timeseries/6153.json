@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.7599999999999998
   },
   {
+    "date": "2025-12-25",
+    "code": "6153",
+    "name": "嘉聯益",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.24
+  },
+  {
     "date": "2025-12-26",
     "code": "6153",
     "name": "嘉聯益",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.01571887869429135,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.584281121305708,
-    "three_inst_ratio_change_20": 0.3442811213057073
+    "three_inst_ratio_change_20": -0.1457188786942929
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": -0.01571887869429135,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.514281121305707,
-    "three_inst_ratio_change_20": -0.21571887869429318
+    "three_inst_ratio_change_20": -0.29571887869429325
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6153",
+    "name": "嘉聯益",
+    "market": "TWSE",
+    "foreign_ratio": 9.41,
+    "trust_ratio": -0.01571887869429135,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.394281121305708,
+    "three_inst_ratio_change_20": -0.4757188786942912
   }
 ]

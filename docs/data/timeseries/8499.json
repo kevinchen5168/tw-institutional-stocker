@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.9406564167223621
   },
   {
+    "date": "2025-12-25",
+    "code": "8499",
+    "name": "鼎炫-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -71.766438229173
+  },
+  {
     "date": "2025-12-26",
     "code": "8499",
     "name": "鼎炫-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.3570946458953537,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 72.76709464589536,
-    "three_inst_ratio_change_20": 1.0006564167223502
+    "three_inst_ratio_change_20": 1.1306564167223598
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.3570946458953537,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 72.56709464589535,
-    "three_inst_ratio_change_20": 0.930656416722357
+    "three_inst_ratio_change_20": 0.6506564167223559
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8499",
+    "name": "鼎炫-KY",
+    "market": "TWSE",
+    "foreign_ratio": 72.45,
+    "trust_ratio": 0.3570946458953537,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 72.80709464589536,
+    "three_inst_ratio_change_20": 0.9206564167223661
   }
 ]

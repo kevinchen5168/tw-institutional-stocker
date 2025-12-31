@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.4555050306665738
   },
   {
+    "date": "2025-12-25",
+    "code": "5234",
+    "name": "達興材料",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -11.099267558265632
+  },
+  {
     "date": "2025-12-26",
     "code": "5234",
     "name": "達興材料",
@@ -789,7 +800,7 @@
     "trust_ratio": 3.0712865896696377,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.661286589669638,
-    "three_inst_ratio_change_20": -0.4379809685959941
+    "three_inst_ratio_change_20": -0.4979809685959946
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 3.110228949826478,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.720228949826478,
-    "three_inst_ratio_change_20": -0.4390386084391551
+    "three_inst_ratio_change_20": -0.4305409873646546
+  },
+  {
+    "date": "2025-12-30",
+    "code": "5234",
+    "name": "達興材料",
+    "market": "TWSE",
+    "foreign_ratio": 7.63,
+    "trust_ratio": 3.0615509996304273,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.691550999630428,
+    "three_inst_ratio_change_20": -0.4824040245332579
   }
 ]

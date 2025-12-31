@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.022596291552701153
   },
   {
+    "date": "2025-12-25",
+    "code": "3038",
+    "name": "全台",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.7716476201597455
+  },
+  {
     "date": "2025-12-26",
     "code": "3038",
     "name": "全台",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.014243911712447587,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.934243911712447,
-    "three_inst_ratio_change_20": 0.16259629155270172
+    "three_inst_ratio_change_20": 0.11321189078776595
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.014243911712447587,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.044243911712448,
-    "three_inst_ratio_change_20": 0.22321189078776627
+    "three_inst_ratio_change_20": 0.17321189078776644
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3038",
+    "name": "全台",
+    "market": "TWSE",
+    "foreign_ratio": 8.26,
+    "trust_ratio": 0.014243911712447587,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.274243911712448,
+    "three_inst_ratio_change_20": 0.40321189078776687
   }
 ]

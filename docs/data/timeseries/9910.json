@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.26655803136692846
   },
   {
+    "date": "2025-12-25",
+    "code": "9910",
+    "name": "豐泰",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.247222239451776
+  },
+  {
     "date": "2025-12-26",
     "code": "9910",
     "name": "豐泰",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.32120355923433774,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.941203559234337,
-    "three_inst_ratio_change_20": -0.3060186802174396
+    "three_inst_ratio_change_20": -0.2960186802174398
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.32120355923433774,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.921203559234337,
-    "three_inst_ratio_change_20": -0.3160186802174394
+    "three_inst_ratio_change_20": -0.3347022016325063
+  },
+  {
+    "date": "2025-12-30",
+    "code": "9910",
+    "name": "豐泰",
+    "market": "TWSE",
+    "foreign_ratio": 11.49,
+    "trust_ratio": 0.4676364849122121,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.957636484912213,
+    "three_inst_ratio_change_20": -0.3268515297862411
   }
 ]

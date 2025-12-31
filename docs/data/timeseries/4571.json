@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.2600000000000051
   },
   {
+    "date": "2025-12-25",
+    "code": "4571",
+    "name": "鈞興-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -61.018976203250595
+  },
+  {
     "date": "2025-12-26",
     "code": "4571",
     "name": "鈞興-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.2489762032505918,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.82897620325059,
-    "three_inst_ratio_change_20": -0.19000000000000483
+    "three_inst_ratio_change_20": -0.21999999999999886
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.2489762032505918,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.99897620325059,
-    "three_inst_ratio_change_20": -0.04999999999999716
+    "three_inst_ratio_change_20": 0.030000000000001137
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4571",
+    "name": "鈞興-KY",
+    "market": "TWSE",
+    "foreign_ratio": 60.74,
+    "trust_ratio": 0.2489762032505918,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.988976203250594,
+    "three_inst_ratio_change_20": 0.07000000000000028
   }
 ]

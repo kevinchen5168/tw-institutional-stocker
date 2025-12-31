@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.0870570088764211
   },
   {
+    "date": "2025-12-25",
+    "code": "1519",
+    "name": "華城",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -22.229293435976764
+  },
+  {
     "date": "2025-12-26",
     "code": "1519",
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 20.1,
-    "trust_ratio": 2.049260068457966,
+    "trust_ratio": 2.0745860739817448,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.149260068457966,
-    "three_inst_ratio_change_20": -0.08003336751879786
+    "three_inst_ratio": 22.174586073981747,
+    "three_inst_ratio_change_20": 0.5695942867621326
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 20.04,
-    "trust_ratio": 2.0432451421460684,
+    "trust_ratio": 2.068571147669847,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.08324514214607,
-    "three_inst_ratio_change_20": 0.47825335492645493
+    "three_inst_ratio": 22.108571147669846,
+    "three_inst_ratio_change_20": 0.26413787902884067
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1519",
+    "name": "華城",
+    "market": "TWSE",
+    "foreign_ratio": 20.09,
+    "trust_ratio": 2.0185187298030645,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.108518729803066,
+    "three_inst_ratio_change_20": 0.4404376735171702
   }
 ]

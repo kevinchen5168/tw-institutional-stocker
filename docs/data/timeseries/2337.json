@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.4067780738285087
   },
   {
+    "date": "2025-12-25",
+    "code": "2337",
+    "name": "旺宏",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -21.72208378866933
+  },
+  {
     "date": "2025-12-26",
     "code": "2337",
     "name": "旺宏",
     "market": "TWSE",
     "foreign_ratio": 19.14,
-    "trust_ratio": 2.795040304094902,
+    "trust_ratio": 3.041022358189367,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.9350403040949,
-    "three_inst_ratio_change_20": 0.2129565154255708
+    "three_inst_ratio": 22.181022358189367,
+    "three_inst_ratio_change_20": 0.7920600770500599
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "旺宏",
     "market": "TWSE",
     "foreign_ratio": 18.39,
-    "trust_ratio": 2.795040304094902,
+    "trust_ratio": 3.041022358189367,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.1850403040949,
-    "three_inst_ratio_change_20": -0.20392197704440562
+    "three_inst_ratio": 21.431022358189367,
+    "three_inst_ratio_change_20": 0.447884708487134
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2337",
+    "name": "旺宏",
+    "market": "TWSE",
+    "foreign_ratio": 19.53,
+    "trust_ratio": 3.0509909627912237,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.580990962791226,
+    "three_inst_ratio_change_20": 3.2865914841063564
   }
 ]

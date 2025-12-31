@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.889999999999997
   },
   {
+    "date": "2025-12-25",
+    "code": "4164",
+    "name": "承業醫",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -29.951546599856684
+  },
+  {
     "date": "2025-12-26",
     "code": "4164",
     "name": "承業醫",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.6515465998566834,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.181546599856684,
-    "three_inst_ratio_change_20": -1.7699999999999996
+    "three_inst_ratio_change_20": -1.8299999999999983
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.6515465998566834,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.121546599856682,
-    "three_inst_ratio_change_20": -1.8900000000000006
+    "three_inst_ratio_change_20": -1.5800000000000018
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4164",
+    "name": "承業醫",
+    "market": "TWSE",
+    "foreign_ratio": 27.38,
+    "trust_ratio": 0.6515465998566834,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 28.031546599856682,
+    "three_inst_ratio_change_20": -1.6400000000000006
   }
 ]

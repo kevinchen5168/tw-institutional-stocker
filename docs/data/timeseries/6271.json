@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.89605543999593
   },
   {
+    "date": "2025-12-25",
+    "code": "6271",
+    "name": "同欣電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -26.306861224326887
+  },
+  {
     "date": "2025-12-26",
     "code": "6271",
     "name": "同欣電",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.17171739841949335,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.041717398419493,
-    "three_inst_ratio_change_20": -1.2651438259073942
+    "three_inst_ratio_change_20": -1.3251438259073929
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.17171739841949335,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.91171739841949,
-    "three_inst_ratio_change_20": -1.4551438259073954
+    "three_inst_ratio_change_20": -1.1903604649013673
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6271",
+    "name": "同欣電",
+    "market": "TWSE",
+    "foreign_ratio": 25.06,
+    "trust_ratio": 0.16932571791647663,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.229325717916474,
+    "three_inst_ratio_change_20": -1.0627521454043816
   }
 ]

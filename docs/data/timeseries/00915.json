@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.012394654151871909
   },
   {
+    "date": "2025-12-25",
+    "code": "00915",
+    "name": "凱基優選高股息30",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.39553804567101675
+  },
+  {
     "date": "2025-12-26",
     "code": "00915",
     "name": "凱基優選高股息30",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.04791644904612725,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3979164490461272,
-    "three_inst_ratio_change_20": 0.0023784033751104716
+    "three_inst_ratio_change_20": 0.002357656791486362
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.04803152404986441,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45803152404986436,
-    "three_inst_ratio_change_20": 0.0624727317952235
+    "three_inst_ratio_change_20": 0.0624519662991973
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00915",
+    "name": "凱基優選高股息30",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.04810083474188611,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4681008347418861,
+    "three_inst_ratio_change_20": 0.08245886676976782
   }
 ]

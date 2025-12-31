@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.9300000000000006
   },
   {
+    "date": "2025-12-25",
+    "code": "2612",
+    "name": "中航",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.885952171722074
+  },
+  {
     "date": "2025-12-26",
     "code": "2612",
     "name": "中航",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.035952171722074544,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.565952171722074,
-    "three_inst_ratio_change_20": -2.3200000000000003
+    "three_inst_ratio_change_20": -2.830000000000001
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.035952171722074544,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.645952171722074,
-    "three_inst_ratio_change_20": -2.750000000000001
+    "three_inst_ratio_change_20": -2.9800000000000004
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2612",
+    "name": "中航",
+    "market": "TWSE",
+    "foreign_ratio": 3.73,
+    "trust_ratio": 0.035952171722074544,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.7659521717220743,
+    "three_inst_ratio_change_20": -2.5300000000000002
   }
 ]

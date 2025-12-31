@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.7331645681040833
   },
   {
+    "date": "2025-12-25",
+    "code": "6799",
+    "name": "來頡",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.192155148363067
+  },
+  {
     "date": "2025-12-26",
     "code": "6799",
     "name": "來頡",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.4553197164671501,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.84531971646715,
-    "three_inst_ratio_change_20": 0.6531645681040832
+    "three_inst_ratio_change_20": 0.47316456810408347
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.4553197164671501,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.88531971646715,
-    "three_inst_ratio_change_20": 0.5131645681040826
+    "three_inst_ratio_change_20": 0.6031645681040825
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6799",
+    "name": "來頡",
+    "market": "TWSE",
+    "foreign_ratio": 8.39,
+    "trust_ratio": 0.4553197164671501,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.84531971646715,
+    "three_inst_ratio_change_20": 0.5031645681040846
   }
 ]

@@ -715,15 +715,26 @@
     "three_inst_ratio_change_20": -0.9312344368775651
   },
   {
+    "date": "2025-12-25",
+    "code": "2607",
+    "name": "榮運",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.048841314080253
+  },
+  {
     "date": "2025-12-26",
     "code": "2607",
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 9.69,
-    "trust_ratio": -1.2823931227973122,
+    "trust_ratio": -1.4454456010293988,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.407606877202687,
-    "three_inst_ratio_change_20": -0.641234436877566
+    "three_inst_ratio": 8.244554398970601,
+    "three_inst_ratio_change_20": -0.7842869151096519
   },
   {
     "date": "2025-12-29",
@@ -731,9 +742,20 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 9.94,
-    "trust_ratio": -1.7809213895758755,
+    "trust_ratio": -1.943973867807962,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.159078610424125,
-    "three_inst_ratio_change_20": -0.8697627036561286
+    "three_inst_ratio": 7.996026132192037,
+    "three_inst_ratio_change_20": -1.022815181888216
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2607",
+    "name": "榮運",
+    "market": "TWSE",
+    "foreign_ratio": 9.94,
+    "trust_ratio": -1.9443487010912541,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.995651298908745,
+    "three_inst_ratio_change_20": -1.0426277652465696
   }
 ]

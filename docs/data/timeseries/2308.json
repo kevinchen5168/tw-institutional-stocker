@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.5977932738807539
   },
   {
+    "date": "2025-12-25",
+    "code": "2308",
+    "name": "台達電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -64.86501022207203
+  },
+  {
     "date": "2025-12-26",
     "code": "2308",
     "name": "台達電",
     "market": "TWSE",
     "foreign_ratio": 63.7,
-    "trust_ratio": 0.5401256965904494,
+    "trust_ratio": 0.5480177689848268,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 64.24012569659045,
-    "three_inst_ratio_change_20": -0.6248845254815762
+    "three_inst_ratio": 64.24801776898482,
+    "three_inst_ratio_change_20": -0.5685614098951532
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "台達電",
     "market": "TWSE",
     "foreign_ratio": 63.7,
-    "trust_ratio": 0.5364334771410467,
+    "trust_ratio": 0.5443255495354241,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 64.23643347714105,
-    "three_inst_ratio_change_20": -0.5801457017389282
+    "three_inst_ratio": 64.24432554953543,
+    "three_inst_ratio_change_20": -0.6011081495918944
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2308",
+    "name": "台達電",
+    "market": "TWSE",
+    "foreign_ratio": 63.7,
+    "trust_ratio": 0.5349709028857551,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 64.23497090288576,
+    "three_inst_ratio_change_20": -0.6249390898918676
   }
 ]

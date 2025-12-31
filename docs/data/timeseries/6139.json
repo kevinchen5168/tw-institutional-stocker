@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 5.904176643898506
   },
   {
+    "date": "2025-12-25",
+    "code": "6139",
+    "name": "亞翔",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -28.103194685793735
+  },
+  {
     "date": "2025-12-26",
     "code": "6139",
     "name": "亞翔",
     "market": "TWSE",
     "foreign_ratio": 32.84,
-    "trust_ratio": 1.357799927342412,
+    "trust_ratio": 1.346227790787669,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.197799927342416,
-    "three_inst_ratio_change_20": 6.094605241548681
+    "three_inst_ratio": 34.18622779078767,
+    "three_inst_ratio_change_20": 5.715322018315366
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "亞翔",
     "market": "TWSE",
     "foreign_ratio": 31.78,
-    "trust_ratio": 1.3029437140964284,
+    "trust_ratio": 1.2913715775416854,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.08294371409643,
-    "three_inst_ratio_change_20": 4.612037941624127
+    "three_inst_ratio": 33.07137157754168,
+    "three_inst_ratio_change_20": 5.259915144008506
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6139",
+    "name": "亞翔",
+    "market": "TWSE",
+    "foreign_ratio": 31.87,
+    "trust_ratio": 1.147759219909074,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.017759219909074,
+    "three_inst_ratio_change_20": 5.222463762647287
   }
 ]

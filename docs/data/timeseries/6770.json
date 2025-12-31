@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 3.1265146555859147
   },
   {
+    "date": "2025-12-25",
+    "code": "6770",
+    "name": "力積電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -14.209147667407356
+  },
+  {
     "date": "2025-12-26",
     "code": "6770",
     "name": "力積電",
     "market": "TWSE",
     "foreign_ratio": 14.52,
-    "trust_ratio": 0.3822478581558127,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.902247858155812,
-    "three_inst_ratio_change_20": 0.6931001907484564
+    "trust_ratio": 0.40872786867845795,
+    "dealer_ratio": 0.0035577290963698244,
+    "three_inst_ratio": 14.932285597774827,
+    "three_inst_ratio_change_20": 0.4119918162961582
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "力積電",
     "market": "TWSE",
     "foreign_ratio": 14.04,
-    "trust_ratio": 0.38231949028526985,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.422319490285268,
-    "three_inst_ratio_change_20": -0.09797429119340073
+    "trust_ratio": 0.40879950080791505,
+    "dealer_ratio": 0.0035577290963698244,
+    "three_inst_ratio": 14.452357229904283,
+    "three_inst_ratio_change_20": 0.36346759289076225
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6770",
+    "name": "力積電",
+    "market": "TWSE",
+    "foreign_ratio": 14.61,
+    "trust_ratio": 0.4093486804670862,
+    "dealer_ratio": 0.0035577290963698244,
+    "three_inst_ratio": 15.022906409563456,
+    "three_inst_ratio_change_20": 2.5678086546636507
   }
 ]

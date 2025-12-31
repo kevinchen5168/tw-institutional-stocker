@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.22486448016391591
   },
   {
+    "date": "2025-12-25",
+    "code": "2542",
+    "name": "興富發",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.005148653054151
+  },
+  {
     "date": "2025-12-26",
     "code": "2542",
     "name": "興富發",
     "market": "TWSE",
     "foreign_ratio": 8.53,
-    "trust_ratio": 0.7159106735104673,
+    "trust_ratio": 0.6389232972787247,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.245910673510467,
-    "three_inst_ratio_change_20": 0.2407620204563159
+    "three_inst_ratio": 9.168923297278724,
+    "three_inst_ratio_change_20": 0.18607552217531165
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "興富發",
     "market": "TWSE",
     "foreign_ratio": 8.59,
-    "trust_ratio": 0.7134257253236688,
+    "trust_ratio": 0.6364383490919261,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.303425725323669,
-    "three_inst_ratio_change_20": 0.32057795022025637
+    "three_inst_ratio": 9.226438349091925,
+    "three_inst_ratio_change_20": 0.2635905739885125
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2542",
+    "name": "興富發",
+    "market": "TWSE",
+    "foreign_ratio": 8.76,
+    "trust_ratio": 0.6339994184641422,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.393999418464142,
+    "three_inst_ratio_change_20": 0.42507425584065395
   }
 ]

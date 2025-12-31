@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.3443336532332353
   },
   {
+    "date": "2025-12-25",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -36.904942723127505
+  },
+  {
     "date": "2025-12-26",
     "code": "2404",
     "name": "漢唐",
     "market": "TWSE",
     "foreign_ratio": 32.09,
-    "trust_ratio": 3.8067420633941618,
+    "trust_ratio": 3.8056926722136715,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.896742063394164,
-    "three_inst_ratio_change_20": -1.0082006597333404
+    "three_inst_ratio": 35.89569267221368,
+    "three_inst_ratio_change_20": -1.002490575811322
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "漢唐",
     "market": "TWSE",
     "foreign_ratio": 32.19,
-    "trust_ratio": 3.777359110340429,
+    "trust_ratio": 3.7763097191599386,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.967359110340425,
-    "three_inst_ratio_change_20": -0.9308241376845743
+    "three_inst_ratio": 35.96630971915994,
+    "three_inst_ratio_change_20": -0.6986932002987984
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2404",
+    "name": "漢唐",
+    "market": "TWSE",
+    "foreign_ratio": 32.32,
+    "trust_ratio": 3.3386716212481944,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.658671621248196,
+    "three_inst_ratio_change_20": -1.0443420384984066
   }
 ]

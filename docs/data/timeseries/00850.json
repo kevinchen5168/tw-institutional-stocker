@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.1518262407787052
   },
   {
+    "date": "2025-12-25",
+    "code": "00850",
+    "name": "元大臺灣ESG永續",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.2848364802721932
+  },
+  {
     "date": "2025-12-26",
     "code": "00850",
     "name": "元大臺灣ESG永續",
@@ -801,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4866503502104823,
     "three_inst_ratio_change_20": 0.2018138699382891
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00850",
+    "name": "元大臺灣ESG永續",
+    "market": "TWSE",
+    "foreign_ratio": 0.37,
+    "trust_ratio": 0.16220040761474175,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5322004076147417,
+    "three_inst_ratio_change_20": 0.24736392734254853
   }
 ]

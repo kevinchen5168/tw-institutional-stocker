@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.253347080227968
   },
   {
+    "date": "2025-12-25",
+    "code": "2360",
+    "name": "致茂",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -64.25805835837379
+  },
+  {
     "date": "2025-12-26",
     "code": "2360",
     "name": "致茂",
     "market": "TWSE",
     "foreign_ratio": 59.87,
-    "trust_ratio": 3.32881931335361,
+    "trust_ratio": 3.2596854198090552,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 63.19881931335361,
-    "three_inst_ratio_change_20": -1.0592390450201776
+    "three_inst_ratio": 63.12968541980905,
+    "three_inst_ratio_change_20": -1.143088665499988
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "致茂",
     "market": "TWSE",
     "foreign_ratio": 59.84,
-    "trust_ratio": 3.331861439818868,
+    "trust_ratio": 3.2627275462743133,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 63.17186143981887,
-    "three_inst_ratio_change_20": -1.100912645490169
+    "three_inst_ratio": 63.102727546274316,
+    "three_inst_ratio_change_20": -0.9700353371674666
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2360",
+    "name": "致茂",
+    "market": "TWSE",
+    "foreign_ratio": 59.78,
+    "trust_ratio": 3.2429322080893885,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 63.02293220808939,
+    "three_inst_ratio_change_20": -0.9135080396134683
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.0419042065336086
   },
   {
+    "date": "2025-12-25",
+    "code": "1806",
+    "name": "冠軍",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.4058523185233796
+  },
+  {
     "date": "2025-12-26",
     "code": "1806",
     "name": "冠軍",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.006272222660087872,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.433727777339913,
-    "three_inst_ratio_change_20": 0.027875458816533083
+    "three_inst_ratio_change_20": 0.017875458816533296
   },
   {
     "date": "2025-12-29",
@@ -801,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.441443162179719,
     "three_inst_ratio_change_20": 0.02559084365633968
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1806",
+    "name": "冠軍",
+    "market": "TWSE",
+    "foreign_ratio": 7.47,
+    "trust_ratio": -0.10540033837267034,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.364599661627329,
+    "three_inst_ratio_change_20": -0.06125265689605097
   }
 ]

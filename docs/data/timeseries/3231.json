@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.234397821383066
   },
   {
+    "date": "2025-12-25",
+    "code": "3231",
+    "name": "緯創",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -33.67198767942741
+  },
+  {
     "date": "2025-12-26",
     "code": "3231",
     "name": "緯創",
     "market": "TWSE",
     "foreign_ratio": 30.47,
-    "trust_ratio": 1.6362927793401625,
+    "trust_ratio": 1.6394055833485108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.10629277934016,
-    "three_inst_ratio_change_20": -1.5656949000872515
+    "three_inst_ratio": 32.10940558334851,
+    "three_inst_ratio_change_20": -1.2456372000202123
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "緯創",
     "market": "TWSE",
     "foreign_ratio": 30.64,
-    "trust_ratio": 1.5752857510846274,
+    "trust_ratio": 1.5783985550929758,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.21528575108463,
-    "three_inst_ratio_change_20": -1.1397570322840949
+    "three_inst_ratio": 32.218398555092975,
+    "three_inst_ratio_change_20": -1.0690678904912403
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3231",
+    "name": "緯創",
+    "market": "TWSE",
+    "foreign_ratio": 30.7,
+    "trust_ratio": 1.7022052094032778,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 32.40220520940328,
+    "three_inst_ratio_change_20": -1.2237215867219717
   }
 ]

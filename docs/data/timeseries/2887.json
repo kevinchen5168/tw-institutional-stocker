@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 3.201274566201036
   },
   {
+    "date": "2025-12-25",
+    "code": "2887",
+    "name": "台新新光金",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.683074603720982
+  },
+  {
     "date": "2025-12-26",
     "code": "2887",
     "name": "台新新光金",
     "market": "TWSE",
     "foreign_ratio": 22.02,
-    "trust_ratio": 4.293309051806774,
+    "trust_ratio": 4.668055709487618,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.313309051806772,
-    "three_inst_ratio_change_20": 2.6302344480857904
+    "three_inst_ratio": 26.688055709487617,
+    "three_inst_ratio_change_20": 3.2050425535293705
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "台新新光金",
     "market": "TWSE",
     "foreign_ratio": 21.97,
-    "trust_ratio": 4.316964253935531,
+    "trust_ratio": 4.691710911616374,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.28696425393553,
-    "three_inst_ratio_change_20": 2.803951097977283
+    "three_inst_ratio": 26.661710911616375,
+    "three_inst_ratio_change_20": 2.9818063681791855
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2887",
+    "name": "台新新光金",
+    "market": "TWSE",
+    "foreign_ratio": 21.98,
+    "trust_ratio": 4.6926921554134475,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.672692155413447,
+    "three_inst_ratio_change_20": 2.810456595259126
   }
 ]

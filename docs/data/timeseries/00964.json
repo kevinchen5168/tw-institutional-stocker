@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.85
   },
   {
+    "date": "2025-12-25",
+    "code": "00964",
+    "name": "中信亞太高股息",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.6
+  },
+  {
     "date": "2025-12-26",
     "code": "00964",
     "name": "中信亞太高股息",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.2,
-    "three_inst_ratio_change_20": 4.6000000000000005
+    "three_inst_ratio_change_20": 3.66
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00964",
+    "name": "中信亞太高股息",
+    "market": "TWSE",
+    "foreign_ratio": 4.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.28,
+    "three_inst_ratio_change_20": 2.74
   }
 ]

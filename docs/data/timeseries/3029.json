@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.510893494270106
   },
   {
+    "date": "2025-12-25",
+    "code": "3029",
+    "name": "零壹",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.397473873330372
+  },
+  {
     "date": "2025-12-26",
     "code": "3029",
     "name": "零壹",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.20658037906026552,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.896580379060266,
-    "three_inst_ratio_change_20": -0.5008934942701062
+    "three_inst_ratio_change_20": -0.7308934942701057
   },
   {
     "date": "2025-12-29",
@@ -801,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.936519564431318,
     "three_inst_ratio_change_20": -0.6909543088990535
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3029",
+    "name": "零壹",
+    "market": "TWSE",
+    "foreign_ratio": 4.68,
+    "trust_ratio": 0.24250740150552905,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.922507401505529,
+    "three_inst_ratio_change_20": -0.784966471824843
   }
 ]

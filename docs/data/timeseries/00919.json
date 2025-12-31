@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.43000000000000005
   },
   {
+    "date": "2025-12-25",
+    "code": "00919",
+    "name": "群益台灣精選高息",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.31
+  },
+  {
     "date": "2025-12-26",
     "code": "00919",
     "name": "群益台灣精選高息",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.67,
-    "three_inst_ratio_change_20": 0.36000000000000004
+    "three_inst_ratio_change_20": 0.38000000000000006
   },
   {
     "date": "2025-12-29",
@@ -801,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.81,
     "three_inst_ratio_change_20": 0.52
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00919",
+    "name": "群益台灣精選高息",
+    "market": "TWSE",
+    "foreign_ratio": 0.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.81,
+    "three_inst_ratio_change_20": 0.5800000000000001
   }
 ]

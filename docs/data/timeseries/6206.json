@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.29941613614497165
   },
   {
+    "date": "2025-12-25",
+    "code": "6206",
+    "name": "飛捷",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.236498078417908
+  },
+  {
     "date": "2025-12-26",
     "code": "6206",
     "name": "飛捷",
     "market": "TWSE",
     "foreign_ratio": 8.74,
-    "trust_ratio": 0.5995491866887329,
+    "trust_ratio": 0.5986362978417714,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.339549186688734,
-    "three_inst_ratio_change_20": 0.10305110827082586
+    "three_inst_ratio": 9.338636297841772,
+    "three_inst_ratio_change_20": 0.03213821942386552
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "飛捷",
     "market": "TWSE",
     "foreign_ratio": 9.29,
-    "trust_ratio": 0.08508809069814914,
+    "trust_ratio": 0.0841752018511876,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.375088090698148,
-    "three_inst_ratio_change_20": 0.0685900122802412
+    "three_inst_ratio": 9.374175201851187,
+    "three_inst_ratio_change_20": 0.15666367757313893
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6206",
+    "name": "飛捷",
+    "market": "TWSE",
+    "foreign_ratio": 9.61,
+    "trust_ratio": -0.41490798094402553,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.195092019055974,
+    "three_inst_ratio_change_20": -0.034402832712267184
   }
 ]

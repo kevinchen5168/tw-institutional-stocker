@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.05750036999221919
   },
   {
+    "date": "2025-12-25",
+    "code": "5871",
+    "name": "中租-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -39.036287261105095
+  },
+  {
     "date": "2025-12-26",
     "code": "5871",
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 42.14,
-    "trust_ratio": -2.917534919974032,
+    "trust_ratio": -2.9112433067549293,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.22246508002597,
-    "three_inst_ratio_change_20": 0.18617781892087493
+    "three_inst_ratio": 39.228756693245074,
+    "three_inst_ratio_change_20": 0.2328784489360487
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 42.19,
-    "trust_ratio": -2.9707071034632366,
+    "trust_ratio": -2.964415490244134,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.219292896536764,
-    "three_inst_ratio_change_20": 0.22341465222773849
+    "three_inst_ratio": 39.22558450975586,
+    "three_inst_ratio_change_20": 0.2496979614651309
+  },
+  {
+    "date": "2025-12-30",
+    "code": "5871",
+    "name": "中租-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.49,
+    "trust_ratio": -3.334360781577364,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 39.155639218422635,
+    "three_inst_ratio_change_20": 0.2559494498852928
   }
 ]

@@ -704,6 +704,17 @@
     "three_inst_ratio_change_20": -0.5127609025279938
   },
   {
+    "date": "2025-12-25",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.694488107372919
+  },
+  {
     "date": "2025-12-26",
     "code": "2832",
     "name": "台產",
@@ -712,7 +723,7 @@
     "trust_ratio": 0.30172720484492643,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.1317272048449265,
-    "three_inst_ratio_change_20": -0.5627609025279927
+    "three_inst_ratio_change_20": -0.46276090252799307
   },
   {
     "date": "2025-12-29",
@@ -723,6 +734,17 @@
     "trust_ratio": 0.30172720484492643,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.121727204844927,
-    "three_inst_ratio_change_20": -0.47276090252799285
+    "three_inst_ratio_change_20": -0.48276090252799264
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.83,
+    "trust_ratio": 0.30172720484492643,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.1317272048449265,
+    "three_inst_ratio_change_20": -0.4327609025279928
   }
 ]

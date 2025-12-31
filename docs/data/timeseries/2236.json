@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.9299999999999997
   },
   {
+    "date": "2025-12-25",
+    "code": "2236",
+    "name": "百達-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -52.2
+  },
+  {
     "date": "2025-12-26",
     "code": "2236",
     "name": "百達-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 51.79,
-    "three_inst_ratio_change_20": -0.4100000000000037
+    "three_inst_ratio_change_20": -0.6899999999999977
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 51.9,
-    "three_inst_ratio_change_20": -0.5799999999999983
+    "three_inst_ratio_change_20": -0.490000000000002
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2236",
+    "name": "百達-KY",
+    "market": "TWSE",
+    "foreign_ratio": 52.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 52.33,
+    "three_inst_ratio_change_20": 0.10000000000000142
   }
 ]

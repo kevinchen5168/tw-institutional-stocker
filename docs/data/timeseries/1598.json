@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.19999999999999996
   },
   {
+    "date": "2025-12-25",
+    "code": "1598",
+    "name": "岱宇",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.99
+  },
+  {
     "date": "2025-12-26",
     "code": "1598",
     "name": "岱宇",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.18,
-    "three_inst_ratio_change_20": 0.19000000000000017
+    "three_inst_ratio_change_20": 0.17000000000000037
   },
   {
     "date": "2025-12-29",
@@ -801,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.19,
     "three_inst_ratio_change_20": 0.18000000000000016
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1598",
+    "name": "岱宇",
+    "market": "TWSE",
+    "foreign_ratio": 2.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.14,
+    "three_inst_ratio_change_20": 0.10000000000000009
   }
 ]

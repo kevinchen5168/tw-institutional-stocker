@@ -748,6 +748,17 @@
     "three_inst_ratio_change_20": -0.06999999999999995
   },
   {
+    "date": "2025-12-25",
+    "code": "7736",
+    "name": "虎山",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.97
+  },
+  {
     "date": "2025-12-26",
     "code": "7736",
     "name": "虎山",
@@ -760,6 +771,17 @@
   },
   {
     "date": "2025-12-29",
+    "code": "7736",
+    "name": "虎山",
+    "market": "TWSE",
+    "foreign_ratio": 0.89,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.89,
+    "three_inst_ratio_change_20": -0.07999999999999996
+  },
+  {
+    "date": "2025-12-30",
     "code": "7736",
     "name": "虎山",
     "market": "TWSE",

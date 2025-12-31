@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.16999999999999993
   },
   {
+    "date": "2025-12-25",
+    "code": "1305",
+    "name": "華夏",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.08
+  },
+  {
     "date": "2025-12-26",
     "code": "1305",
     "name": "華夏",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.05335164554562792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.103351645545628,
-    "three_inst_ratio_change_20": 0.02335164554562752
+    "three_inst_ratio_change_20": -0.0866483544543728
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.05335164554562792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.113351645545627,
-    "three_inst_ratio_change_20": -0.07664835445437301
+    "three_inst_ratio_change_20": -0.18664835445437244
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1305",
+    "name": "華夏",
+    "market": "TWSE",
+    "foreign_ratio": 4.01,
+    "trust_ratio": 0.05335164554562792,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.0633516455456276,
+    "three_inst_ratio_change_20": -0.16664835445437287
   }
 ]

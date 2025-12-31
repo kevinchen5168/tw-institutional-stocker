@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -4.086767018794458
   },
   {
+    "date": "2025-12-25",
+    "code": "3592",
+    "name": "瑞鼎",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.474147541528648
+  },
+  {
     "date": "2025-12-26",
     "code": "3592",
     "name": "瑞鼎",
     "market": "TWSE",
     "foreign_ratio": 18.23,
-    "trust_ratio": -9.260196522254116,
+    "trust_ratio": -10.608818171604947,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.969803477745884,
-    "three_inst_ratio_change_20": -4.504344063782764
+    "three_inst_ratio": 7.621181828395054,
+    "three_inst_ratio_change_20": -5.730909163990891
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "瑞鼎",
     "market": "TWSE",
     "foreign_ratio": 18.31,
-    "trust_ratio": -9.256241620056606,
+    "trust_ratio": -10.604863269407437,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.053758379943392,
-    "three_inst_ratio_change_20": -4.298332612442552
+    "three_inst_ratio": 7.705136730592562,
+    "three_inst_ratio_change_20": -5.873415704278569
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3592",
+    "name": "瑞鼎",
+    "market": "TWSE",
+    "foreign_ratio": 17.96,
+    "trust_ratio": -10.592998562814907,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.367001437185094,
+    "three_inst_ratio_change_20": -6.344829432846195
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.9483111368528823
   },
   {
+    "date": "2025-12-25",
+    "code": "2374",
+    "name": "佳能",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.947300755911357
+  },
+  {
     "date": "2025-12-26",
     "code": "2374",
     "name": "佳能",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.2889896190584747,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.488989619058475,
-    "three_inst_ratio_change_20": -1.458311136852882
+    "three_inst_ratio_change_20": -1.2183111368528818
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.2889896190584747,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.518989619058475,
-    "three_inst_ratio_change_20": -1.1883111368528816
+    "three_inst_ratio_change_20": -1.1683111368528811
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2374",
+    "name": "佳能",
+    "market": "TWSE",
+    "foreign_ratio": 4.88,
+    "trust_ratio": 0.2889896190584747,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.1689896190584745,
+    "three_inst_ratio_change_20": -1.498311136852882
   }
 ]

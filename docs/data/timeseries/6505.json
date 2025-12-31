@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.027543323627757132
   },
   {
+    "date": "2025-12-25",
+    "code": "6505",
+    "name": "台塑化",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.085025942383657
+  },
+  {
     "date": "2025-12-26",
     "code": "6505",
     "name": "台塑化",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0786843034594033,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.068684303459404,
-    "three_inst_ratio_change_20": -0.016341638924253665
+    "three_inst_ratio_change_20": -0.006278653144141444
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0786843034594033,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.068684303459404,
-    "three_inst_ratio_change_20": -0.006278653144141444
+    "three_inst_ratio_change_20": -0.006299648404179514
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6505",
+    "name": "台塑化",
+    "market": "TWSE",
+    "foreign_ratio": 5.99,
+    "trust_ratio": 0.07741409022713756,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.067414090227138,
+    "three_inst_ratio_change_20": -0.017580359266463397
   }
 ]

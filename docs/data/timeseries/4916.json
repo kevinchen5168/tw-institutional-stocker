@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -4.102584525360547
   },
   {
+    "date": "2025-12-25",
+    "code": "4916",
+    "name": "事欣科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.3
+  },
+  {
     "date": "2025-12-26",
     "code": "4916",
     "name": "事欣科",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.6374154746394534,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7574154746394535,
-    "three_inst_ratio_change_20": -1.5425845253605464
+    "three_inst_ratio_change_20": -1.4625845253605467
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.6374154746394534,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.8174154746394533,
-    "three_inst_ratio_change_20": -1.402584525360547
+    "three_inst_ratio_change_20": -1.4325845253605467
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4916",
+    "name": "事欣科",
+    "market": "TWSE",
+    "foreign_ratio": 1.37,
+    "trust_ratio": 0.6374154746394534,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.0074154746394535,
+    "three_inst_ratio_change_20": -1.4525845253605465
   }
 ]

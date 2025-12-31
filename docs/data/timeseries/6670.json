@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.7010926564851907
   },
   {
+    "date": "2025-12-25",
+    "code": "6670",
+    "name": "復盛應用",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.8320677722157
+  },
+  {
     "date": "2025-12-26",
     "code": "6670",
     "name": "復盛應用",
     "market": "TWSE",
     "foreign_ratio": 25.41,
-    "trust_ratio": -2.2431199506714306,
+    "trust_ratio": -2.5950516910931127,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.16688004932857,
-    "three_inst_ratio_change_20": -0.6651877228871328
+    "three_inst_ratio": 22.81494830890689,
+    "three_inst_ratio_change_20": -1.0260052989313415
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "復盛應用",
     "market": "TWSE",
     "foreign_ratio": 25.5,
-    "trust_ratio": -2.4332381477284826,
+    "trust_ratio": -2.7851698881501643,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.06676185227152,
-    "three_inst_ratio_change_20": -0.7741917555667115
+    "three_inst_ratio": 22.714830111849835,
+    "three_inst_ratio_change_20": -1.1354500490515704
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6670",
+    "name": "復盛應用",
+    "market": "TWSE",
+    "foreign_ratio": 25.4,
+    "trust_ratio": -2.7973661498481643,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.602633850151832,
+    "three_inst_ratio_change_20": -1.1876902909714566
   }
 ]

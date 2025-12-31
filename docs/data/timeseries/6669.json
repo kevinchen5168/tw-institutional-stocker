@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.7487585023785144
   },
   {
+    "date": "2025-12-25",
+    "code": "6669",
+    "name": "緯穎",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -35.42576828975077
+  },
+  {
     "date": "2025-12-26",
     "code": "6669",
     "name": "緯穎",
     "market": "TWSE",
     "foreign_ratio": 32.45,
-    "trust_ratio": 2.272859460655223,
+    "trust_ratio": 2.2986880205433478,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.72285946065523,
-    "three_inst_ratio_change_20": -0.7029088290955414
+    "three_inst_ratio": 34.74868802054335,
+    "three_inst_ratio_change_20": -0.6284512075715369
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "緯穎",
     "market": "TWSE",
     "foreign_ratio": 32.54,
-    "trust_ratio": 2.2641390931229948,
+    "trust_ratio": 2.2899676530111197,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.80413909312299,
-    "three_inst_ratio_change_20": -0.5730001349918936
+    "three_inst_ratio": 34.82996765301112,
+    "three_inst_ratio_change_20": -0.47543828598964666
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6669",
+    "name": "緯穎",
+    "market": "TWSE",
+    "foreign_ratio": 32.47,
+    "trust_ratio": 2.2883237727932397,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 34.75832377279324,
+    "three_inst_ratio_change_20": -0.575614978737363
   }
 ]

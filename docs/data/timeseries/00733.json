@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.12474798720394253
   },
   {
+    "date": "2025-12-25",
+    "code": "00733",
+    "name": "富邦臺灣中小",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.9451069427126866
+  },
+  {
     "date": "2025-12-26",
     "code": "00733",
     "name": "富邦臺灣中小",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.1709632109870465,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.8909632109870465,
-    "three_inst_ratio_change_20": -0.05414373172564013
+    "three_inst_ratio_change_20": -0.07414373172564015
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.1709632109870465,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.010963210987047,
-    "three_inst_ratio_change_20": 0.04585626827436018
+    "three_inst_ratio_change_20": 0.08585626827436021
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00733",
+    "name": "富邦臺灣中小",
+    "market": "TWSE",
+    "foreign_ratio": 2.01,
+    "trust_ratio": 0.1709632109870465,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.1809632109870463,
+    "three_inst_ratio_change_20": 0.2858562682743597
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
+    "date": "2025-12-25",
+    "code": "4438",
+    "name": "廣越",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.38
+  },
+  {
     "date": "2025-12-26",
     "code": "4438",
     "name": "廣越",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.04143690673314909,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.408563093266851,
-    "three_inst_ratio_change_20": 0.028563093266851025
+    "three_inst_ratio_change_20": 0.03856309326685081
   },
   {
     "date": "2025-12-29",
@@ -801,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.408563093266851,
     "three_inst_ratio_change_20": 0.03856309326685081
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4438",
+    "name": "廣越",
+    "market": "TWSE",
+    "foreign_ratio": 1.42,
+    "trust_ratio": -0.04143690673314909,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.378563093266851,
+    "three_inst_ratio_change_20": 0.008563093266850785
   }
 ]

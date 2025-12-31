@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.21999999999999975
   },
   {
+    "date": "2025-12-25",
+    "code": "1308",
+    "name": "亞聚",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.77
+  },
+  {
     "date": "2025-12-26",
     "code": "1308",
     "name": "亞聚",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.74,
-    "three_inst_ratio_change_20": -0.02999999999999936
+    "three_inst_ratio_change_20": -0.1299999999999999
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.81,
-    "three_inst_ratio_change_20": -0.0600000000000005
+    "three_inst_ratio_change_20": -0.17000000000000082
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1308",
+    "name": "亞聚",
+    "market": "TWSE",
+    "foreign_ratio": 4.87,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.87,
+    "three_inst_ratio_change_20": -0.2400000000000002
   }
 ]

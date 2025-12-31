@@ -770,6 +770,17 @@
     "three_inst_ratio_change_20": -0.15000000000000036
   },
   {
+    "date": "2025-12-25",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.13
+  },
+  {
     "date": "2025-12-26",
     "code": "2905",
     "name": "三商",
@@ -778,10 +789,21 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.09,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": -0.08000000000000007
   },
   {
     "date": "2025-12-29",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 4.07,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.07,
+    "three_inst_ratio_change_20": -0.040000000000000036
+  },
+  {
+    "date": "2025-12-30",
     "code": "2905",
     "name": "三商",
     "market": "TWSE",

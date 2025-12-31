@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.024834873564110183
   },
   {
+    "date": "2025-12-25",
+    "code": "2015",
+    "name": "豐興",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.160858167012215
+  },
+  {
     "date": "2025-12-26",
     "code": "2015",
     "name": "豐興",
     "market": "TWSE",
     "foreign_ratio": 11.89,
-    "trust_ratio": 0.21750881238836992,
+    "trust_ratio": 0.23384307890923905,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.107508812388371,
-    "three_inst_ratio_change_20": -0.053349354623843936
+    "three_inst_ratio": 12.123843078909239,
+    "three_inst_ratio_change_20": -0.037015088102975824
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "豐興",
     "market": "TWSE",
     "foreign_ratio": 11.91,
-    "trust_ratio": 0.22008790710219134,
+    "trust_ratio": 0.23642217362306053,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.130087907102192,
-    "three_inst_ratio_change_20": -0.0307702599100228
+    "three_inst_ratio": 12.14642217362306,
+    "three_inst_ratio_change_20": -0.014435993389154689
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2015",
+    "name": "豐興",
+    "market": "TWSE",
+    "foreign_ratio": 11.92,
+    "trust_ratio": 0.23642217362306053,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.15642217362306,
+    "three_inst_ratio_change_20": 0.005564006610844885
   }
 ]

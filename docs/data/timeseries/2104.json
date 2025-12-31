@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.7400000000000002
   },
   {
+    "date": "2025-12-25",
+    "code": "2104",
+    "name": "國際中橡",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.67
+  },
+  {
     "date": "2025-12-26",
     "code": "2104",
     "name": "國際中橡",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.03990926987996373,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.830090730120037,
-    "three_inst_ratio_change_20": -0.8399092698799633
+    "three_inst_ratio_change_20": -0.8999092698799638
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": -0.03990926987996373,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.900090730120037,
-    "three_inst_ratio_change_20": -0.8299092698799635
+    "three_inst_ratio_change_20": -0.4499092698799627
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2104",
+    "name": "國際中橡",
+    "market": "TWSE",
+    "foreign_ratio": 5.94,
+    "trust_ratio": -0.03990926987996373,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.900090730120037,
+    "three_inst_ratio_change_20": -0.19990926987996271
   }
 ]

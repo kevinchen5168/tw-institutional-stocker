@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 2.0112242069074497
   },
   {
+    "date": "2025-12-25",
+    "code": "3167",
+    "name": "大量",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.247496106207088
+  },
+  {
     "date": "2025-12-26",
     "code": "3167",
     "name": "大量",
@@ -789,7 +800,7 @@
     "trust_ratio": 8.74020349995864,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.00020349995864,
-    "three_inst_ratio_change_20": 5.752707393751553
+    "three_inst_ratio_change_20": 6.436052373748392
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 8.838662350728601,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.0086623507286,
-    "three_inst_ratio_change_20": 6.444511224518351
+    "three_inst_ratio_change_20": 6.5366085688149305
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3167",
+    "name": "大量",
+    "market": "TWSE",
+    "foreign_ratio": 11.58,
+    "trust_ratio": 8.948438310782466,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.528438310782466,
+    "three_inst_ratio_change_20": 7.576384528868797
   }
 ]

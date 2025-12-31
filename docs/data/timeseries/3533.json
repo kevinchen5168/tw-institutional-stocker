@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.8837011259043663
   },
   {
+    "date": "2025-12-25",
+    "code": "3533",
+    "name": "嘉澤",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -37.326770653771106
+  },
+  {
     "date": "2025-12-26",
     "code": "3533",
     "name": "嘉澤",
     "market": "TWSE",
     "foreign_ratio": 36.88,
-    "trust_ratio": 0.2520822667918464,
+    "trust_ratio": 0.25474811140681947,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.13208226679185,
-    "three_inst_ratio_change_20": -0.1946883869792586
+    "three_inst_ratio": 37.13474811140682,
+    "three_inst_ratio_change_20": 0.3052992822453291
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "嘉澤",
     "market": "TWSE",
     "foreign_ratio": 36.97,
-    "trust_ratio": 0.2520822667918464,
+    "trust_ratio": 0.25474811140681947,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.222082266791844,
-    "three_inst_ratio_change_20": 0.3926334376303515
+    "three_inst_ratio": 37.22474811140682,
+    "three_inst_ratio_change_20": 0.5526334376303552
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3533",
+    "name": "嘉澤",
+    "market": "TWSE",
+    "foreign_ratio": 37.12,
+    "trust_ratio": 0.2556367262784771,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.37563672627847,
+    "three_inst_ratio_change_20": 0.7814262817854072
   }
 ]

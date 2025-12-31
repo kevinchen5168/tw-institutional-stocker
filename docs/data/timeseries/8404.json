@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.0538101235955466
   },
   {
+    "date": "2025-12-25",
+    "code": "8404",
+    "name": "百和興業-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -52.723354325844305
+  },
+  {
     "date": "2025-12-26",
     "code": "8404",
     "name": "百和興業-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.1295442022487521,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.70954420224875,
-    "three_inst_ratio_change_20": -0.013810123595554558
+    "three_inst_ratio_change_20": 0.06618987640445084
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.1295442022487521,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.65954420224875,
-    "three_inst_ratio_change_20": 0.016189876404453685
+    "three_inst_ratio_change_20": -0.04381012359554859
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8404",
+    "name": "百和興業-KY",
+    "market": "TWSE",
+    "foreign_ratio": 52.56,
+    "trust_ratio": 0.1295442022487521,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 52.689544202248754,
+    "three_inst_ratio_change_20": -0.17381012359554404
   }
 ]

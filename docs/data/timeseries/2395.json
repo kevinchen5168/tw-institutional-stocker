@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.6091180438621748
   },
   {
+    "date": "2025-12-25",
+    "code": "2395",
+    "name": "研華",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -33.0441552364654
+  },
+  {
     "date": "2025-12-26",
     "code": "2395",
     "name": "研華",
     "market": "TWSE",
     "foreign_ratio": 32.08,
-    "trust_ratio": 0.2740538180042431,
+    "trust_ratio": 0.2753267199327908,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.35405381800424,
-    "three_inst_ratio_change_20": -0.6901014184611611
+    "three_inst_ratio": 32.35532671993279,
+    "three_inst_ratio_change_20": -0.6501014184611549
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "研華",
     "market": "TWSE",
     "foreign_ratio": 32.08,
-    "trust_ratio": 0.2738223812899617,
+    "trust_ratio": 0.2750952832185094,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.35382238128996,
-    "three_inst_ratio_change_20": -0.6516057571039866
+    "three_inst_ratio": 32.35509528321851,
+    "three_inst_ratio_change_20": -0.57859707981833
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2395",
+    "name": "研華",
+    "market": "TWSE",
+    "foreign_ratio": 32.1,
+    "trust_ratio": 0.269887957147178,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 32.36988795714718,
+    "three_inst_ratio_change_20": -0.5190342970406334
   }
 ]

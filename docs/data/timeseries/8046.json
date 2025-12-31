@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.7697799335574835
   },
   {
+    "date": "2025-12-25",
+    "code": "8046",
+    "name": "南電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.367782375786344
+  },
+  {
     "date": "2025-12-26",
     "code": "8046",
     "name": "南電",
     "market": "TWSE",
     "foreign_ratio": 11.11,
-    "trust_ratio": 2.6131664936787318,
+    "trust_ratio": 2.512418308717253,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.72316649367873,
-    "three_inst_ratio_change_20": -1.6446158821076136
+    "three_inst_ratio": 13.622418308717252,
+    "three_inst_ratio_change_20": -1.63276111469259
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "南電",
     "market": "TWSE",
     "foreign_ratio": 10.92,
-    "trust_ratio": 2.6052737787278324,
+    "trust_ratio": 2.5045255937663535,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.525273778727833,
-    "three_inst_ratio_change_20": -1.7299056446820096
+    "three_inst_ratio": 13.424525593766354,
+    "three_inst_ratio_change_20": -1.6664753334930111
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8046",
+    "name": "南電",
+    "market": "TWSE",
+    "foreign_ratio": 10.91,
+    "trust_ratio": 2.502823243482826,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.412823243482826,
+    "three_inst_ratio_change_20": -1.3782137577242644
   }
 ]

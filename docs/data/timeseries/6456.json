@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.480000000000004
   },
   {
+    "date": "2025-12-25",
+    "code": "6456",
+    "name": "GIS-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -51.17
+  },
+  {
     "date": "2025-12-26",
     "code": "6456",
     "name": "GIS-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.018050552198941944,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 49.57194944780106,
-    "three_inst_ratio_change_20": -1.5980505521989414
+    "three_inst_ratio_change_20": -1.5680505521989403
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": -0.018050552198941944,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 49.561949447801055,
-    "three_inst_ratio_change_20": -1.5780505521989454
+    "three_inst_ratio_change_20": -1.488050552198942
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6456",
+    "name": "GIS-KY",
+    "market": "TWSE",
+    "foreign_ratio": 49.57,
+    "trust_ratio": -0.018050552198941944,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 49.55194944780106,
+    "three_inst_ratio_change_20": -1.4280505521989397
   }
 ]

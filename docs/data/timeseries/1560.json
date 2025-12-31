@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 9.521244052919403
   },
   {
+    "date": "2025-12-25",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -22.45815606726608
+  },
+  {
     "date": "2025-12-26",
     "code": "1560",
     "name": "中砂",
     "market": "TWSE",
     "foreign_ratio": 27.82,
-    "trust_ratio": 4.178367222885825,
+    "trust_ratio": 4.292533997464021,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.998367222885825,
-    "three_inst_ratio_change_20": 9.540211155619744
+    "three_inst_ratio": 32.11253399746402,
+    "three_inst_ratio_change_20": 9.566428830340065
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "中砂",
     "market": "TWSE",
     "foreign_ratio": 27.57,
-    "trust_ratio": 4.177683589505118,
+    "trust_ratio": 4.291850364083313,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.74768358950512,
-    "three_inst_ratio_change_20": 9.201578422381164
+    "three_inst_ratio": 31.861850364083313,
+    "three_inst_ratio_change_20": 9.355061563578648
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "foreign_ratio": 27.97,
+    "trust_ratio": 4.718437593644955,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 32.688437593644956,
+    "three_inst_ratio_change_20": 9.405096748958215
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.7799999999999998
   },
   {
+    "date": "2025-12-25",
+    "code": "00926",
+    "name": "凱基全球菁英55",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.06
+  },
+  {
     "date": "2025-12-26",
     "code": "00926",
     "name": "凱基全球菁英55",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3,
-    "three_inst_ratio_change_20": -1.76
+    "three_inst_ratio_change_20": -1.7699999999999998
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.32,
-    "three_inst_ratio_change_20": -1.7499999999999998
+    "three_inst_ratio_change_20": -1.74
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00926",
+    "name": "凱基全球菁英55",
+    "market": "TWSE",
+    "foreign_ratio": 0.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.32,
+    "three_inst_ratio_change_20": -1.76
   }
 ]

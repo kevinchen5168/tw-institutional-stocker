@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.4299999999999997
   },
   {
+    "date": "2025-12-25",
+    "code": "6155",
+    "name": "鈞寶",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.11
+  },
+  {
     "date": "2025-12-26",
     "code": "6155",
     "name": "鈞寶",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.55,
-    "three_inst_ratio_change_20": -1.5599999999999996
+    "three_inst_ratio_change_20": -1.4699999999999998
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.52,
-    "three_inst_ratio_change_20": -1.5
+    "three_inst_ratio_change_20": -1.4800000000000004
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6155",
+    "name": "鈞寶",
+    "market": "TWSE",
+    "foreign_ratio": 6.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.61,
+    "three_inst_ratio_change_20": -1.33
   }
 ]

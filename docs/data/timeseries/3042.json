@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.6427471387453014
   },
   {
+    "date": "2025-12-25",
+    "code": "3042",
+    "name": "晶技",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.332021801723744
+  },
+  {
     "date": "2025-12-26",
     "code": "3042",
     "name": "晶技",
     "market": "TWSE",
     "foreign_ratio": 12.11,
-    "trust_ratio": 0.4569997441726,
+    "trust_ratio": 0.45670819300842175,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.5669997441726,
-    "three_inst_ratio_change_20": -0.7650220575511444
+    "three_inst_ratio": 12.566708193008422,
+    "three_inst_ratio_change_20": -0.705313608715322
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "晶技",
     "market": "TWSE",
     "foreign_ratio": 12.01,
-    "trust_ratio": 0.2814859433373053,
+    "trust_ratio": 0.2811943921731271,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.291485943337305,
-    "three_inst_ratio_change_20": -0.980535858386439
+    "three_inst_ratio": 12.291194392173127,
+    "three_inst_ratio_change_20": -0.9045580348642179
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3042",
+    "name": "晶技",
+    "market": "TWSE",
+    "foreign_ratio": 11.94,
+    "trust_ratio": 0.07011134930808831,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.010111349308088,
+    "three_inst_ratio_change_20": -1.1012380403562272
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.21057855904799938
   },
   {
+    "date": "2025-12-25",
+    "code": "00708L",
+    "name": "期元大S&P黃金正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.123260827874396
+  },
+  {
     "date": "2025-12-26",
     "code": "00708L",
     "name": "期元大S&P黃金正2",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.8071628727406697,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9871628727406696,
-    "three_inst_ratio_change_20": -0.13609795513372624
+    "three_inst_ratio_change_20": 0.7039020448662741
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.8071628727406697,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0371628727406694,
-    "three_inst_ratio_change_20": 0.7539020448662739
+    "three_inst_ratio_change_20": 0.2594437424959597
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00708L",
+    "name": "期元大S&P黃金正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.28,
+    "trust_ratio": 0.8071628727406697,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.0871628727406697,
+    "three_inst_ratio_change_20": 0.3322715649265253
   }
 ]

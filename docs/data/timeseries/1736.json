@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.5415934805132014
   },
   {
+    "date": "2025-12-25",
+    "code": "1736",
+    "name": "喬山",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.765966789845846
+  },
+  {
     "date": "2025-12-26",
     "code": "1736",
     "name": "喬山",
     "market": "TWSE",
     "foreign_ratio": 4.29,
-    "trust_ratio": -0.008487296266037574,
+    "trust_ratio": -0.02826352057525134,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.281512703733963,
-    "three_inst_ratio_change_20": -0.48445408611188334
+    "three_inst_ratio": 4.261736479424749,
+    "three_inst_ratio_change_20": -0.4864317085428045
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "喬山",
     "market": "TWSE",
     "foreign_ratio": 4.29,
-    "trust_ratio": -0.008487296266037574,
+    "trust_ratio": -0.02826352057525134,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.281512703733963,
-    "three_inst_ratio_change_20": -0.4666554842335904
+    "three_inst_ratio": 4.261736479424749,
+    "three_inst_ratio_change_20": -0.4854428973273439
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1736",
+    "name": "喬山",
+    "market": "TWSE",
+    "foreign_ratio": 4.28,
+    "trust_ratio": -0.02826352057525134,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.251736479424749,
+    "three_inst_ratio_change_20": -0.4854428973273439
   }
 ]

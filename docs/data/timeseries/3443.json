@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.7589841900694942
   },
   {
+    "date": "2025-12-25",
+    "code": "3443",
+    "name": "創意",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -32.260805118956924
+  },
+  {
     "date": "2025-12-26",
     "code": "3443",
     "name": "創意",
     "market": "TWSE",
     "foreign_ratio": 27.96,
-    "trust_ratio": 3.33965762192586,
+    "trust_ratio": 3.2762304240255182,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.29965762192586,
-    "three_inst_ratio_change_20": -0.9611474970310638
+    "three_inst_ratio": 31.236230424025518,
+    "three_inst_ratio_change_20": -0.6121841810762625
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "創意",
     "market": "TWSE",
     "foreign_ratio": 27.86,
-    "trust_ratio": 3.349246321843735,
+    "trust_ratio": 3.2858191239433934,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.209246321843736,
-    "three_inst_ratio_change_20": -0.6391682832580443
+    "three_inst_ratio": 31.145819123943394,
+    "three_inst_ratio_change_20": -0.7361790299371229
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3443",
+    "name": "創意",
+    "market": "TWSE",
+    "foreign_ratio": 27.84,
+    "trust_ratio": 3.2697817435048737,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 31.109781743504875,
+    "three_inst_ratio_change_20": -0.9900292913515685
   }
 ]

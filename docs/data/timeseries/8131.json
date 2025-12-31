@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.27304020087656244
   },
   {
+    "date": "2025-12-25",
+    "code": "8131",
+    "name": "福懋科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.249547738694263
+  },
+  {
     "date": "2025-12-26",
     "code": "8131",
     "name": "福懋科",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.1001758792207962,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.040175879220796,
-    "three_inst_ratio_change_20": 0.7906281405265334
+    "three_inst_ratio_change_20": 1.1506281405265333
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.1001758792207962,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.860175879220796,
-    "three_inst_ratio_change_20": 0.9706281405265331
+    "three_inst_ratio_change_20": 0.9033165828032121
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8131",
+    "name": "福懋科",
+    "market": "TWSE",
+    "foreign_ratio": 3.4,
+    "trust_ratio": 0.1001758792207962,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.500175879220796,
+    "three_inst_ratio_change_20": 0.37600502507989075
   }
 ]

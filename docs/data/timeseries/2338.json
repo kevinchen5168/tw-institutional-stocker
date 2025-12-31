@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.3599999999999999
   },
   {
+    "date": "2025-12-25",
+    "code": "2338",
+    "name": "光罩",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.64
+  },
+  {
     "date": "2025-12-26",
     "code": "2338",
     "name": "光罩",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.16,
-    "three_inst_ratio_change_20": -0.48
+    "three_inst_ratio_change_20": -0.5099999999999998
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.13,
-    "three_inst_ratio_change_20": -0.54
+    "three_inst_ratio_change_20": -0.5
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2338",
+    "name": "光罩",
+    "market": "TWSE",
+    "foreign_ratio": 3.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.08,
+    "three_inst_ratio_change_20": -0.56
   }
 ]

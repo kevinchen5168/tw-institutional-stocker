@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.129999999999999
   },
   {
+    "date": "2025-12-25",
+    "code": "2031",
+    "name": "新光鋼",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.998566112450273
+  },
+  {
     "date": "2025-12-26",
     "code": "2031",
     "name": "新光鋼",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.13856611245027387,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.938566112450275,
-    "three_inst_ratio_change_20": -1.0599999999999987
+    "three_inst_ratio_change_20": -1.0
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.13856611245027387,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.958566112450274,
-    "three_inst_ratio_change_20": -0.9800000000000004
+    "three_inst_ratio_change_20": -0.7199999999999989
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2031",
+    "name": "新光鋼",
+    "market": "TWSE",
+    "foreign_ratio": 8.76,
+    "trust_ratio": 0.13856611245027387,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.898566112450274,
+    "three_inst_ratio_change_20": -0.7599999999999998
   }
 ]

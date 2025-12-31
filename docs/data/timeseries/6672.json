@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.8499999999999979
   },
   {
+    "date": "2025-12-25",
+    "code": "6672",
+    "name": "騰輝電子-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.69
+  },
+  {
     "date": "2025-12-26",
     "code": "6672",
     "name": "騰輝電子-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.65,
-    "three_inst_ratio_change_20": -1.0400000000000027
+    "three_inst_ratio_change_20": -1.3399999999999999
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.62,
-    "three_inst_ratio_change_20": -2.3699999999999974
+    "three_inst_ratio_change_20": -2.1799999999999997
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6672",
+    "name": "騰輝電子-KY",
+    "market": "TWSE",
+    "foreign_ratio": 21.46,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.46,
+    "three_inst_ratio_change_20": -2.419999999999998
   }
 ]

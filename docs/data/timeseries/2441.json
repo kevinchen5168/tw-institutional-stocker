@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.8197829907617482
   },
   {
+    "date": "2025-12-25",
+    "code": "2441",
+    "name": "超豐",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -16.990438866608308
+  },
+  {
     "date": "2025-12-26",
     "code": "2441",
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.38,
-    "trust_ratio": 3.7219270136948035,
+    "trust_ratio": 3.853069731337671,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.101927013694805,
-    "three_inst_ratio_change_20": -1.8885118529135028
+    "three_inst_ratio": 15.233069731337672,
+    "three_inst_ratio_change_20": -1.8273691352706365
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.26,
-    "trust_ratio": 3.7416160007940005,
+    "trust_ratio": 3.872758718436868,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.001616000794,
-    "three_inst_ratio_change_20": -2.0588228658143084
+    "three_inst_ratio": 15.132758718436868,
+    "three_inst_ratio_change_20": -2.018423902436666
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2441",
+    "name": "超豐",
+    "market": "TWSE",
+    "foreign_ratio": 11.12,
+    "trust_ratio": 3.860980485082884,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.980980485082883,
+    "three_inst_ratio_change_20": -2.22127719103395
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.08000000000000007
   },
   {
+    "date": "2025-12-25",
+    "code": "00762",
+    "name": "元大全球AI",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.8271577847439917
+  },
+  {
     "date": "2025-12-26",
     "code": "00762",
     "name": "元大全球AI",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.4571577847439916,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.9671577847439914,
-    "three_inst_ratio_change_20": 0.13999999999999968
+    "three_inst_ratio_change_20": 0.06999999999999984
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.4571577847439916,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0271577847439914,
-    "three_inst_ratio_change_20": 0.1299999999999999
+    "three_inst_ratio_change_20": 0.17999999999999972
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00762",
+    "name": "元大全球AI",
+    "market": "TWSE",
+    "foreign_ratio": 2.71,
+    "trust_ratio": 0.4571577847439916,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.1671577847439916,
+    "three_inst_ratio_change_20": 0.16000000000000014
   }
 ]

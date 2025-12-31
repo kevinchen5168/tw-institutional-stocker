@@ -759,6 +759,17 @@
     "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
+    "date": "2025-12-25",
+    "code": "1472",
+    "name": "三洋實業",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.25
+  },
+  {
     "date": "2025-12-26",
     "code": "1472",
     "name": "三洋實業",
@@ -778,6 +789,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.11,
-    "three_inst_ratio_change_20": -0.1399999999999999
+    "three_inst_ratio_change_20": -0.1299999999999999
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1472",
+    "name": "三洋實業",
+    "market": "TWSE",
+    "foreign_ratio": 1.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.08,
+    "three_inst_ratio_change_20": -0.15999999999999992
   }
 ]

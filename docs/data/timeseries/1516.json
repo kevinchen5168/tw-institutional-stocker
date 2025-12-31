@@ -759,6 +759,17 @@
     "three_inst_ratio_change_20": 0.33999999999999986
   },
   {
+    "date": "2025-12-25",
+    "code": "1516",
+    "name": "川飛",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.05
+  },
+  {
     "date": "2025-12-26",
     "code": "1516",
     "name": "川飛",
@@ -767,7 +778,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.38,
-    "three_inst_ratio_change_20": 0.32999999999999985
+    "three_inst_ratio_change_20": 0.33999999999999986
   },
   {
     "date": "2025-12-29",
@@ -778,6 +789,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.64,
-    "three_inst_ratio_change_20": 0.5999999999999999
+    "three_inst_ratio_change_20": 0.5899999999999999
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1516",
+    "name": "川飛",
+    "market": "TWSE",
+    "foreign_ratio": 1.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.58,
+    "three_inst_ratio_change_20": 0.53
   }
 ]

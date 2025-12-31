@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -2.3678652611454716
   },
   {
+    "date": "2025-12-25",
+    "code": "3515",
+    "name": "華擎",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -14.625173277444977
+  },
+  {
     "date": "2025-12-26",
     "code": "3515",
     "name": "華擎",
     "market": "TWSE",
     "foreign_ratio": 12.24,
-    "trust_ratio": 0.14730801629950566,
+    "trust_ratio": 0.14811742768833994,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.387308016299507,
-    "three_inst_ratio_change_20": -2.237865261145471
+    "three_inst_ratio": 12.388117427688341,
+    "three_inst_ratio_change_20": -2.247055849756636
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "華擎",
     "market": "TWSE",
     "foreign_ratio": 12.3,
+    "trust_ratio": 0.14811742768833994,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.448117427688342,
+    "three_inst_ratio_change_20": -2.147865197208194
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3515",
+    "name": "華擎",
+    "market": "TWSE",
+    "foreign_ratio": 12.14,
     "trust_ratio": 0.14730801629950566,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.447308016299507,
-    "three_inst_ratio_change_20": -2.18786526114547
+    "three_inst_ratio": 12.287308016299507,
+    "three_inst_ratio_change_20": -2.1778652611454703
   }
 ]

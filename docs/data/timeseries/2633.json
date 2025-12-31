@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.2545409381346406
   },
   {
+    "date": "2025-12-25",
+    "code": "2633",
+    "name": "台灣高鐵",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.975026955311039
+  },
+  {
     "date": "2025-12-26",
     "code": "2633",
     "name": "台灣高鐵",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.05089962392644125,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.74089962392644,
-    "three_inst_ratio_change_20": -0.23412733138459885
+    "three_inst_ratio_change_20": -0.20393189024664515
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.05089962392644125,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.75089962392644,
-    "three_inst_ratio_change_20": -0.19393189024664537
+    "three_inst_ratio_change_20": -0.20854837526479209
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2633",
+    "name": "台灣高鐵",
+    "market": "TWSE",
+    "foreign_ratio": 10.68,
+    "trust_ratio": 0.05065088065995301,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.730650880659953,
+    "three_inst_ratio_change_20": -0.24330699929235955
   }
 ]

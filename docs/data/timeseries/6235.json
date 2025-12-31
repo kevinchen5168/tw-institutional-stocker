@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.10700328082696853
   },
   {
+    "date": "2025-12-25",
+    "code": "6235",
+    "name": "華孚",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.382618344115667
+  },
+  {
     "date": "2025-12-26",
     "code": "6235",
     "name": "華孚",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.24561506328869886,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.615615063288699,
-    "three_inst_ratio_change_20": 0.23299671917303133
+    "three_inst_ratio_change_20": 0.2529967191730309
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.24561506328869886,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.755615063288698,
-    "three_inst_ratio_change_20": 0.3929967191730306
+    "three_inst_ratio_change_20": 0.48299671917303133
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6235",
+    "name": "華孚",
+    "market": "TWSE",
+    "foreign_ratio": 5.38,
+    "trust_ratio": 0.24561506328869886,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.6256150632886985,
+    "three_inst_ratio_change_20": 0.4329967191730306
   }
 ]

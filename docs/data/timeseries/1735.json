@@ -715,6 +715,17 @@
     "three_inst_ratio_change_20": -0.020000000000003126
   },
   {
+    "date": "2025-12-25",
+    "code": "1735",
+    "name": "日勝化",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -50.43
+  },
+  {
     "date": "2025-12-26",
     "code": "1735",
     "name": "日勝化",
@@ -735,5 +746,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.43,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1735",
+    "name": "日勝化",
+    "market": "TWSE",
+    "foreign_ratio": 50.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 50.45,
+    "three_inst_ratio_change_20": 0.020000000000003126
   }
 ]

@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.4163803381929085
   },
   {
+    "date": "2025-12-25",
+    "code": "6515",
+    "name": "穎崴",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -30.361326347432794
+  },
+  {
     "date": "2025-12-26",
     "code": "6515",
     "name": "穎崴",
     "market": "TWSE",
     "foreign_ratio": 20.85,
-    "trust_ratio": 8.96283249248189,
+    "trust_ratio": 9.118208321363383,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.812832492481892,
-    "three_inst_ratio_change_20": -0.5484938549509017
+    "three_inst_ratio": 29.968208321363385,
+    "three_inst_ratio_change_20": -0.6076973754704582
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "穎崴",
     "market": "TWSE",
     "foreign_ratio": 20.78,
-    "trust_ratio": 8.854624325939422,
+    "trust_ratio": 9.010000154820915,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.634624325939424,
-    "three_inst_ratio_change_20": -0.9412813708944192
+    "three_inst_ratio": 29.790000154820916,
+    "three_inst_ratio_change_20": -0.2542593587514048
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6515",
+    "name": "穎崴",
+    "market": "TWSE",
+    "foreign_ratio": 20.42,
+    "trust_ratio": 9.698093111296096,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 30.118093111296098,
+    "three_inst_ratio_change_20": 0.4268245582398862
   }
 ]

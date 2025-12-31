@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.5224126755700915
   },
   {
+    "date": "2025-12-25",
+    "code": "2880",
+    "name": "華南金",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -17.68531614263935
+  },
+  {
     "date": "2025-12-26",
     "code": "2880",
     "name": "華南金",
     "market": "TWSE",
     "foreign_ratio": 16.78,
-    "trust_ratio": 1.2072402059325162,
+    "trust_ratio": 1.3170127023230904,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.98724020593252,
-    "three_inst_ratio_change_20": 0.3019240632931677
+    "three_inst_ratio": 18.09701270232309,
+    "three_inst_ratio_change_20": 0.4036316798645956
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "華南金",
     "market": "TWSE",
     "foreign_ratio": 16.71,
-    "trust_ratio": 1.3198509648140426,
+    "trust_ratio": 1.429623461204617,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.029850964814045,
-    "three_inst_ratio_change_20": 0.3364699423555493
+    "three_inst_ratio": 18.139623461204618,
+    "three_inst_ratio_change_20": 0.4558113102664869
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2880",
+    "name": "華南金",
+    "market": "TWSE",
+    "foreign_ratio": 16.7,
+    "trust_ratio": 1.4219278178430732,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.121927817843073,
+    "three_inst_ratio_change_20": 0.3008174053773409
   }
 ]

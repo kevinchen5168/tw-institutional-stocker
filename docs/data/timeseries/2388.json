@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.9303599705926331
   },
   {
+    "date": "2025-12-25",
+    "code": "2388",
+    "name": "威盛",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.088579077514558
+  },
+  {
     "date": "2025-12-26",
     "code": "2388",
     "name": "威盛",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.06893904810719174,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.788939048107192,
-    "three_inst_ratio_change_20": 0.7003599705926344
+    "three_inst_ratio_change_20": 0.6303599705926342
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.06893904810719174,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.618939048107192,
+    "three_inst_ratio_change_20": 0.470359970592634
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2388",
+    "name": "威盛",
+    "market": "TWSE",
+    "foreign_ratio": 13.57,
+    "trust_ratio": 0.06893904810719174,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.638939048107192,
     "three_inst_ratio_change_20": 0.4603599705926342
   }
 ]

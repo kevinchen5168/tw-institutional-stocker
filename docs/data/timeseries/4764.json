@@ -748,6 +748,17 @@
     "three_inst_ratio_change_20": 1.3399999999999999
   },
   {
+    "date": "2025-12-25",
+    "code": "4764",
+    "name": "雙鍵",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.63
+  },
+  {
     "date": "2025-12-26",
     "code": "4764",
     "name": "雙鍵",
@@ -756,7 +767,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.31,
-    "three_inst_ratio_change_20": 1.6799999999999997
+    "three_inst_ratio_change_20": 1.759999999999998
   },
   {
     "date": "2025-12-29",
@@ -767,6 +778,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.64,
-    "three_inst_ratio_change_20": 2.09
+    "three_inst_ratio_change_20": 2.1400000000000006
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4764",
+    "name": "雙鍵",
+    "market": "TWSE",
+    "foreign_ratio": 25.97,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.97,
+    "three_inst_ratio_change_20": 2.6099999999999994
   }
 ]

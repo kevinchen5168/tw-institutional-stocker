@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 2.363023712515739
   },
   {
+    "date": "2025-12-25",
+    "code": "2329",
+    "name": "華泰",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -11.232675825045803
+  },
+  {
     "date": "2025-12-26",
     "code": "2329",
     "name": "華泰",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.8353546078722931,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.775354607872293,
-    "three_inst_ratio_change_20": 3.5426787828264903
+    "three_inst_ratio_change_20": 3.5826787828264894
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.8353546078722931,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.295354607872294,
-    "three_inst_ratio_change_20": 3.102678782826491
+    "three_inst_ratio_change_20": 3.30267878282649
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2329",
+    "name": "華泰",
+    "market": "TWSE",
+    "foreign_ratio": 13.44,
+    "trust_ratio": 0.8353546078722931,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.275354607872293,
+    "three_inst_ratio_change_20": 3.2926787828264903
   }
 ]

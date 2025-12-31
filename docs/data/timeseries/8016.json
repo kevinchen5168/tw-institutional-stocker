@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.8674270451314214
   },
   {
+    "date": "2025-12-25",
+    "code": "8016",
+    "name": "矽創",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -29.564028140368826
+  },
+  {
     "date": "2025-12-26",
     "code": "8016",
     "name": "矽創",
     "market": "TWSE",
     "foreign_ratio": 26.3,
-    "trust_ratio": 2.548546376384883,
+    "trust_ratio": 2.547990343947349,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.848546376384885,
-    "three_inst_ratio_change_20": -0.7154817639839415
+    "three_inst_ratio": 28.847990343947348,
+    "three_inst_ratio_change_20": -0.7360377964214777
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "矽創",
     "market": "TWSE",
     "foreign_ratio": 26.5,
-    "trust_ratio": 2.2721949253949303,
+    "trust_ratio": 2.2716388929573963,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.77219492539493,
-    "three_inst_ratio_change_20": -0.8118332149738947
+    "three_inst_ratio": 28.771638892957398,
+    "three_inst_ratio_change_20": -0.7807472663098025
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8016",
+    "name": "矽創",
+    "market": "TWSE",
+    "foreign_ratio": 27.32,
+    "trust_ratio": 1.9794721480854889,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.29947214808549,
+    "three_inst_ratio_change_20": -0.1454453428604232
   }
 ]

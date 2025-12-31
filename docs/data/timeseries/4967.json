@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 5.570584168541124
   },
   {
+    "date": "2025-12-25",
+    "code": "4967",
+    "name": "十銓",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -16.15379019230047
+  },
+  {
     "date": "2025-12-26",
     "code": "4967",
     "name": "十銓",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.5931973819092312,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.463197381909232,
-    "three_inst_ratio_change_20": 4.309407189608763
+    "three_inst_ratio_change_20": 5.019407189608765
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.5931973819092312,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.893197381909232,
-    "three_inst_ratio_change_20": 3.449407189608765
+    "three_inst_ratio_change_20": 5.039407189608765
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4967",
+    "name": "十銓",
+    "market": "TWSE",
+    "foreign_ratio": 17.34,
+    "trust_ratio": 0.5931973819092312,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.93319738190923,
+    "three_inst_ratio_change_20": 3.329407189608764
   }
 ]

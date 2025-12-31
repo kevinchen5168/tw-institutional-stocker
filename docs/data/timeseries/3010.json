@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 1.6226575795524028
   },
   {
+    "date": "2025-12-25",
+    "code": "3010",
+    "name": "華立",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.928168867682338
+  },
+  {
     "date": "2025-12-26",
     "code": "3010",
     "name": "華立",
     "market": "TWSE",
     "foreign_ratio": 12.96,
-    "trust_ratio": 1.4819966743579036,
+    "trust_ratio": 1.6425294024479187,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.441996674357904,
-    "three_inst_ratio_change_20": 1.5138278066755664
+    "three_inst_ratio": 14.602529402447919,
+    "three_inst_ratio_change_20": 1.5943605347655811
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "華立",
     "market": "TWSE",
     "foreign_ratio": 12.94,
-    "trust_ratio": 1.5028109907777663,
+    "trust_ratio": 1.663343718867781,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.442810990777765,
-    "three_inst_ratio_change_20": 1.4346421230954274
+    "three_inst_ratio": 14.60334371886778,
+    "three_inst_ratio_change_20": 1.5670586868940806
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3010",
+    "name": "華立",
+    "market": "TWSE",
+    "foreign_ratio": 12.88,
+    "trust_ratio": 1.6618019176514949,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.541801917651496,
+    "three_inst_ratio_change_20": 1.3904626159131457
   }
 ]

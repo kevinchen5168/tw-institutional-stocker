@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -3.9188478367784363
   },
   {
+    "date": "2025-12-25",
+    "code": "2377",
+    "name": "微星",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -16.729872112449282
+  },
+  {
     "date": "2025-12-26",
     "code": "2377",
     "name": "微星",
     "market": "TWSE",
     "foreign_ratio": 17.38,
-    "trust_ratio": -4.441691147489586,
+    "trust_ratio": -4.439205517387699,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.938308852510414,
-    "three_inst_ratio_change_20": -3.7915632599388687
+    "three_inst_ratio": 12.9407944826123,
+    "three_inst_ratio_change_20": -3.6512081699243133
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "微星",
     "market": "TWSE",
     "foreign_ratio": 17.29,
-    "trust_ratio": -4.436483160609442,
+    "trust_ratio": -4.433997530507556,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.853516839390558,
-    "three_inst_ratio_change_20": -3.738485813146056
+    "three_inst_ratio": 12.856002469492443,
+    "three_inst_ratio_change_20": -2.6574205431023916
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2377",
+    "name": "微星",
+    "market": "TWSE",
+    "foreign_ratio": 17.13,
+    "trust_ratio": -4.428353729816214,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.701646270183785,
+    "three_inst_ratio_change_20": -2.660437461239484
   }
 ]

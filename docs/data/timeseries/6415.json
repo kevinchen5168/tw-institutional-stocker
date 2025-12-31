@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -2.647390318335141
   },
   {
+    "date": "2025-12-25",
+    "code": "6415",
+    "name": "矽力*-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -82.09853233361233
+  },
+  {
     "date": "2025-12-26",
     "code": "6415",
     "name": "矽力*-KY",
     "market": "TWSE",
     "foreign_ratio": 78.96,
-    "trust_ratio": 0.8678950623254036,
+    "trust_ratio": 0.8775843822449491,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 79.8278950623254,
-    "three_inst_ratio_change_20": -2.2706372712869296
+    "three_inst_ratio": 79.83758438224494,
+    "three_inst_ratio_change_20": -2.1001748673312477
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "矽力*-KY",
     "market": "TWSE",
     "foreign_ratio": 78.98,
-    "trust_ratio": 0.8678950623254036,
+    "trust_ratio": 0.8775843822449491,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 79.8478950623254,
-    "three_inst_ratio_change_20": -2.0898641872507824
+    "three_inst_ratio": 79.85758438224495,
+    "three_inst_ratio_change_20": -1.5242979821906175
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6415",
+    "name": "矽力*-KY",
+    "market": "TWSE",
+    "foreign_ratio": 78.97,
+    "trust_ratio": 0.8775843822449491,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 79.84758438224495,
+    "three_inst_ratio_change_20": -1.4730095087970625
   }
 ]

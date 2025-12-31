@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.9800000000000004
   },
   {
+    "date": "2025-12-25",
+    "code": "00700",
+    "name": "富邦恒生國企",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.58
+  },
+  {
     "date": "2025-12-26",
     "code": "00700",
     "name": "富邦恒生國企",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.42,
-    "three_inst_ratio_change_20": -0.16000000000000014
+    "three_inst_ratio_change_20": -0.10999999999999988
   },
   {
     "date": "2025-12-29",
@@ -801,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.52,
     "three_inst_ratio_change_20": -0.009999999999999787
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00700",
+    "name": "富邦恒生國企",
+    "market": "TWSE",
+    "foreign_ratio": 3.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.52,
+    "three_inst_ratio_change_20": -0.1299999999999999
   }
 ]

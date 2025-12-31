@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -2.4699792135853897
   },
   {
+    "date": "2025-12-25",
+    "code": "3661",
+    "name": "世芯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -55.96938027618216
+  },
+  {
     "date": "2025-12-26",
     "code": "3661",
     "name": "世芯-KY",
     "market": "TWSE",
     "foreign_ratio": 49.11,
-    "trust_ratio": 4.26441452268761,
+    "trust_ratio": 4.376342321960129,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 53.37441452268761,
-    "three_inst_ratio_change_20": -2.5949657534945487
+    "three_inst_ratio": 53.48634232196013,
+    "three_inst_ratio_change_20": -2.3656899690244444
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "世芯-KY",
     "market": "TWSE",
     "foreign_ratio": 49.7,
-    "trust_ratio": 4.297807346779964,
+    "trust_ratio": 4.4097351460524825,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 53.997807346779965,
-    "three_inst_ratio_change_20": -1.85422494420461
+    "three_inst_ratio": 54.109735146052486,
+    "three_inst_ratio_change_20": -1.6378460218541164
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3661",
+    "name": "世芯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 49.65,
+    "trust_ratio": 4.533413509091722,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 54.18341350909172,
+    "three_inst_ratio_change_20": -2.2456684448757755
   }
 ]

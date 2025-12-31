@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.6970239378038539
   },
   {
+    "date": "2025-12-25",
+    "code": "2637",
+    "name": "慧洋-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.448929644046363
+  },
+  {
     "date": "2025-12-26",
     "code": "2637",
     "name": "慧洋-KY",
     "market": "TWSE",
     "foreign_ratio": 10.99,
-    "trust_ratio": 0.36690142667976416,
+    "trust_ratio": 0.33980596747709696,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.356901426679764,
-    "three_inst_ratio_change_20": 0.9079717826334015
+    "three_inst_ratio": 11.329805967477098,
+    "three_inst_ratio_change_20": 1.2012782477376742
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "慧洋-KY",
     "market": "TWSE",
     "foreign_ratio": 11.06,
-    "trust_ratio": 0.35701408872909673,
+    "trust_ratio": 0.32991862952642953,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.417014088729097,
-    "three_inst_ratio_change_20": 1.2884863689896733
+    "three_inst_ratio": 11.38991862952643,
+    "three_inst_ratio_change_20": 0.5839467786489614
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2637",
+    "name": "慧洋-KY",
+    "market": "TWSE",
+    "foreign_ratio": 11.15,
+    "trust_ratio": 0.2795441163902376,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.429544116390238,
+    "three_inst_ratio_change_20": 0.6110370931535112
   }
 ]

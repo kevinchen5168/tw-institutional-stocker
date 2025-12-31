@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.3698489407650003
   },
   {
+    "date": "2025-12-25",
+    "code": "3032",
+    "name": "偉訓",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.5583229870663375
+  },
+  {
     "date": "2025-12-26",
     "code": "3032",
     "name": "偉訓",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.13152595369866255,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.328474046301338,
-    "three_inst_ratio_change_20": -1.2298489407649997
+    "three_inst_ratio_change_20": -1.0598489407649998
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": -0.13152595369866255,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.398474046301338,
-    "three_inst_ratio_change_20": -0.9898489407649995
+    "three_inst_ratio_change_20": -0.6598489407649994
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3032",
+    "name": "偉訓",
+    "market": "TWSE",
+    "foreign_ratio": 6.4,
+    "trust_ratio": -0.13152595369866255,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.268474046301338,
+    "three_inst_ratio_change_20": -0.6498489407649997
   }
 ]

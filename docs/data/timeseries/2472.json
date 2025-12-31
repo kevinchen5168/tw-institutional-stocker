@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.7197361850617199
   },
   {
+    "date": "2025-12-25",
+    "code": "2472",
+    "name": "立隆電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.319715803374724
+  },
+  {
     "date": "2025-12-26",
     "code": "2472",
     "name": "立隆電",
@@ -789,7 +800,7 @@
     "trust_ratio": 3.58264794474296,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.63264794474296,
-    "three_inst_ratio_change_20": 1.3129321413682362
+    "three_inst_ratio_change_20": 1.7129321413682366
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 3.58264794474296,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.56264794474296,
-    "three_inst_ratio_change_20": 1.6429321413682363
+    "three_inst_ratio_change_20": 1.5843693384004656
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2472",
+    "name": "立隆電",
+    "market": "TWSE",
+    "foreign_ratio": 9.92,
+    "trust_ratio": 3.5614017184445594,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.481401718444559,
+    "three_inst_ratio_change_20": 1.442451764616555
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.1900078372266676
   },
   {
+    "date": "2025-12-25",
+    "code": "00878",
+    "name": "國泰永續高股息",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.32074765341964995
+  },
+  {
     "date": "2025-12-26",
     "code": "00878",
     "name": "國泰永續高股息",
@@ -801,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5507563298902991,
     "three_inst_ratio_change_20": 0.23000867647064915
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00878",
+    "name": "國泰永續高股息",
+    "market": "TWSE",
+    "foreign_ratio": 0.57,
+    "trust_ratio": 0.0007567412640133111,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5707567412640132,
+    "three_inst_ratio_change_20": 0.23000894807182892
   }
 ]

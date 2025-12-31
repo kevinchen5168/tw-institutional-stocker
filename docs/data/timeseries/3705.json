@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.09999999999999964
   },
   {
+    "date": "2025-12-25",
+    "code": "3705",
+    "name": "永信",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.791876714967943
+  },
+  {
     "date": "2025-12-26",
     "code": "3705",
     "name": "永信",
     "market": "TWSE",
     "foreign_ratio": 7.7,
-    "trust_ratio": 0.0018767149679425367,
+    "trust_ratio": 0.003378086942296566,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.701876714967943,
-    "three_inst_ratio_change_20": -0.08999999999999986
+    "three_inst_ratio": 7.703378086942297,
+    "three_inst_ratio_change_20": -0.08849862802564612
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "永信",
     "market": "TWSE",
     "foreign_ratio": 7.73,
-    "trust_ratio": 0.0018767149679425367,
+    "trust_ratio": 0.003378086942296566,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.731876714967943,
-    "three_inst_ratio_change_20": -0.05999999999999961
+    "three_inst_ratio": 7.733378086942297,
+    "three_inst_ratio_change_20": -0.048498628025646084
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3705",
+    "name": "永信",
+    "market": "TWSE",
+    "foreign_ratio": 7.73,
+    "trust_ratio": 0.003378086942296566,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.733378086942297,
+    "three_inst_ratio_change_20": -0.028498628025645623
   }
 ]

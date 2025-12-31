@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.020000000000003126
   },
   {
+    "date": "2025-12-25",
+    "code": "8213",
+    "name": "志超",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -19.03
+  },
+  {
     "date": "2025-12-26",
     "code": "8213",
     "name": "志超",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.93,
-    "three_inst_ratio_change_20": -0.10000000000000142
+    "three_inst_ratio_change_20": -0.10999999999999943
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.92,
-    "three_inst_ratio_change_20": -0.11999999999999744
+    "three_inst_ratio_change_20": -0.05999999999999872
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8213",
+    "name": "志超",
+    "market": "TWSE",
+    "foreign_ratio": 18.9,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.9,
+    "three_inst_ratio_change_20": -0.10000000000000142
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.31365472995199717
   },
   {
+    "date": "2025-12-25",
+    "code": "6873",
+    "name": "泓德能源",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.683960492095819
+  },
+  {
     "date": "2025-12-26",
     "code": "6873",
     "name": "泓德能源",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.19409628527386974,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.35590371472613,
-    "three_inst_ratio_change_20": -0.32805677736968875
+    "three_inst_ratio_change_20": -0.2980567773696876
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": -0.22933922933690332,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.090660770663098,
-    "three_inst_ratio_change_20": -0.5632997214327204
+    "three_inst_ratio_change_20": -0.5532997214327207
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6873",
+    "name": "泓德能源",
+    "market": "TWSE",
+    "foreign_ratio": 8.19,
+    "trust_ratio": -0.23638781814951,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.95361218185049,
+    "three_inst_ratio_change_20": -0.6003483102453284
   }
 ]

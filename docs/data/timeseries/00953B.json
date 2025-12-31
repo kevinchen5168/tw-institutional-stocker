@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.5106604858146491
   },
   {
+    "date": "2025-12-25",
+    "code": "00953B",
+    "name": "群益優選非投等債",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.3793836640264967
+  },
+  {
     "date": "2025-12-26",
     "code": "00953B",
     "name": "群益優選非投等債",
@@ -789,7 +800,7 @@
     "trust_ratio": 1.4800441498411459,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7500441498411456,
-    "three_inst_ratio_change_20": 0.37066048581464894
+    "three_inst_ratio_change_20": 0.3606604858146487
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 1.5288285046985433,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.6388285046985436,
-    "three_inst_ratio_change_20": 0.24944484067204664
+    "three_inst_ratio_change_20": 0.25607066283784885
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00953B",
+    "name": "群益優選非投等債",
+    "market": "TWSE",
+    "foreign_ratio": 0.7,
+    "trust_ratio": 1.4888253337154775,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.1888253337154775,
+    "three_inst_ratio_change_20": -0.10912667277711074
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 1.7546777290836033
   },
   {
+    "date": "2025-12-25",
+    "code": "2316",
+    "name": "楠梓電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -35.73917830250865
+  },
+  {
     "date": "2025-12-26",
     "code": "2316",
     "name": "楠梓電",
@@ -789,7 +800,7 @@
     "trust_ratio": 1.0238560315922463,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.273856031592246,
-    "three_inst_ratio_change_20": -4.465322270916403
+    "three_inst_ratio_change_20": -5.8353222709164
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 1.0238560315922463,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.163856031592246,
-    "three_inst_ratio_change_20": -5.9453222709163995
+    "three_inst_ratio_change_20": -4.764077854297199
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2316",
+    "name": "楠梓電",
+    "market": "TWSE",
+    "foreign_ratio": 30.08,
+    "trust_ratio": 1.0025142971015473,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 31.082514297101547,
+    "three_inst_ratio_change_20": -2.325419588787895
   }
 ]

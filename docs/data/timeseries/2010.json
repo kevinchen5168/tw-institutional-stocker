@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.2111266202849027
   },
   {
+    "date": "2025-12-25",
+    "code": "2010",
+    "name": "春源",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.745975922318813
+  },
+  {
     "date": "2025-12-26",
     "code": "2010",
     "name": "春源",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.007102542603713991,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.957102542603714,
-    "three_inst_ratio_change_20": 0.21112662028490092
+    "three_inst_ratio_change_20": 0.23112662028490227
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.007102542603713991,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.927102542603714,
-    "three_inst_ratio_change_20": 0.2011266202849029
+    "three_inst_ratio_change_20": 0.17112662028490178
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2010",
+    "name": "春源",
+    "market": "TWSE",
+    "foreign_ratio": 8.79,
+    "trust_ratio": 0.007102542603713991,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.797102542603714,
+    "three_inst_ratio_change_20": 0.05112662028490078
   }
 ]

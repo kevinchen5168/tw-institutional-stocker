@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.05301584911272883
   },
   {
+    "date": "2025-12-25",
+    "code": "1907",
+    "name": "永豐餘",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.557116470672726
+  },
+  {
     "date": "2025-12-26",
     "code": "1907",
     "name": "永豐餘",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.034100621559996123,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.484100621559996,
-    "three_inst_ratio_change_20": -0.07301584911273018
+    "three_inst_ratio_change_20": -0.08301584911273174
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.05144613735975996,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.52144613735976,
-    "three_inst_ratio_change_20": -0.04567033331296777
+    "three_inst_ratio_change_20": -0.03567033331296621
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1907",
+    "name": "永豐餘",
+    "market": "TWSE",
+    "foreign_ratio": 12.46,
+    "trust_ratio": 0.08155988006768328,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.541559880067684,
+    "three_inst_ratio_change_20": -0.01555659060504233
   }
 ]

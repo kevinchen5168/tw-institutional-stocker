@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -4.93
   },
   {
+    "date": "2025-12-25",
+    "code": "6209",
+    "name": "今國光",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -16.28
+  },
+  {
     "date": "2025-12-26",
     "code": "6209",
     "name": "今國光",
     "market": "TWSE",
     "foreign_ratio": 11.49,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.013396841747301545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.49,
-    "three_inst_ratio_change_20": -4.790000000000001
+    "three_inst_ratio": 11.503396841747302,
+    "three_inst_ratio_change_20": -2.5366031582526976
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "今國光",
     "market": "TWSE",
     "foreign_ratio": 9.93,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.013396841747301545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.93,
-    "three_inst_ratio_change_20": -4.109999999999999
+    "three_inst_ratio": 9.943396841747301,
+    "three_inst_ratio_change_20": -3.886603158252699
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6209",
+    "name": "今國光",
+    "market": "TWSE",
+    "foreign_ratio": 10.86,
+    "trust_ratio": 0.013396841747301545,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.8733968417473,
+    "three_inst_ratio_change_20": -3.1566031582526985
   }
 ]

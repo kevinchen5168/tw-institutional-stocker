@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.05999999999999961
   },
   {
+    "date": "2025-12-25",
+    "code": "6277",
+    "name": "宏正",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.69
+  },
+  {
     "date": "2025-12-26",
     "code": "6277",
     "name": "宏正",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.008370220476462078,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.728370220476462,
-    "three_inst_ratio_change_20": 0.03837022047646155
+    "three_inst_ratio_change_20": 0.02837022047646176
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.008370220476462078,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.728370220476462,
-    "three_inst_ratio_change_20": 0.02837022047646176
+    "three_inst_ratio_change_20": 0.04837022047646222
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6277",
+    "name": "宏正",
+    "market": "TWSE",
+    "foreign_ratio": 6.74,
+    "trust_ratio": 0.008370220476462078,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.748370220476462,
+    "three_inst_ratio_change_20": 0.07837022047646247
   }
 ]

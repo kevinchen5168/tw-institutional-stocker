@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.0395140566338128
   },
   {
+    "date": "2025-12-25",
+    "code": "2383",
+    "name": "台光電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -48.305793877203435
+  },
+  {
     "date": "2025-12-26",
     "code": "2383",
     "name": "台光電",
     "market": "TWSE",
     "foreign_ratio": 44.01,
-    "trust_ratio": 3.9956868227445423,
+    "trust_ratio": 4.037212475336106,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.00568682274454,
-    "three_inst_ratio_change_20": -0.3001070544588913
+    "three_inst_ratio": 48.0472124753361,
+    "three_inst_ratio_change_20": -0.2753162628450312
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "台光電",
     "market": "TWSE",
     "foreign_ratio": 44.02,
-    "trust_ratio": 3.997585179487669,
+    "trust_ratio": 4.039110832079232,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.017585179487675,
-    "three_inst_ratio_change_20": -0.30494355869345924
+    "three_inst_ratio": 48.059110832079234,
+    "three_inst_ratio_change_20": -0.2911109254023643
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2383",
+    "name": "台光電",
+    "market": "TWSE",
+    "foreign_ratio": 44.03,
+    "trust_ratio": 4.037912643978413,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.06791264397842,
+    "three_inst_ratio_change_20": -0.22977660245697962
   }
 ]

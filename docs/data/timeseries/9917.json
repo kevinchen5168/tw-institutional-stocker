@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.3875465009921868
   },
   {
+    "date": "2025-12-25",
+    "code": "9917",
+    "name": "中保科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -39.75525567774436
+  },
+  {
     "date": "2025-12-26",
     "code": "9917",
     "name": "中保科",
     "market": "TWSE",
     "foreign_ratio": 39.37,
-    "trust_ratio": 0.023941421980748445,
+    "trust_ratio": -0.019941839474573033,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.39394142198075,
-    "three_inst_ratio_change_20": -0.36131425576360954
+    "three_inst_ratio": 39.35005816052542,
+    "three_inst_ratio_change_20": -0.4247542519517111
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "中保科",
     "market": "TWSE",
     "foreign_ratio": 39.43,
-    "trust_ratio": 0.037017747363899796,
+    "trust_ratio": -0.006865514091421684,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.4670177473639,
-    "three_inst_ratio_change_20": -0.30779466511323506
+    "three_inst_ratio": 39.42313448590858,
+    "three_inst_ratio_change_20": -0.3016779265685585
+  },
+  {
+    "date": "2025-12-30",
+    "code": "9917",
+    "name": "中保科",
+    "market": "TWSE",
+    "foreign_ratio": 39.43,
+    "trust_ratio": -0.007087146725034419,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 39.422912853274966,
+    "three_inst_ratio_change_20": -0.33544568133997643
   }
 ]

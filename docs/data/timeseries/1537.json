@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.061218579031077525
   },
   {
+    "date": "2025-12-25",
+    "code": "1537",
+    "name": "廣隆",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.116770478957857
+  },
+  {
     "date": "2025-12-26",
     "code": "1537",
     "name": "廣隆",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.07555189992678046,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.11555189992678,
-    "three_inst_ratio_change_20": -0.0012185790310770273
+    "three_inst_ratio_change_20": -0.021218579031078377
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.07555189992678046,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.11555189992678,
-    "three_inst_ratio_change_20": -0.021218579031078377
+    "three_inst_ratio_change_20": -0.031218579031078164
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1537",
+    "name": "廣隆",
+    "market": "TWSE",
+    "foreign_ratio": 15.05,
+    "trust_ratio": 0.07555189992678046,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.125551899926782,
+    "three_inst_ratio_change_20": -0.0212185790310766
   }
 ]

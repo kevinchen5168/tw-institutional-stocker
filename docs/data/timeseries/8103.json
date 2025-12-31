@@ -704,6 +704,17 @@
     "three_inst_ratio_change_20": -2.5365704817958097
   },
   {
+    "date": "2025-12-25",
+    "code": "8103",
+    "name": "瀚荃",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -21.502323742027876
+  },
+  {
     "date": "2025-12-26",
     "code": "8103",
     "name": "瀚荃",
@@ -712,7 +723,7 @@
     "trust_ratio": 0.025753260232066706,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.055753260232066,
-    "three_inst_ratio_change_20": -2.44657048179581
+    "three_inst_ratio_change_20": -2.136570481795811
   },
   {
     "date": "2025-12-29",
@@ -723,6 +734,17 @@
     "trust_ratio": 0.025753260232066706,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.075753260232066,
+    "three_inst_ratio_change_20": -3.4965704817958105
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8103",
+    "name": "瀚荃",
+    "market": "TWSE",
+    "foreign_ratio": 18.72,
+    "trust_ratio": 0.025753260232066706,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.745753260232064,
     "three_inst_ratio_change_20": -3.1165704817958115
   }
 ]

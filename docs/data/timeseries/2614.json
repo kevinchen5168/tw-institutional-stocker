@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.4208331153804661
   },
   {
+    "date": "2025-12-25",
+    "code": "2614",
+    "name": "東森",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.421452087324989
+  },
+  {
     "date": "2025-12-26",
     "code": "2614",
     "name": "東森",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.3122852027054557,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.202285202705456,
-    "three_inst_ratio_change_20": 0.7808331153804664
+    "three_inst_ratio_change_20": 0.5808331153804662
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.3122852027054557,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.0522852027054554,
-    "three_inst_ratio_change_20": 0.43083311538046587
+    "three_inst_ratio_change_20": 0.5408331153804653
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2614",
+    "name": "東森",
+    "market": "TWSE",
+    "foreign_ratio": 5.64,
+    "trust_ratio": 0.3122852027054557,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.952285202705456,
+    "three_inst_ratio_change_20": 0.25083311538046615
   }
 ]

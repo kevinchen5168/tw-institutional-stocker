@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.0284180403554628
   },
   {
+    "date": "2025-12-25",
+    "code": "8261",
+    "name": "富鼎",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.508043043763717
+  },
+  {
     "date": "2025-12-26",
     "code": "8261",
     "name": "富鼎",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.45962500340825413,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.809625003408254,
-    "three_inst_ratio_change_20": -0.6984180403554627
+    "three_inst_ratio_change_20": -0.5784180403554626
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.45962500340825413,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.8896250034082542,
-    "three_inst_ratio_change_20": -0.49841804035546255
+    "three_inst_ratio_change_20": -0.358418040355462
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8261",
+    "name": "富鼎",
+    "market": "TWSE",
+    "foreign_ratio": 2.69,
+    "trust_ratio": 0.45962500340825413,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.149625003408254,
+    "three_inst_ratio_change_20": -0.03841804035546259
   }
 ]

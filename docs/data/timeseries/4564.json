@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.25
   },
   {
+    "date": "2025-12-25",
+    "code": "4564",
+    "name": "元翎",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.02
+  },
+  {
     "date": "2025-12-26",
     "code": "4564",
     "name": "元翎",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.17,
-    "three_inst_ratio_change_20": 0.1499999999999999
+    "three_inst_ratio_change_20": 0.17999999999999994
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3,
-    "three_inst_ratio_change_20": 0.30999999999999983
+    "three_inst_ratio_change_20": 0.31999999999999984
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4564",
+    "name": "元翎",
+    "market": "TWSE",
+    "foreign_ratio": 2.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.34,
+    "three_inst_ratio_change_20": 0.3699999999999999
   }
 ]

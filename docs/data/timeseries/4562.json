@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.87
   },
   {
+    "date": "2025-12-25",
+    "code": "4562",
+    "name": "穎漢",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.91
+  },
+  {
     "date": "2025-12-26",
     "code": "4562",
     "name": "穎漢",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.12,
-    "three_inst_ratio_change_20": -1.79
+    "three_inst_ratio_change_20": -1.88
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.24,
-    "three_inst_ratio_change_20": -1.7599999999999998
+    "three_inst_ratio_change_20": -1.7699999999999996
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4562",
+    "name": "穎漢",
+    "market": "TWSE",
+    "foreign_ratio": 2.05,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.05,
+    "three_inst_ratio_change_20": -1.8800000000000003
   }
 ]

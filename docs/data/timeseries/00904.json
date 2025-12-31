@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.06632773010461973
   },
   {
+    "date": "2025-12-25",
+    "code": "00904",
+    "name": "新光臺灣半導體30",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.35
+  },
+  {
     "date": "2025-12-26",
     "code": "00904",
     "name": "新光臺灣半導體30",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.18434946759873758,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3043494675987376,
-    "three_inst_ratio_change_20": -0.04565053240126238
+    "three_inst_ratio_change_20": -0.05565053240126239
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.18434946759873758,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3143494675987376,
-    "three_inst_ratio_change_20": -0.04565053240126238
+    "three_inst_ratio_change_20": -0.08565053240126241
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00904",
+    "name": "新光臺灣半導體30",
+    "market": "TWSE",
+    "foreign_ratio": 0.13,
+    "trust_ratio": 0.27486405372477934,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.40486405372477935,
+    "three_inst_ratio_change_20": 0.034864053724779354
   }
 ]

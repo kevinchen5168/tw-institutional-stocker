@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.07000000000000028
   },
   {
+    "date": "2025-12-25",
+    "code": "2546",
+    "name": "根基",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.34
+  },
+  {
     "date": "2025-12-26",
     "code": "2546",
     "name": "根基",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.3,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": 0.020000000000000018
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2546",
+    "name": "根基",
+    "market": "TWSE",
+    "foreign_ratio": 3.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.3,
+    "three_inst_ratio_change_20": 0.029999999999999805
   }
 ]

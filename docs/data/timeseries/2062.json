@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.1874993420807627
   },
   {
+    "date": "2025-12-25",
+    "code": "2062",
+    "name": "橋椿",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.667004005997136
+  },
+  {
     "date": "2025-12-26",
     "code": "2062",
     "name": "橋椿",
     "market": "TWSE",
     "foreign_ratio": 7.76,
-    "trust_ratio": 0.1145033480778978,
+    "trust_ratio": 0.11300330421661528,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.874503348077898,
-    "three_inst_ratio_change_20": 0.20749934208076226
+    "three_inst_ratio": 7.873003304216615,
+    "three_inst_ratio_change_20": 0.16599929821947956
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "橋椿",
     "market": "TWSE",
     "foreign_ratio": 7.8,
-    "trust_ratio": 0.1090031872531953,
+    "trust_ratio": 0.10750314339191278,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.909003187253195,
-    "three_inst_ratio_change_20": 0.20199918125605976
+    "three_inst_ratio": 7.907503143391913,
+    "three_inst_ratio_change_20": 0.22049913739477756
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2062",
+    "name": "橋椿",
+    "market": "TWSE",
+    "foreign_ratio": 7.78,
+    "trust_ratio": 0.10750314339191278,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.887503143391913,
+    "three_inst_ratio_change_20": 0.15049913739477816
   }
 ]

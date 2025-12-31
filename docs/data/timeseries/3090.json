@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 1.4559143490485607
   },
   {
+    "date": "2025-12-25",
+    "code": "3090",
+    "name": "日電貿",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.4244867450958845
+  },
+  {
     "date": "2025-12-26",
     "code": "3090",
     "name": "日電貿",
     "market": "TWSE",
     "foreign_ratio": 6.16,
-    "trust_ratio": 2.191680795250779,
+    "trust_ratio": 2.1910405969527464,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.351680795250779,
-    "three_inst_ratio_change_20": 1.9271940501548945
+    "three_inst_ratio": 8.351040596952746,
+    "three_inst_ratio_change_20": 2.836553851856862
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "日電貿",
     "market": "TWSE",
     "foreign_ratio": 6.09,
-    "trust_ratio": 2.3839837060665654,
+    "trust_ratio": 2.3833435077685334,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.473983706066566,
-    "three_inst_ratio_change_20": 2.9594969609706814
+    "three_inst_ratio": 8.473343507768533,
+    "three_inst_ratio_change_20": 2.9588567626726485
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3090",
+    "name": "日電貿",
+    "market": "TWSE",
+    "foreign_ratio": 5.98,
+    "trust_ratio": 2.5655618174746317,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.545561817474631,
+    "three_inst_ratio_change_20": 3.0110750723787465
   }
 ]

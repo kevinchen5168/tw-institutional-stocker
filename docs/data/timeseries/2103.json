@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.0002422157965007
   },
   {
+    "date": "2025-12-25",
+    "code": "2103",
+    "name": "台橡",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -22.107805052175355
+  },
+  {
     "date": "2025-12-26",
     "code": "2103",
     "name": "台橡",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.4375628363788526,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.99756283637885,
-    "three_inst_ratio_change_20": -1.1102422157965037
+    "three_inst_ratio_change_20": -1.0902422157965006
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.4375628363788526,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.057562836378853,
-    "three_inst_ratio_change_20": -1.0302422157964983
+    "three_inst_ratio_change_20": -0.5502422157965015
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2103",
+    "name": "台橡",
+    "market": "TWSE",
+    "foreign_ratio": 20.71,
+    "trust_ratio": 0.4374417284806022,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.147441728480604,
+    "three_inst_ratio_change_20": -0.4003633236947479
   }
 ]

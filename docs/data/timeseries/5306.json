@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.33999999999999986
   },
   {
+    "date": "2025-12-25",
+    "code": "5306",
+    "name": "桂盟",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.68
+  },
+  {
     "date": "2025-12-26",
     "code": "5306",
     "name": "桂盟",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.35,
-    "three_inst_ratio_change_20": -0.33000000000000007
+    "three_inst_ratio_change_20": -0.3200000000000003
   },
   {
     "date": "2025-12-29",
@@ -801,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.37,
     "three_inst_ratio_change_20": -0.3000000000000007
+  },
+  {
+    "date": "2025-12-30",
+    "code": "5306",
+    "name": "桂盟",
+    "market": "TWSE",
+    "foreign_ratio": 12.41,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.41,
+    "three_inst_ratio_change_20": -0.2400000000000002
   }
 ]

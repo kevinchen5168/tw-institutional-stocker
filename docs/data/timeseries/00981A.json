@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.5521685689771565
   },
   {
+    "date": "2025-12-25",
+    "code": "00981A",
+    "name": "主動統一台股增長",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.1204493114733753
+  },
+  {
     "date": "2025-12-26",
     "code": "00981A",
     "name": "主動統一台股增長",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.3714800138640431,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.621480013864043,
-    "three_inst_ratio_change_20": 0.5010307023906677
+    "three_inst_ratio_change_20": 0.5378873105851645
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.4027469371772313,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5327469371772313,
-    "three_inst_ratio_change_20": 0.44915423389835274
+    "three_inst_ratio_change_20": 0.687471245441416
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00981A",
+    "name": "主動統一台股增長",
+    "market": "TWSE",
+    "foreign_ratio": 1.3,
+    "trust_ratio": 0.4022704278162902,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7022704278162903,
+    "three_inst_ratio_change_20": 0.7223946853705203
   }
 ]

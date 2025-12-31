@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -2.2600000000000016
   },
   {
+    "date": "2025-12-25",
+    "code": "4977",
+    "name": "眾達-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -22.241649497845994
+  },
+  {
     "date": "2025-12-26",
     "code": "4977",
     "name": "眾達-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.16835050215400726,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.491649497845994,
-    "three_inst_ratio_change_20": -5.75
+    "three_inst_ratio_change_20": -8.618579563214247
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": -0.16835050215400726,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.871649497845992,
-    "three_inst_ratio_change_20": -9.23857956321425
+    "three_inst_ratio_change_20": -7.378579563214251
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4977",
+    "name": "眾達-KY",
+    "market": "TWSE",
+    "foreign_ratio": 16.85,
+    "trust_ratio": -0.16835050215400726,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.681649497845996,
+    "three_inst_ratio_change_20": -6.218579563214245
   }
 ]

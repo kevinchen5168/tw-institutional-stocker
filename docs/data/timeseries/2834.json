@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.32166225531911863
   },
   {
+    "date": "2025-12-25",
+    "code": "2834",
+    "name": "臺企銀",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -19.564783695844124
+  },
+  {
     "date": "2025-12-26",
     "code": "2834",
     "name": "臺企銀",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.08662615170396618,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.816626151703968,
-    "three_inst_ratio_change_20": 0.251842455859844
+    "three_inst_ratio_change_20": 0.27184245585984357
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.08659528135094091,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.846595281350943,
-    "three_inst_ratio_change_20": 0.30181158550681886
+    "three_inst_ratio_change_20": 0.23181158550681857
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2834",
+    "name": "臺企銀",
+    "market": "TWSE",
+    "foreign_ratio": 19.77,
+    "trust_ratio": 0.08704804652864481,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.857048046528643,
+    "three_inst_ratio_change_20": 0.21227464080219605
   }
 ]

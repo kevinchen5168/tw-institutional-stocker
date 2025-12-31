@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.7491971797401913
   },
   {
+    "date": "2025-12-25",
+    "code": "2520",
+    "name": "冠德",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.136842531091428
+  },
+  {
     "date": "2025-12-26",
     "code": "2520",
     "name": "冠德",
     "market": "TWSE",
     "foreign_ratio": 13.17,
-    "trust_ratio": -5.198745056314644,
+    "trust_ratio": -6.088017349538368,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.971254943685356,
-    "three_inst_ratio_change_20": -1.1655875874060726
+    "three_inst_ratio": 7.081982650461632,
+    "three_inst_ratio_change_20": -2.024859880629797
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "冠德",
     "market": "TWSE",
     "foreign_ratio": 12.9,
-    "trust_ratio": -5.206128313361705,
+    "trust_ratio": -6.095400606585429,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.693871686638295,
-    "three_inst_ratio_change_20": -1.4129708444531337
+    "three_inst_ratio": 6.804599393414572,
+    "three_inst_ratio_change_20": -2.1622431376768567
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2520",
+    "name": "冠德",
+    "market": "TWSE",
+    "foreign_ratio": 12.92,
+    "trust_ratio": -6.101471284601901,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.818528715398099,
+    "three_inst_ratio_change_20": -2.2483138156933293
   }
 ]

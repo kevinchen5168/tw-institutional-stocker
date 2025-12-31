@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.06950070064164027
   },
   {
+    "date": "2025-12-25",
+    "code": "7765",
+    "name": "中華資安",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.39
+  },
+  {
     "date": "2025-12-26",
     "code": "7765",
     "name": "中華資安",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.05654300956314379,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4865430095631438,
-    "three_inst_ratio_change_20": 0.09654300956314377
+    "three_inst_ratio_change_20": 0.10654300956314378
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.08358531848464734,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4935853184846473,
-    "three_inst_ratio_change_20": 0.11358531848464731
+    "three_inst_ratio_change_20": 0.13358531848464733
+  },
+  {
+    "date": "2025-12-30",
+    "code": "7765",
+    "name": "中華資安",
+    "market": "TWSE",
+    "foreign_ratio": 0.49,
+    "trust_ratio": 0.20650490449148168,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6965049044914817,
+    "three_inst_ratio_change_20": 0.32650490449148173
   }
 ]

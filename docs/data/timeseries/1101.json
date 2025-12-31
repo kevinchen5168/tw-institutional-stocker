@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.04742181674535573
   },
   {
+    "date": "2025-12-25",
+    "code": "1101",
+    "name": "台泥",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -19.837752743271214
+  },
+  {
     "date": "2025-12-26",
     "code": "1101",
     "name": "台泥",
     "market": "TWSE",
     "foreign_ratio": 18.22,
-    "trust_ratio": 1.6472139759022106,
+    "trust_ratio": 1.6475980217508055,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 19.86721397590221,
-    "three_inst_ratio_change_20": 0.029461232630996648
+    "three_inst_ratio": 19.867598021750805,
+    "three_inst_ratio_change_20": 0.029845278479591286
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "台泥",
     "market": "TWSE",
     "foreign_ratio": 18.42,
-    "trust_ratio": 1.6472139759022106,
+    "trust_ratio": 1.6475980217508055,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.067213975902213,
-    "three_inst_ratio_change_20": 0.2294612326309995
+    "three_inst_ratio": 20.067598021750808,
+    "three_inst_ratio_change_20": 0.2498452784795937
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1101",
+    "name": "台泥",
+    "market": "TWSE",
+    "foreign_ratio": 18.49,
+    "trust_ratio": 1.648511786011255,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.138511786011254,
+    "three_inst_ratio_change_20": 0.3081634225219503
   }
 ]

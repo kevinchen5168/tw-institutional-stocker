@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.26166260282232656
   },
   {
+    "date": "2025-12-25",
+    "code": "2480",
+    "name": "敦陽科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.338773147771851
+  },
+  {
     "date": "2025-12-26",
     "code": "2480",
     "name": "敦陽科",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.07711054494952445,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.067110544949525,
-    "three_inst_ratio_change_20": -0.27166260282232635
+    "three_inst_ratio_change_20": -0.2616626028223248
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.07993114648398245,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.089931146483982,
-    "three_inst_ratio_change_20": -0.2388420012878676
+    "three_inst_ratio_change_20": -0.2249982427182342
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2480",
+    "name": "敦陽科",
+    "market": "TWSE",
+    "foreign_ratio": 11.99,
+    "trust_ratio": 0.08181154750695445,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.071811547506954,
+    "three_inst_ratio_change_20": -0.23987207801076948
   }
 ]

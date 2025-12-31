@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 1.2649878957376526
   },
   {
+    "date": "2025-12-25",
+    "code": "8028",
+    "name": "昇陽半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.801753451711981
+  },
+  {
     "date": "2025-12-26",
     "code": "8028",
     "name": "昇陽半導體",
@@ -789,7 +800,7 @@
     "trust_ratio": 1.8843984626761054,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.454398462676107,
-    "three_inst_ratio_change_20": 0.6526450109641253
+    "three_inst_ratio_change_20": 0.5380107694327965
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 1.8612272550194673,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.381227255019468,
-    "three_inst_ratio_change_20": 0.4648395617761576
+    "three_inst_ratio_change_20": 1.1603575569907587
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8028",
+    "name": "昇陽半導體",
+    "market": "TWSE",
+    "foreign_ratio": 8.8,
+    "trust_ratio": 1.9330579987550458,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.733057998755047,
+    "three_inst_ratio_change_20": 1.7350847016834177
   }
 ]

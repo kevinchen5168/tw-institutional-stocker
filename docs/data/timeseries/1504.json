@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.222164299388842
   },
   {
+    "date": "2025-12-25",
+    "code": "1504",
+    "name": "東元",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -11.020022090481934
+  },
+  {
     "date": "2025-12-26",
     "code": "1504",
     "name": "東元",
     "market": "TWSE",
     "foreign_ratio": 14.4,
-    "trust_ratio": -3.895709689844714,
+    "trust_ratio": -3.9393463775593234,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.504290310155287,
-    "three_inst_ratio_change_20": -0.5157317803266466
+    "three_inst_ratio": 10.460653622440677,
+    "three_inst_ratio_change_20": -0.4293955702704171
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "東元",
     "market": "TWSE",
     "foreign_ratio": 14.51,
-    "trust_ratio": -3.998131770748628,
+    "trust_ratio": -4.0417684584632365,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.511868229251371,
-    "three_inst_ratio_change_20": -0.3781809634597231
+    "three_inst_ratio": 10.468231541536763,
+    "three_inst_ratio_change_20": -0.3241712636830112
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1504",
+    "name": "東元",
+    "market": "TWSE",
+    "foreign_ratio": 14.56,
+    "trust_ratio": -4.263777660524179,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.296222339475822,
+    "three_inst_ratio_change_20": -0.3380424941252169
   }
 ]

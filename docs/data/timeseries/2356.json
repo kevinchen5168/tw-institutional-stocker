@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.18946221192217116
   },
   {
+    "date": "2025-12-25",
+    "code": "2356",
+    "name": "英業達",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.184322145195363
+  },
+  {
     "date": "2025-12-26",
     "code": "2356",
     "name": "英業達",
     "market": "TWSE",
     "foreign_ratio": 12.63,
-    "trust_ratio": 0.24497198832935385,
+    "trust_ratio": 0.24689534664489848,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.874971988329355,
-    "three_inst_ratio_change_20": -0.3093501568660084
+    "three_inst_ratio": 12.876895346644899,
+    "three_inst_ratio_change_20": -0.16812366750537144
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "英業達",
     "market": "TWSE",
     "foreign_ratio": 12.67,
-    "trust_ratio": 0.24502341725822605,
+    "trust_ratio": 0.24694677557377062,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.915023417258226,
-    "three_inst_ratio_change_20": -0.12999559689204432
+    "three_inst_ratio": 12.91694677557377,
+    "three_inst_ratio_change_20": -0.2291036046297652
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2356",
+    "name": "英業達",
+    "market": "TWSE",
+    "foreign_ratio": 12.6,
+    "trust_ratio": 0.24998512421716715,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.849985124217167,
+    "three_inst_ratio_change_20": -0.3164833773593134
   }
 ]

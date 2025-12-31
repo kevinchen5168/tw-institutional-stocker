@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.09618652608729583
   },
   {
+    "date": "2025-12-25",
+    "code": "6906",
+    "name": "現觀科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.5454158640801
+  },
+  {
     "date": "2025-12-26",
     "code": "6906",
     "name": "現觀科",
     "market": "TWSE",
     "foreign_ratio": 9.76,
-    "trust_ratio": -0.09839760983260479,
+    "trust_ratio": -0.11330633859512067,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.661602390167396,
-    "three_inst_ratio_change_20": 0.1161865260872954
+    "three_inst_ratio": 9.646693661404878,
+    "three_inst_ratio_change_20": 0.03127779732477798
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "現觀科",
     "market": "TWSE",
     "foreign_ratio": 9.8,
-    "trust_ratio": -0.09839760983260479,
+    "trust_ratio": -0.11330633859512067,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.701602390167396,
-    "three_inst_ratio_change_20": 0.08618652608729604
+    "three_inst_ratio": 9.68669366140488,
+    "three_inst_ratio_change_20": 0.10127779732477826
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6906",
+    "name": "現觀科",
+    "market": "TWSE",
+    "foreign_ratio": 9.81,
+    "trust_ratio": -0.11330633859512067,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.696693661404879,
+    "three_inst_ratio_change_20": 0.13022303458228635
   }
 ]

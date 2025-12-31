@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.10678185384583294
   },
   {
+    "date": "2025-12-25",
+    "code": "1603",
+    "name": "華電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.559451608864405
+  },
+  {
     "date": "2025-12-26",
     "code": "1603",
     "name": "華電",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.23266975501857184,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.592669755018572,
-    "three_inst_ratio_change_20": 0.03321814615416674
+    "three_inst_ratio_change_20": 0.06321814615416699
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.23266975501857184,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.5726697550185715,
-    "three_inst_ratio_change_20": 0.043218146154166526
+    "three_inst_ratio_change_20": 0.07321814615416677
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1603",
+    "name": "華電",
+    "market": "TWSE",
+    "foreign_ratio": 4.17,
+    "trust_ratio": 0.23266975501857184,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.402669755018572,
+    "three_inst_ratio_change_20": -0.07678185384583358
   }
 ]

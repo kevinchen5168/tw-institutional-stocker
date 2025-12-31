@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.3890754938959873
   },
   {
+    "date": "2025-12-25",
+    "code": "8996",
+    "name": "高力",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -39.20965988890411
+  },
+  {
     "date": "2025-12-26",
     "code": "8996",
     "name": "高力",
     "market": "TWSE",
     "foreign_ratio": 31.1,
-    "trust_ratio": 6.990712455751896,
+    "trust_ratio": 6.661647977863253,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.0907124557519,
-    "three_inst_ratio_change_20": -1.118947433152215
+    "three_inst_ratio": 37.761647977863255,
+    "three_inst_ratio_change_20": -1.3461471616794896
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "高力",
     "market": "TWSE",
     "foreign_ratio": 31.43,
-    "trust_ratio": 7.561382414083698,
+    "trust_ratio": 7.232317936195054,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.991382414083695,
-    "three_inst_ratio_change_20": -0.11641272545904968
+    "three_inst_ratio": 38.66231793619505,
+    "three_inst_ratio_change_20": -0.17576612687884818
+  },
+  {
+    "date": "2025-12-30",
+    "code": "8996",
+    "name": "高力",
+    "market": "TWSE",
+    "foreign_ratio": 30.75,
+    "trust_ratio": 7.42035478070285,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 38.17035478070285,
+    "three_inst_ratio_change_20": -1.5794596761272999
   }
 ]

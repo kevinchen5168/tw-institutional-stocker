@@ -748,6 +748,17 @@
     "three_inst_ratio_change_20": 0.3299999999999983
   },
   {
+    "date": "2025-12-25",
+    "code": "6796",
+    "name": "晉弘",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.22
+  },
+  {
     "date": "2025-12-26",
     "code": "6796",
     "name": "晉弘",
@@ -756,7 +767,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.73,
-    "three_inst_ratio_change_20": 0.5099999999999998
+    "three_inst_ratio_change_20": 0.47000000000000064
   },
   {
     "date": "2025-12-29",
@@ -767,6 +778,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.41,
-    "three_inst_ratio_change_20": 0.15000000000000036
+    "three_inst_ratio_change_20": 0.16000000000000014
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6796",
+    "name": "晉弘",
+    "market": "TWSE",
+    "foreign_ratio": 15.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.44,
+    "three_inst_ratio_change_20": 0.17999999999999972
   }
 ]

@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -3.9050579706883912
   },
   {
+    "date": "2025-12-25",
+    "code": "3450",
+    "name": "聯鈞",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -18.444418970435084
+  },
+  {
     "date": "2025-12-26",
     "code": "3450",
     "name": "聯鈞",
     "market": "TWSE",
     "foreign_ratio": 10.58,
-    "trust_ratio": 5.488003950978444,
+    "trust_ratio": 5.392590248766311,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.068003950978444,
-    "three_inst_ratio_change_20": -2.3764150194566405
+    "three_inst_ratio": 15.972590248766311,
+    "three_inst_ratio_change_20": -2.601828721668772
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "聯鈞",
     "market": "TWSE",
     "foreign_ratio": 9.32,
-    "trust_ratio": 5.536054016840669,
+    "trust_ratio": 5.440640314628537,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.85605401684067,
-    "three_inst_ratio_change_20": -3.7183649535944134
+    "three_inst_ratio": 14.760640314628537,
+    "three_inst_ratio_change_20": -3.4510329377572777
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3450",
+    "name": "聯鈞",
+    "market": "TWSE",
+    "foreign_ratio": 10.03,
+    "trust_ratio": 5.402886691451074,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.432886691451074,
+    "three_inst_ratio_change_20": -2.5564308297130225
   }
 ]

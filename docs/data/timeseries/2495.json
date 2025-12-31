@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -2.705431996291682
   },
   {
+    "date": "2025-12-25",
+    "code": "2495",
+    "name": "普安",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.398018430004221
+  },
+  {
     "date": "2025-12-26",
     "code": "2495",
     "name": "普安",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.3374135662874614,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.532586433712539,
-    "three_inst_ratio_change_20": -1.865431996291682
+    "three_inst_ratio_change_20": -1.4254319962916817
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": -0.3374135662874614,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.9525864337125385,
-    "three_inst_ratio_change_20": -2.0054319962916822
+    "three_inst_ratio_change_20": -1.4454319962916826
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2495",
+    "name": "普安",
+    "market": "TWSE",
+    "foreign_ratio": 4.61,
+    "trust_ratio": -0.3374135662874614,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.272586433712539,
+    "three_inst_ratio_change_20": -0.8554319962916814
   }
 ]

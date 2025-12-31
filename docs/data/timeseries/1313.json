@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
+    "date": "2025-12-25",
+    "code": "1313",
+    "name": "聯成",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.5
+  },
+  {
     "date": "2025-12-26",
     "code": "1313",
     "name": "聯成",
     "market": "TWSE",
     "foreign_ratio": 7.44,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.001259548855665153,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.44,
-    "three_inst_ratio_change_20": -0.05999999999999961
+    "three_inst_ratio": 7.441259548855665,
+    "three_inst_ratio_change_20": -0.1687404511443349
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "聯成",
     "market": "TWSE",
     "foreign_ratio": 7.45,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.001259548855665153,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.45,
-    "three_inst_ratio_change_20": -0.16000000000000014
+    "three_inst_ratio": 7.451259548855665,
+    "three_inst_ratio_change_20": -0.26874045114433454
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1313",
+    "name": "聯成",
+    "market": "TWSE",
+    "foreign_ratio": 7.4,
+    "trust_ratio": 0.001259548855665153,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.401259548855665,
+    "three_inst_ratio_change_20": -0.3487404511443346
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.4711988863924219
   },
   {
+    "date": "2025-12-25",
+    "code": "1301",
+    "name": "台塑",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -27.86470275319714
+  },
+  {
     "date": "2025-12-26",
     "code": "1301",
     "name": "台塑",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.00038529687029051525,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.239614703129707,
-    "three_inst_ratio_change_20": -0.6250880500674327
+    "three_inst_ratio_change_20": -0.6351665955214791
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": -0.00038529687029051525,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.199614703129708,
-    "three_inst_ratio_change_20": -0.6751665955214783
+    "three_inst_ratio_change_20": -0.7177114682326575
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1301",
+    "name": "台塑",
+    "market": "TWSE",
+    "foreign_ratio": 27.08,
+    "trust_ratio": -0.0064018786504212825,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.073598121349576,
+    "three_inst_ratio_change_20": -0.9862886318147766
   }
 ]

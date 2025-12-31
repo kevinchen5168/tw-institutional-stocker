@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.6499999999999986
   },
   {
+    "date": "2025-12-25",
+    "code": "4770",
+    "name": "上品",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.81188356506952
+  },
+  {
     "date": "2025-12-26",
     "code": "4770",
     "name": "上品",
@@ -789,7 +800,7 @@
     "trust_ratio": 2.1118835650695207,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.14188356506952,
-    "three_inst_ratio_change_20": -0.6699999999999999
+    "three_inst_ratio_change_20": -0.6800000000000015
   },
   {
     "date": "2025-12-29",
@@ -801,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.261883565069521,
     "three_inst_ratio_change_20": -0.5600000000000005
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4770",
+    "name": "上品",
+    "market": "TWSE",
+    "foreign_ratio": 8.11,
+    "trust_ratio": 2.1118835650695207,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.22188356506952,
+    "three_inst_ratio_change_20": -0.6100000000000012
   }
 ]

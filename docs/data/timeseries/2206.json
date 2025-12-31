@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.402046544670454
   },
   {
+    "date": "2025-12-25",
+    "code": "2206",
+    "name": "三陽工業",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.950411688353237
+  },
+  {
     "date": "2025-12-26",
     "code": "2206",
     "name": "三陽工業",
     "market": "TWSE",
     "foreign_ratio": 7.12,
-    "trust_ratio": 0.4189733806941157,
+    "trust_ratio": 0.406849054886828,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.538973380694116,
-    "three_inst_ratio_change_20": -0.4114383076591217
+    "three_inst_ratio": 7.526849054886828,
+    "three_inst_ratio_change_20": -0.4033100433454244
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "三陽工業",
     "market": "TWSE",
     "foreign_ratio": 7.16,
-    "trust_ratio": 0.4297084608359851,
+    "trust_ratio": 0.41758413502869735,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.589708460835985,
-    "three_inst_ratio_change_20": -0.340450637396267
+    "three_inst_ratio": 7.577584135028697,
+    "three_inst_ratio_change_20": -0.34257496320355507
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2206",
+    "name": "三陽工業",
+    "market": "TWSE",
+    "foreign_ratio": 7.2,
+    "trust_ratio": 0.4172052498472196,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.61720524984722,
+    "three_inst_ratio_change_20": -0.3085335212677931
   }
 ]

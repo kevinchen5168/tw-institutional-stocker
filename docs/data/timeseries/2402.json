@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 3.1770640150254916
   },
   {
+    "date": "2025-12-25",
+    "code": "2402",
+    "name": "毅嘉",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.830147302564537
+  },
+  {
     "date": "2025-12-26",
     "code": "2402",
     "name": "毅嘉",
@@ -789,7 +800,7 @@
     "trust_ratio": -1.1627886824099691,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.44721131759003,
-    "three_inst_ratio_change_20": 2.617064015025493
+    "three_inst_ratio_change_20": 2.7670640150254915
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": -1.1627886824099691,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.047211317590031,
-    "three_inst_ratio_change_20": 2.367064015025493
+    "three_inst_ratio_change_20": 2.4670640150254943
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2402",
+    "name": "毅嘉",
+    "market": "TWSE",
+    "foreign_ratio": 15.55,
+    "trust_ratio": -1.1627886824099691,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.387211317590031,
+    "three_inst_ratio_change_20": 2.0970640150254933
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.05084460184361639
   },
   {
+    "date": "2025-12-25",
+    "code": "2401",
+    "name": "凌陽",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.868446018436181
+  },
+  {
     "date": "2025-12-26",
     "code": "2401",
     "name": "凌陽",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.007601416592563694,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.867601416592564,
-    "three_inst_ratio_change_20": -0.000844601843617454
+    "three_inst_ratio_change_20": -0.06084460184361795
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.007601416592563694,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.957601416592563,
-    "three_inst_ratio_change_20": 0.029155398156381906
+    "three_inst_ratio_change_20": 0.12915539815638155
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2401",
+    "name": "凌陽",
+    "market": "TWSE",
+    "foreign_ratio": 8.92,
+    "trust_ratio": 0.006756814748945506,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.926756814748945,
+    "three_inst_ratio_change_20": 0.08831079631276317
   }
 ]

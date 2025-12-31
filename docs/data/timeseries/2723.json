@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -1.0188888888888883
   },
   {
+    "date": "2025-12-25",
+    "code": "2723",
+    "name": "美食-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -46.47277777777778
+  },
+  {
     "date": "2025-12-26",
     "code": "2723",
     "name": "美食-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": -0.0044444444444444444,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 45.455555555555556,
-    "three_inst_ratio_change_20": -1.0172222222222231
+    "three_inst_ratio_change_20": -0.8972222222222186
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": -0.0044444444444444444,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 45.47555555555555,
-    "three_inst_ratio_change_20": -0.8772222222222226
+    "three_inst_ratio_change_20": -0.7572222222222251
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2723",
+    "name": "美食-KY",
+    "market": "TWSE",
+    "foreign_ratio": 45.49,
+    "trust_ratio": -0.0044444444444444444,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.48555555555556,
+    "three_inst_ratio_change_20": -0.6972222222222157
   }
 ]

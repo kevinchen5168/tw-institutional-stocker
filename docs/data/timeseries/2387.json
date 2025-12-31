@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.43841612862816426
   },
   {
+    "date": "2025-12-25",
+    "code": "2387",
+    "name": "精元",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -11.644229049860531
+  },
+  {
     "date": "2025-12-26",
     "code": "2387",
     "name": "精元",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.025812921232367655,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.145812921232366,
-    "three_inst_ratio_change_20": -0.49841612862816476
+    "three_inst_ratio_change_20": -0.5284161286281641
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 0.023764276690116253,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.113764276690116,
-    "three_inst_ratio_change_20": -0.5604647731704144
+    "three_inst_ratio_change_20": -0.5004647731704139
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2387",
+    "name": "精元",
+    "market": "TWSE",
+    "foreign_ratio": 10.94,
+    "trust_ratio": -0.021818064374977426,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.918181935625022,
+    "three_inst_ratio_change_20": -0.6960471142355082
   }
 ]

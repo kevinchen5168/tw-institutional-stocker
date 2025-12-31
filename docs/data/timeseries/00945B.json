@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 1.2798820343114956
   },
   {
+    "date": "2025-12-25",
+    "code": "00945B",
+    "name": "凱基美國非投等債",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.982713150785051
+  },
+  {
     "date": "2025-12-26",
     "code": "00945B",
     "name": "凱基美國非投等債",
@@ -789,7 +800,7 @@
     "trust_ratio": 3.833945529377816,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.873945529377816,
-    "three_inst_ratio_change_20": -1.1087676214072344
+    "three_inst_ratio_change_20": -1.418767621407235
   },
   {
     "date": "2025-12-29",
@@ -800,6 +811,17 @@
     "trust_ratio": 3.833945529377816,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.933945529377816,
-    "three_inst_ratio_change_20": -1.3587676214072353
+    "three_inst_ratio_change_20": -1.418767621407235
+  },
+  {
+    "date": "2025-12-30",
+    "code": "00945B",
+    "name": "凱基美國非投等債",
+    "market": "TWSE",
+    "foreign_ratio": 1.25,
+    "trust_ratio": 3.718738406062802,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.968738406062802,
+    "three_inst_ratio_change_20": -1.5239747447222483
   }
 ]

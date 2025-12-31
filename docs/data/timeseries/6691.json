@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.7674081873096625
   },
   {
+    "date": "2025-12-25",
+    "code": "6691",
+    "name": "洋基工程",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -18.06523768638063
+  },
+  {
     "date": "2025-12-26",
     "code": "6691",
     "name": "洋基工程",
     "market": "TWSE",
     "foreign_ratio": 17.58,
-    "trust_ratio": 0.9077070821505168,
+    "trust_ratio": 0.8986526309942637,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.487707082150514,
-    "three_inst_ratio_change_20": 0.42246939576988396
+    "three_inst_ratio": 18.47865263099426,
+    "three_inst_ratio_change_20": -0.286585055386368
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "洋基工程",
     "market": "TWSE",
     "foreign_ratio": 17.4,
-    "trust_ratio": 0.9060608183039254,
+    "trust_ratio": 0.8970063671476723,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.306060818303923,
-    "three_inst_ratio_change_20": -0.45917686807670677
+    "three_inst_ratio": 18.29700636714767,
+    "three_inst_ratio_change_20": -0.18823131923295833
+  },
+  {
+    "date": "2025-12-30",
+    "code": "6691",
+    "name": "洋基工程",
+    "market": "TWSE",
+    "foreign_ratio": 17.22,
+    "trust_ratio": 1.000720989482934,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.220720989482935,
+    "three_inst_ratio_change_20": -0.06850993959372431
   }
 ]

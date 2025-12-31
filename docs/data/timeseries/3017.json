@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.7165607472813633
   },
   {
+    "date": "2025-12-25",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -51.601793687661214
+  },
+  {
     "date": "2025-12-26",
     "code": "3017",
     "name": "奇鋐",
     "market": "TWSE",
     "foreign_ratio": 49.78,
-    "trust_ratio": 2.818909019652067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 52.59890901965207,
-    "three_inst_ratio_change_20": 0.9971153319908552
+    "trust_ratio": 2.823056717289454,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 52.66952292787615,
+    "three_inst_ratio_change_20": 1.2710783128413965
   },
   {
     "date": "2025-12-29",
@@ -797,9 +808,20 @@
     "name": "奇鋐",
     "market": "TWSE",
     "foreign_ratio": 50.11,
-    "trust_ratio": 2.827152890732587,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 52.937152890732584,
-    "three_inst_ratio_change_20": 1.5387082756978288
+    "trust_ratio": 2.831300588369974,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 53.007766798956666,
+    "three_inst_ratio_change_20": 1.632882174882198
+  },
+  {
+    "date": "2025-12-30",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 50.13,
+    "trust_ratio": 2.7982854304183182,
+    "dealer_ratio": 0.06646621058669319,
+    "three_inst_ratio": 52.99475164100502,
+    "three_inst_ratio_change_20": 1.70106583589709
   }
 ]
