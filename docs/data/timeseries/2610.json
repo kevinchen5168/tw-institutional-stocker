@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.674614835620094,
     "three_inst_ratio_change_20": -0.4007138758578854
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2610",
+    "name": "華航",
+    "market": "TWSE",
+    "foreign_ratio": 13.54,
+    "trust_ratio": 1.1219878642134005,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.6619878642134,
+    "three_inst_ratio_change_20": -0.30871857866648256
   }
 ]

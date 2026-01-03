@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.681033266615152,
     "three_inst_ratio_change_20": 0.019524367355964856
+  },
+  {
+    "date": "2026-01-02",
+    "code": "1712",
+    "name": "興農",
+    "market": "TWSE",
+    "foreign_ratio": 14.79,
+    "trust_ratio": -0.06896673338484673,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.721033266615152,
+    "three_inst_ratio_change_20": 0.08952436735596514
   }
 ]
