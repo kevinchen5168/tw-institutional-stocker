@@ -357,6 +357,13 @@
     "change": 50.40652845575349
   },
   {
+    "code": "8466",
+    "name": "美吉吉-KY",
+    "market": "TWSE",
+    "three_inst_ratio": 50.29,
+    "change": 50.29
+  },
+  {
     "code": "3665",
     "name": "貿聯-KY",
     "market": "TWSE",
@@ -768,6 +775,13 @@
     "market": "TWSE",
     "three_inst_ratio": 32.986386402271066,
     "change": 32.986386402271066
+  },
+  {
+    "code": "1521",
+    "name": "大億",
+    "market": "TWSE",
+    "three_inst_ratio": 32.96,
+    "change": 32.96
   },
   {
     "code": "2891",
@@ -1260,6 +1274,13 @@
     "change": 22.794419166243888
   },
   {
+    "code": "2207",
+    "name": "和泰車",
+    "market": "TWSE",
+    "three_inst_ratio": 22.682808464810932,
+    "change": 22.682808464810932
+  },
+  {
     "code": "8081",
     "name": "致新",
     "market": "TWSE",
@@ -1377,26 +1398,5 @@
     "market": "TWSE",
     "three_inst_ratio": 21.28000170064726,
     "change": 21.28000170064726
-  },
-  {
-    "code": "4755",
-    "name": "三福化",
-    "market": "TWSE",
-    "three_inst_ratio": 21.186915377435305,
-    "change": 21.186915377435305
-  },
-  {
-    "code": "2886",
-    "name": "兆豐金",
-    "market": "TWSE",
-    "three_inst_ratio": 20.936524231707715,
-    "change": 20.936524231707715
-  },
-  {
-    "code": "4967",
-    "name": "十銓",
-    "market": "TWSE",
-    "three_inst_ratio": 20.93202040297687,
-    "change": 20.93202040297687
   }
 ]
