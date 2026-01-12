@@ -644,17 +644,17 @@
     "change": 1.0099999999999998
   },
   {
-    "code": "00666R",
-    "name": "富邦恒生國企反1",
-    "market": "TWSE",
-    "three_inst_ratio": 6.17,
-    "change": 1.0
-  },
-  {
     "code": "1708",
     "name": "東鹼",
     "market": "TWSE",
     "three_inst_ratio": 10.257349149945998,
+    "change": 1.0
+  },
+  {
+    "code": "00666R",
+    "name": "富邦恒生國企反1",
+    "market": "TWSE",
+    "three_inst_ratio": 6.17,
     "change": 1.0
   },
   {
@@ -987,10 +987,10 @@
     "change": 0.5419915635877937
   },
   {
-    "code": "2613",
-    "name": "中櫃",
+    "code": "2250",
+    "name": "IKKA-KY",
     "market": "TWSE",
-    "three_inst_ratio": 1.68,
+    "three_inst_ratio": 7.16,
     "change": 0.54
   },
   {
@@ -1001,10 +1001,10 @@
     "change": 0.54
   },
   {
-    "code": "2250",
-    "name": "IKKA-KY",
+    "code": "2613",
+    "name": "中櫃",
     "market": "TWSE",
-    "three_inst_ratio": 7.16,
+    "three_inst_ratio": 1.68,
     "change": 0.54
   },
   {
@@ -1022,17 +1022,17 @@
     "change": 0.5199999999999998
   },
   {
-    "code": "00980A",
-    "name": "主動野村臺灣優選",
-    "market": "TWSE",
-    "three_inst_ratio": 1.03,
-    "change": 0.51
-  },
-  {
     "code": "00688L",
     "name": "國泰20年美債正2",
     "market": "TWSE",
     "three_inst_ratio": 1.05,
+    "change": 0.51
+  },
+  {
+    "code": "00980A",
+    "name": "主動野村臺灣優選",
+    "market": "TWSE",
+    "three_inst_ratio": 1.03,
     "change": 0.51
   },
   {
@@ -1218,17 +1218,17 @@
     "change": 0.41692537168058297
   },
   {
-    "code": "1524",
-    "name": "耿鼎",
-    "market": "TWSE",
-    "three_inst_ratio": 1.62,
-    "change": 0.3900000000000001
-  },
-  {
     "code": "00908",
     "name": "富邦入息REITs+",
     "market": "TWSE",
     "three_inst_ratio": 3.02,
+    "change": 0.3900000000000001
+  },
+  {
+    "code": "1524",
+    "name": "耿鼎",
+    "market": "TWSE",
+    "three_inst_ratio": 1.62,
     "change": 0.3900000000000001
   },
   {

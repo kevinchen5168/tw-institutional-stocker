@@ -791,17 +791,17 @@
     "change": -1.2753703022253484
   },
   {
-    "code": "3028",
-    "name": "增你強",
-    "market": "TWSE",
-    "three_inst_ratio": 8.09,
-    "change": -1.2699999999999996
-  },
-  {
     "code": "1732",
     "name": "毛寶",
     "market": "TWSE",
     "three_inst_ratio": 4.32,
+    "change": -1.2699999999999996
+  },
+  {
+    "code": "3028",
+    "name": "增你強",
+    "market": "TWSE",
+    "three_inst_ratio": 8.09,
     "change": -1.2699999999999996
   },
   {
@@ -1379,17 +1379,17 @@
     "change": -0.74
   },
   {
-    "code": "6269",
-    "name": "台郡",
-    "market": "TWSE",
-    "three_inst_ratio": 17.273503149388283,
-    "change": -0.7300000000000004
-  },
-  {
     "code": "2547",
     "name": "日勝生",
     "market": "TWSE",
     "three_inst_ratio": 15.427581104334354,
+    "change": -0.7300000000000004
+  },
+  {
+    "code": "6269",
+    "name": "台郡",
+    "market": "TWSE",
+    "three_inst_ratio": 17.273503149388283,
     "change": -0.7300000000000004
   },
   {

@@ -322,17 +322,17 @@
     "change": -1.0899999999999999
   },
   {
-    "code": "2369",
-    "name": "菱生",
-    "market": "TWSE",
-    "three_inst_ratio": 14.36,
-    "change": -1.08
-  },
-  {
     "code": "00894",
     "name": "中信小資高價30",
     "market": "TWSE",
     "three_inst_ratio": 0.77,
+    "change": -1.08
+  },
+  {
+    "code": "2369",
+    "name": "菱生",
+    "market": "TWSE",
+    "three_inst_ratio": 14.36,
     "change": -1.08
   },
   {
@@ -679,17 +679,17 @@
     "change": -0.67
   },
   {
-    "code": "3645",
-    "name": "達邁",
-    "market": "TWSE",
-    "three_inst_ratio": 8.48978185884987,
-    "change": -0.6699999999999999
-  },
-  {
     "code": "3312",
     "name": "弘憶股",
     "market": "TWSE",
     "three_inst_ratio": 1.25,
+    "change": -0.6699999999999999
+  },
+  {
+    "code": "3645",
+    "name": "達邁",
+    "market": "TWSE",
+    "three_inst_ratio": 8.48978185884987,
     "change": -0.6699999999999999
   },
   {
@@ -847,17 +847,17 @@
     "change": -0.5429396984872921
   },
   {
-    "code": "2464",
-    "name": "盟立",
-    "market": "TWSE",
-    "three_inst_ratio": 1.1504843759077505,
-    "change": -0.54
-  },
-  {
     "code": "00875",
     "name": "國泰網路資安",
     "market": "TWSE",
     "three_inst_ratio": 1.73,
+    "change": -0.54
+  },
+  {
+    "code": "2464",
+    "name": "盟立",
+    "market": "TWSE",
+    "three_inst_ratio": 1.1504843759077505,
     "change": -0.54
   },
   {
@@ -1253,17 +1253,17 @@
     "change": -0.3743058038050009
   },
   {
-    "code": "2461",
-    "name": "光群雷",
-    "market": "TWSE",
-    "three_inst_ratio": 4.46,
-    "change": -0.3700000000000001
-  },
-  {
     "code": "00737",
     "name": "國泰AI機器人",
     "market": "TWSE",
     "three_inst_ratio": 1.22,
+    "change": -0.3700000000000001
+  },
+  {
+    "code": "2461",
+    "name": "光群雷",
+    "market": "TWSE",
+    "three_inst_ratio": 4.46,
     "change": -0.3700000000000001
   },
   {
@@ -1351,17 +1351,17 @@
     "change": -0.3400000000000034
   },
   {
-    "code": "8011",
-    "name": "台通",
-    "market": "TWSE",
-    "three_inst_ratio": 5.02,
-    "change": -0.33000000000000007
-  },
-  {
     "code": "3032",
     "name": "偉訓",
     "market": "TWSE",
     "three_inst_ratio": 5.898474046301338,
+    "change": -0.33000000000000007
+  },
+  {
+    "code": "1732",
+    "name": "毛寶",
+    "market": "TWSE",
+    "three_inst_ratio": 4.32,
     "change": -0.33000000000000007
   },
   {
@@ -1372,17 +1372,17 @@
     "change": -0.33000000000000007
   },
   {
+    "code": "8011",
+    "name": "台通",
+    "market": "TWSE",
+    "three_inst_ratio": 5.02,
+    "change": -0.33000000000000007
+  },
+  {
     "code": "6416",
     "name": "瑞祺電通",
     "market": "TWSE",
     "three_inst_ratio": 3.26,
-    "change": -0.33000000000000007
-  },
-  {
-    "code": "1732",
-    "name": "毛寶",
-    "market": "TWSE",
-    "three_inst_ratio": 4.32,
     "change": -0.33000000000000007
   },
   {

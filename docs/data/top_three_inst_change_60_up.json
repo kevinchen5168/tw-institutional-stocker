@@ -1029,17 +1029,17 @@
     "change": 1.4583726191712607
   },
   {
-    "code": "00939",
-    "name": "統一台灣高息動能",
-    "market": "TWSE",
-    "three_inst_ratio": 1.94,
-    "change": 1.45
-  },
-  {
     "code": "00908",
     "name": "富邦入息REITs+",
     "market": "TWSE",
     "three_inst_ratio": 3.02,
+    "change": 1.45
+  },
+  {
+    "code": "00939",
+    "name": "統一台灣高息動能",
+    "market": "TWSE",
+    "three_inst_ratio": 1.94,
     "change": 1.45
   },
   {
@@ -1351,17 +1351,17 @@
     "change": 1.0027485637813136
   },
   {
-    "code": "00642U",
-    "name": "期元大S&P石油",
-    "market": "TWSE",
-    "three_inst_ratio": 1.44,
-    "change": 1.0
-  },
-  {
     "code": "00930",
     "name": "永豐ESG低碳高息",
     "market": "TWSE",
     "three_inst_ratio": 1.76,
+    "change": 1.0
+  },
+  {
+    "code": "00642U",
+    "name": "期元大S&P石油",
+    "market": "TWSE",
+    "three_inst_ratio": 1.44,
     "change": 1.0
   },
   {
